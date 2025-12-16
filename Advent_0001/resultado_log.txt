@@ -1,0 +1,4574 @@
+POSIÇÃO INICIAL: 50
+================================
+Movimento: L4      | 50 -> 46 
+Movimento: R49     | 46 -> 95 
+Movimento: L25     | 95 -> 70 
+Movimento: R16     | 70 -> 86 
+Movimento: R45     | 86 -> 31 
+Movimento: R41     | 31 -> 72 
+Movimento: R19     | 72 -> 91 
+Movimento: R20     | 91 -> 11 
+Movimento: R22     | 11 -> 33 
+Movimento: L16     | 33 -> 17 
+Movimento: R42     | 17 -> 59 
+Movimento: R5      | 59 -> 64 
+Movimento: L29     | 64 -> 35 
+Movimento: L5      | 35 -> 30 
+Movimento: R1      | 30 -> 31 
+Movimento: R6      | 31 -> 37 
+Movimento: R30     | 37 -> 67 
+Movimento: R5      | 67 -> 72 
+Movimento: R11     | 72 -> 83 
+Movimento: R44     | 83 -> 27 
+Movimento: L13     | 27 -> 14 
+Movimento: R28     | 14 -> 42 
+Movimento: R36     | 42 -> 78 
+Movimento: R45     | 78 -> 23 
+Movimento: L22     | 23 -> 01 
+Movimento: L6      | 01 -> 95 
+Movimento: L39     | 95 -> 56 
+Movimento: R16     | 56 -> 72 
+Movimento: R20     | 72 -> 92 
+Movimento: L12     | 92 -> 80 
+Movimento: R2      | 80 -> 82 
+Movimento: L29     | 82 -> 53 
+Movimento: L42     | 53 -> 11 
+Movimento: L22     | 11 -> 89 
+Movimento: L7      | 89 -> 82 
+Movimento: R13     | 82 -> 95 
+Movimento: L38     | 95 -> 57 
+Movimento: L26     | 57 -> 31 
+Movimento: L10     | 31 -> 21 
+Movimento: R35     | 21 -> 56 
+Movimento: R30     | 56 -> 86 
+Movimento: R10     | 86 -> 96 
+Movimento: R13     | 96 -> 09 
+Movimento: L37     | 09 -> 72 
+Movimento: L3      | 72 -> 69 
+Movimento: L48     | 69 -> 21 
+Movimento: L12     | 21 -> 09 
+Movimento: R20     | 09 -> 29 
+Movimento: L16     | 29 -> 13 
+Movimento: R87     | 13 -> 00 <-- ZERO
+Movimento: R82     | 00 -> 82 
+Movimento: R18     | 82 -> 00 <-- ZERO
+Movimento: L76     | 00 -> 24 
+Movimento: L94     | 24 -> 30 
+Movimento: R95     | 30 -> 25 
+Movimento: L25     | 25 -> 00 <-- ZERO
+Movimento: R77     | 00 -> 77 
+Movimento: R23     | 77 -> 00 <-- ZERO
+Movimento: L28     | 00 -> 72 
+Movimento: R28     | 72 -> 00 <-- ZERO
+Movimento: L65     | 00 -> 35 
+Movimento: R65     | 35 -> 00 <-- ZERO
+Movimento: L5      | 00 -> 95 
+Movimento: R60     | 95 -> 55 
+Movimento: R33     | 55 -> 88 
+Movimento: L88     | 88 -> 00 <-- ZERO
+Movimento: L67     | 00 -> 33 
+Movimento: R96     | 33 -> 29 
+Movimento: R71     | 29 -> 00 <-- ZERO
+Movimento: L57     | 00 -> 43 
+Movimento: L70     | 43 -> 73 
+Movimento: L7      | 73 -> 66 
+Movimento: R72     | 66 -> 38 
+Movimento: L88     | 38 -> 50 
+Movimento: L22     | 50 -> 28 
+Movimento: R59     | 28 -> 87 
+Movimento: L87     | 87 -> 00 <-- ZERO
+Movimento: L52     | 00 -> 48 
+Movimento: L35     | 48 -> 13 
+Movimento: R87     | 13 -> 00 <-- ZERO
+Movimento: L61     | 00 -> 39 
+Movimento: R83     | 39 -> 22 
+Movimento: R82     | 22 -> 04 
+Movimento: L57     | 04 -> 47 
+Movimento: L19     | 47 -> 28 
+Movimento: L28     | 28 -> 00 <-- ZERO
+Movimento: L55     | 00 -> 45 
+Movimento: R55     | 45 -> 00 <-- ZERO
+Movimento: L54     | 00 -> 46 
+Movimento: L5      | 46 -> 41 
+Movimento: L36     | 41 -> 05 
+Movimento: L34     | 05 -> 71 
+Movimento: L71     | 71 -> 00 <-- ZERO
+Movimento: L21     | 00 -> 79 
+Movimento: L1      | 79 -> 78 
+Movimento: R22     | 78 -> 00 <-- ZERO
+Movimento: R1      | 00 -> 01 
+Movimento: L81     | 01 -> 20 
+Movimento: R89     | 20 -> 09 
+Movimento: L3      | 09 -> 06 
+Movimento: R3      | 06 -> 09 
+Movimento: R33     | 09 -> 42 
+Movimento: R53     | 42 -> 95 
+Movimento: L43     | 95 -> 52 
+Movimento: R297    | 52 -> 49 
+Movimento: R12     | 49 -> 61 
+Movimento: L61     | 61 -> 00 <-- ZERO
+Movimento: R49     | 00 -> 49 
+Movimento: R851    | 49 -> 00 <-- ZERO
+Movimento: R22     | 00 -> 22 
+Movimento: L22     | 22 -> 00 <-- ZERO
+Movimento: R57     | 00 -> 57 
+Movimento: R95     | 57 -> 52 
+Movimento: R84     | 52 -> 36 
+Movimento: L44     | 36 -> 92 
+Movimento: R77     | 92 -> 69 
+Movimento: L52     | 69 -> 17 
+Movimento: R183    | 17 -> 00 <-- ZERO
+Movimento: R85     | 00 -> 85 
+Movimento: L40     | 85 -> 45 
+Movimento: R55     | 45 -> 00 <-- ZERO
+Movimento: R85     | 00 -> 85 
+Movimento: L485    | 85 -> 00 <-- ZERO
+Movimento: L62     | 00 -> 38 
+Movimento: L90     | 38 -> 48 
+Movimento: R81     | 48 -> 29 
+Movimento: L29     | 29 -> 00 <-- ZERO
+Movimento: L56     | 00 -> 44 
+Movimento: R49     | 44 -> 93 
+Movimento: R7      | 93 -> 00 <-- ZERO
+Movimento: R57     | 00 -> 57 
+Movimento: R56     | 57 -> 13 
+Movimento: L13     | 13 -> 00 <-- ZERO
+Movimento: R61     | 00 -> 61 
+Movimento: L61     | 61 -> 00 <-- ZERO
+Movimento: L90     | 00 -> 10 
+Movimento: L35     | 10 -> 75 
+Movimento: R28     | 75 -> 03 
+Movimento: L95     | 03 -> 08 
+Movimento: L73     | 08 -> 35 
+Movimento: L14     | 35 -> 21 
+Movimento: L21     | 21 -> 00 <-- ZERO
+Movimento: L79     | 00 -> 21 
+Movimento: L4      | 21 -> 17 
+Movimento: R67     | 17 -> 84 
+Movimento: L84     | 84 -> 00 <-- ZERO
+Movimento: R69     | 00 -> 69 
+Movimento: R23     | 69 -> 92 
+Movimento: L13     | 92 -> 79 
+Movimento: R21     | 79 -> 00 <-- ZERO
+Movimento: R611    | 00 -> 11 
+Movimento: L22     | 11 -> 89 
+Movimento: L92     | 89 -> 97 
+Movimento: L86     | 97 -> 11 
+Movimento: R5      | 11 -> 16 
+Movimento: L79     | 16 -> 37 
+Movimento: R63     | 37 -> 00 <-- ZERO
+Movimento: R85     | 00 -> 85 
+Movimento: L263    | 85 -> 22 
+Movimento: R27     | 22 -> 49 
+Movimento: L56     | 49 -> 93 
+Movimento: R83     | 93 -> 76 
+Movimento: R93     | 76 -> 69 
+Movimento: R35     | 69 -> 04 
+Movimento: L67     | 04 -> 37 
+Movimento: R69     | 37 -> 06 
+Movimento: L67     | 06 -> 39 
+Movimento: L18     | 39 -> 21 
+Movimento: R89     | 21 -> 10 
+Movimento: R17     | 10 -> 27 
+Movimento: L27     | 27 -> 00 <-- ZERO
+Movimento: R15     | 00 -> 15 
+Movimento: L22     | 15 -> 93 
+Movimento: R30     | 93 -> 23 
+Movimento: L17     | 23 -> 06 
+Movimento: R12     | 06 -> 18 
+Movimento: L18     | 18 -> 00 <-- ZERO
+Movimento: L46     | 00 -> 54 
+Movimento: L54     | 54 -> 00 <-- ZERO
+Movimento: R48     | 00 -> 48 
+Movimento: R18     | 48 -> 66 
+Movimento: R96     | 66 -> 62 
+Movimento: L62     | 62 -> 00 <-- ZERO
+Movimento: R40     | 00 -> 40 
+Movimento: R60     | 40 -> 00 <-- ZERO
+Movimento: R5      | 00 -> 05 
+Movimento: R16     | 05 -> 21 
+Movimento: R79     | 21 -> 00 <-- ZERO
+Movimento: L99     | 00 -> 01 
+Movimento: L1      | 01 -> 00 <-- ZERO
+Movimento: L53     | 00 -> 47 
+Movimento: L47     | 47 -> 00 <-- ZERO
+Movimento: L33     | 00 -> 67 
+Movimento: L85     | 67 -> 82 
+Movimento: L501    | 82 -> 81 
+Movimento: R808    | 81 -> 89 
+Movimento: R511    | 89 -> 00 <-- ZERO
+Movimento: L26     | 00 -> 74 
+Movimento: R126    | 74 -> 00 <-- ZERO
+Movimento: R373    | 00 -> 73 
+Movimento: R27     | 73 -> 00 <-- ZERO
+Movimento: L812    | 00 -> 88 
+Movimento: L29     | 88 -> 59 
+Movimento: L85     | 59 -> 74 
+Movimento: L74     | 74 -> 00 <-- ZERO
+Movimento: R88     | 00 -> 88 
+Movimento: L88     | 88 -> 00 <-- ZERO
+Movimento: L929    | 00 -> 71 
+Movimento: R929    | 71 -> 00 <-- ZERO
+Movimento: L32     | 00 -> 68 
+Movimento: L68     | 68 -> 00 <-- ZERO
+Movimento: L43     | 00 -> 57 
+Movimento: L68     | 57 -> 89 
+Movimento: R65     | 89 -> 54 
+Movimento: L71     | 54 -> 83 
+Movimento: R75     | 83 -> 58 
+Movimento: L25     | 58 -> 33 
+Movimento: L44     | 33 -> 89 
+Movimento: L93     | 89 -> 96 
+Movimento: R15     | 96 -> 11 
+Movimento: R89     | 11 -> 00 <-- ZERO
+Movimento: R88     | 00 -> 88 
+Movimento: L88     | 88 -> 00 <-- ZERO
+Movimento: L793    | 00 -> 07 
+Movimento: R93     | 07 -> 00 <-- ZERO
+Movimento: R1      | 00 -> 01 
+Movimento: R386    | 01 -> 87 
+Movimento: L53     | 87 -> 34 
+Movimento: R503    | 34 -> 37 
+Movimento: L37     | 37 -> 00 <-- ZERO
+Movimento: R41     | 00 -> 41 
+Movimento: L64     | 41 -> 77 
+Movimento: L813    | 77 -> 64 
+Movimento: R949    | 64 -> 13 
+Movimento: L37     | 13 -> 76 
+Movimento: L76     | 76 -> 00 <-- ZERO
+Movimento: L28     | 00 -> 72 
+Movimento: L354    | 72 -> 18 
+Movimento: L86     | 18 -> 32 
+Movimento: R39     | 32 -> 71 
+Movimento: L871    | 71 -> 00 <-- ZERO
+Movimento: R61     | 00 -> 61 
+Movimento: R22     | 61 -> 83 
+Movimento: R17     | 83 -> 00 <-- ZERO
+Movimento: R88     | 00 -> 88 
+Movimento: L78     | 88 -> 10 
+Movimento: R17     | 10 -> 27 
+Movimento: R73     | 27 -> 00 <-- ZERO
+Movimento: R48     | 00 -> 48 
+Movimento: R11     | 48 -> 59 
+Movimento: R60     | 59 -> 19 
+Movimento: L19     | 19 -> 00 <-- ZERO
+Movimento: R531    | 00 -> 31 
+Movimento: R49     | 31 -> 80 
+Movimento: R44     | 80 -> 24 
+Movimento: R667    | 24 -> 91 
+Movimento: R77     | 91 -> 68 
+Movimento: R532    | 68 -> 00 <-- ZERO
+Movimento: R799    | 00 -> 99 
+Movimento: R1      | 99 -> 00 <-- ZERO
+Movimento: L84     | 00 -> 16 
+Movimento: L16     | 16 -> 00 <-- ZERO
+Movimento: L40     | 00 -> 60 
+Movimento: R49     | 60 -> 09 
+Movimento: L89     | 09 -> 20 
+Movimento: R80     | 20 -> 00 <-- ZERO
+Movimento: L735    | 00 -> 65 
+Movimento: L365    | 65 -> 00 <-- ZERO
+Movimento: R44     | 00 -> 44 
+Movimento: R32     | 44 -> 76 
+Movimento: R79     | 76 -> 55 
+Movimento: R952    | 55 -> 07 
+Movimento: R893    | 07 -> 00 <-- ZERO
+Movimento: L21     | 00 -> 79 
+Movimento: L36     | 79 -> 43 
+Movimento: R157    | 43 -> 00 <-- ZERO
+Movimento: R53     | 00 -> 53 
+Movimento: R47     | 53 -> 00 <-- ZERO
+Movimento: R30     | 00 -> 30 
+Movimento: L30     | 30 -> 00 <-- ZERO
+Movimento: R28     | 00 -> 28 
+Movimento: L49     | 28 -> 79 
+Movimento: R22     | 79 -> 01 
+Movimento: R43     | 01 -> 44 
+Movimento: R45     | 44 -> 89 
+Movimento: L89     | 89 -> 00 <-- ZERO
+Movimento: R116    | 00 -> 16 
+Movimento: R90     | 16 -> 06 
+Movimento: L6      | 06 -> 00 <-- ZERO
+Movimento: L11     | 00 -> 89 
+Movimento: L7      | 89 -> 82 
+Movimento: R62     | 82 -> 44 
+Movimento: L671    | 44 -> 73 
+Movimento: R31     | 73 -> 04 
+Movimento: L8      | 04 -> 96 
+Movimento: R4      | 96 -> 00 <-- ZERO
+Movimento: L77     | 00 -> 23 
+Movimento: R77     | 23 -> 00 <-- ZERO
+Movimento: L32     | 00 -> 68 
+Movimento: R376    | 68 -> 44 
+Movimento: R956    | 44 -> 00 <-- ZERO
+Movimento: R19     | 00 -> 19 
+Movimento: L91     | 19 -> 28 
+Movimento: L589    | 28 -> 39 
+Movimento: L484    | 39 -> 55 
+Movimento: R68     | 55 -> 23 
+Movimento: L453    | 23 -> 70 
+Movimento: L24     | 70 -> 46 
+Movimento: L46     | 46 -> 00 <-- ZERO
+Movimento: L59     | 00 -> 41 
+Movimento: L41     | 41 -> 00 <-- ZERO
+Movimento: R876    | 00 -> 76 
+Movimento: R24     | 76 -> 00 <-- ZERO
+Movimento: R601    | 00 -> 01 
+Movimento: R52     | 01 -> 53 
+Movimento: R47     | 53 -> 00 <-- ZERO
+Movimento: L20     | 00 -> 80 
+Movimento: L56     | 80 -> 24 
+Movimento: L4      | 24 -> 20 
+Movimento: L20     | 20 -> 00 <-- ZERO
+Movimento: R57     | 00 -> 57 
+Movimento: L799    | 57 -> 58 
+Movimento: R42     | 58 -> 00 <-- ZERO
+Movimento: L35     | 00 -> 65 
+Movimento: L36     | 65 -> 29 
+Movimento: L29     | 29 -> 00 <-- ZERO
+Movimento: R93     | 00 -> 93 
+Movimento: R21     | 93 -> 14 
+Movimento: L14     | 14 -> 00 <-- ZERO
+Movimento: L14     | 00 -> 86 
+Movimento: R496    | 86 -> 82 
+Movimento: L982    | 82 -> 00 <-- ZERO
+Movimento: L10     | 00 -> 90 
+Movimento: R39     | 90 -> 29 
+Movimento: L29     | 29 -> 00 <-- ZERO
+Movimento: L118    | 00 -> 82 
+Movimento: L13     | 82 -> 69 
+Movimento: L69     | 69 -> 00 <-- ZERO
+Movimento: R3      | 00 -> 03 
+Movimento: R99     | 03 -> 02 
+Movimento: R98     | 02 -> 00 <-- ZERO
+Movimento: R769    | 00 -> 69 
+Movimento: R95     | 69 -> 64 
+Movimento: R160    | 64 -> 24 
+Movimento: R558    | 24 -> 82 
+Movimento: L82     | 82 -> 00 <-- ZERO
+Movimento: R88     | 00 -> 88 
+Movimento: L35     | 88 -> 53 
+Movimento: R30     | 53 -> 83 
+Movimento: L65     | 83 -> 18 
+Movimento: L217    | 18 -> 01 
+Movimento: R67     | 01 -> 68 
+Movimento: R24     | 68 -> 92 
+Movimento: R51     | 92 -> 43 
+Movimento: R30     | 43 -> 73 
+Movimento: R4      | 73 -> 77 
+Movimento: R52     | 77 -> 29 
+Movimento: R165    | 29 -> 94 
+Movimento: L694    | 94 -> 00 <-- ZERO
+Movimento: R53     | 00 -> 53 
+Movimento: R47     | 53 -> 00 <-- ZERO
+Movimento: L49     | 00 -> 51 
+Movimento: L51     | 51 -> 00 <-- ZERO
+Movimento: R60     | 00 -> 60 
+Movimento: L95     | 60 -> 65 
+Movimento: L65     | 65 -> 00 <-- ZERO
+Movimento: L94     | 00 -> 06 
+Movimento: R94     | 06 -> 00 <-- ZERO
+Movimento: L8      | 00 -> 92 
+Movimento: R7      | 92 -> 99 
+Movimento: L85     | 99 -> 14 
+Movimento: L10     | 14 -> 04 
+Movimento: L895    | 04 -> 09 
+Movimento: L35     | 09 -> 74 
+Movimento: R948    | 74 -> 22 
+Movimento: R14     | 22 -> 36 
+Movimento: L36     | 36 -> 00 <-- ZERO
+Movimento: R17     | 00 -> 17 
+Movimento: L817    | 17 -> 00 <-- ZERO
+Movimento: L52     | 00 -> 48 
+Movimento: R991    | 48 -> 39 
+Movimento: L57     | 39 -> 82 
+Movimento: R23     | 82 -> 05 
+Movimento: R11     | 05 -> 16 
+Movimento: L57     | 16 -> 59 
+Movimento: R70     | 59 -> 29 
+Movimento: L78     | 29 -> 51 
+Movimento: R60     | 51 -> 11 
+Movimento: R67     | 11 -> 78 
+Movimento: L78     | 78 -> 00 <-- ZERO
+Movimento: R59     | 00 -> 59 
+Movimento: R494    | 59 -> 53 
+Movimento: L53     | 53 -> 00 <-- ZERO
+Movimento: L306    | 00 -> 94 
+Movimento: R83     | 94 -> 77 
+Movimento: L77     | 77 -> 00 <-- ZERO
+Movimento: L95     | 00 -> 05 
+Movimento: L33     | 05 -> 72 
+Movimento: L88     | 72 -> 84 
+Movimento: L82     | 84 -> 02 
+Movimento: R98     | 02 -> 00 <-- ZERO
+Movimento: R80     | 00 -> 80 
+Movimento: L80     | 80 -> 00 <-- ZERO
+Movimento: L57     | 00 -> 43 
+Movimento: L43     | 43 -> 00 <-- ZERO
+Movimento: L688    | 00 -> 12 
+Movimento: L12     | 12 -> 00 <-- ZERO
+Movimento: L113    | 00 -> 87 
+Movimento: R94     | 87 -> 81 
+Movimento: L81     | 81 -> 00 <-- ZERO
+Movimento: L65     | 00 -> 35 
+Movimento: R8      | 35 -> 43 
+Movimento: R637    | 43 -> 80 
+Movimento: R85     | 80 -> 65 
+Movimento: R14     | 65 -> 79 
+Movimento: R169    | 79 -> 48 
+Movimento: R2      | 48 -> 50 
+Movimento: L23     | 50 -> 27 
+Movimento: R32     | 27 -> 59 
+Movimento: L63     | 59 -> 96 
+Movimento: R6      | 96 -> 02 
+Movimento: L30     | 02 -> 72 
+Movimento: L32     | 72 -> 40 
+Movimento: R60     | 40 -> 00 <-- ZERO
+Movimento: L64     | 00 -> 36 
+Movimento: R67     | 36 -> 03 
+Movimento: R27     | 03 -> 30 
+Movimento: R71     | 30 -> 01 
+Movimento: L784    | 01 -> 17 
+Movimento: R85     | 17 -> 02 
+Movimento: R147    | 02 -> 49 
+Movimento: R48     | 49 -> 97 
+Movimento: R3      | 97 -> 00 <-- ZERO
+Movimento: R83     | 00 -> 83 
+Movimento: R196    | 83 -> 79 
+Movimento: L63     | 79 -> 16 
+Movimento: R5      | 16 -> 21 
+Movimento: L21     | 21 -> 00 <-- ZERO
+Movimento: L64     | 00 -> 36 
+Movimento: R254    | 36 -> 90 
+Movimento: R10     | 90 -> 00 <-- ZERO
+Movimento: R51     | 00 -> 51 
+Movimento: R49     | 51 -> 00 <-- ZERO
+Movimento: L32     | 00 -> 68 
+Movimento: R93     | 68 -> 61 
+Movimento: R39     | 61 -> 00 <-- ZERO
+Movimento: R95     | 00 -> 95 
+Movimento: R45     | 95 -> 40 
+Movimento: L89     | 40 -> 51 
+Movimento: L51     | 51 -> 00 <-- ZERO
+Movimento: L97     | 00 -> 03 
+Movimento: R348    | 03 -> 51 
+Movimento: R70     | 51 -> 21 
+Movimento: L17     | 21 -> 04 
+Movimento: R96     | 04 -> 00 <-- ZERO
+Movimento: R471    | 00 -> 71 
+Movimento: L96     | 71 -> 75 
+Movimento: L75     | 75 -> 00 <-- ZERO
+Movimento: L48     | 00 -> 52 
+Movimento: R59     | 52 -> 11 
+Movimento: R89     | 11 -> 00 <-- ZERO
+Movimento: R335    | 00 -> 35 
+Movimento: L35     | 35 -> 00 <-- ZERO
+Movimento: L59     | 00 -> 41 
+Movimento: R77     | 41 -> 18 
+Movimento: L718    | 18 -> 00 <-- ZERO
+Movimento: L60     | 00 -> 40 
+Movimento: R60     | 40 -> 00 <-- ZERO
+Movimento: L65     | 00 -> 35 
+Movimento: R65     | 35 -> 00 <-- ZERO
+Movimento: R53     | 00 -> 53 
+Movimento: L53     | 53 -> 00 <-- ZERO
+Movimento: R23     | 00 -> 23 
+Movimento: R68     | 23 -> 91 
+Movimento: L643    | 91 -> 48 
+Movimento: R23     | 48 -> 71 
+Movimento: R99     | 71 -> 70 
+Movimento: R835    | 70 -> 05 
+Movimento: R434    | 05 -> 39 
+Movimento: L86     | 39 -> 53 
+Movimento: R90     | 53 -> 43 
+Movimento: R32     | 43 -> 75 
+Movimento: R25     | 75 -> 00 <-- ZERO
+Movimento: L94     | 00 -> 06 
+Movimento: L351    | 06 -> 55 
+Movimento: L41     | 55 -> 14 
+Movimento: L33     | 14 -> 81 
+Movimento: L81     | 81 -> 00 <-- ZERO
+Movimento: L37     | 00 -> 63 
+Movimento: R37     | 63 -> 00 <-- ZERO
+Movimento: L749    | 00 -> 51 
+Movimento: L49     | 51 -> 02 
+Movimento: R29     | 02 -> 31 
+Movimento: L51     | 31 -> 80 
+Movimento: L13     | 80 -> 67 
+Movimento: R13     | 67 -> 80 
+Movimento: L80     | 80 -> 00 <-- ZERO
+Movimento: L58     | 00 -> 42 
+Movimento: R58     | 42 -> 00 <-- ZERO
+Movimento: R76     | 00 -> 76 
+Movimento: L98     | 76 -> 78 
+Movimento: L78     | 78 -> 00 <-- ZERO
+Movimento: L17     | 00 -> 83 
+Movimento: L60     | 83 -> 23 
+Movimento: R77     | 23 -> 00 <-- ZERO
+Movimento: R409    | 00 -> 09 
+Movimento: R334    | 09 -> 43 
+Movimento: L43     | 43 -> 00 <-- ZERO
+Movimento: L74     | 00 -> 26 
+Movimento: L3      | 26 -> 23 
+Movimento: L28     | 23 -> 95 
+Movimento: L48     | 95 -> 47 
+Movimento: R53     | 47 -> 00 <-- ZERO
+Movimento: L88     | 00 -> 12 
+Movimento: L90     | 12 -> 22 
+Movimento: L61     | 22 -> 61 
+Movimento: L61     | 61 -> 00 <-- ZERO
+Movimento: R99     | 00 -> 99 
+Movimento: R5      | 99 -> 04 
+Movimento: R31     | 04 -> 35 
+Movimento: L326    | 35 -> 09 
+Movimento: L33     | 09 -> 76 
+Movimento: L76     | 76 -> 00 <-- ZERO
+Movimento: R17     | 00 -> 17 
+Movimento: L29     | 17 -> 88 
+Movimento: L88     | 88 -> 00 <-- ZERO
+Movimento: L13     | 00 -> 87 
+Movimento: L61     | 87 -> 26 
+Movimento: L26     | 26 -> 00 <-- ZERO
+Movimento: R17     | 00 -> 17 
+Movimento: R62     | 17 -> 79 
+Movimento: L79     | 79 -> 00 <-- ZERO
+Movimento: R12     | 00 -> 12 
+Movimento: R88     | 12 -> 00 <-- ZERO
+Movimento: R46     | 00 -> 46 
+Movimento: R84     | 46 -> 30 
+Movimento: L30     | 30 -> 00 <-- ZERO
+Movimento: R58     | 00 -> 58 
+Movimento: L938    | 58 -> 20 
+Movimento: R80     | 20 -> 00 <-- ZERO
+Movimento: R8      | 00 -> 08 
+Movimento: R64     | 08 -> 72 
+Movimento: L72     | 72 -> 00 <-- ZERO
+Movimento: L42     | 00 -> 58 
+Movimento: L414    | 58 -> 44 
+Movimento: L11     | 44 -> 33 
+Movimento: L233    | 33 -> 00 <-- ZERO
+Movimento: L31     | 00 -> 69 
+Movimento: L169    | 69 -> 00 <-- ZERO
+Movimento: R52     | 00 -> 52 
+Movimento: L52     | 52 -> 00 <-- ZERO
+Movimento: L43     | 00 -> 57 
+Movimento: L80     | 57 -> 77 
+Movimento: L377    | 77 -> 00 <-- ZERO
+Movimento: R20     | 00 -> 20 
+Movimento: R80     | 20 -> 00 <-- ZERO
+Movimento: L70     | 00 -> 30 
+Movimento: R70     | 30 -> 00 <-- ZERO
+Movimento: R47     | 00 -> 47 
+Movimento: L49     | 47 -> 98 
+Movimento: L10     | 98 -> 88 
+Movimento: L83     | 88 -> 05 
+Movimento: R95     | 05 -> 00 <-- ZERO
+Movimento: R22     | 00 -> 22 
+Movimento: R59     | 22 -> 81 
+Movimento: L81     | 81 -> 00 <-- ZERO
+Movimento: L120    | 00 -> 80 
+Movimento: R20     | 80 -> 00 <-- ZERO
+Movimento: L786    | 00 -> 14 
+Movimento: R80     | 14 -> 94 
+Movimento: L72     | 94 -> 22 
+Movimento: L85     | 22 -> 37 
+Movimento: L128    | 37 -> 09 
+Movimento: L809    | 09 -> 00 <-- ZERO
+Movimento: R39     | 00 -> 39 
+Movimento: R57     | 39 -> 96 
+Movimento: R4      | 96 -> 00 <-- ZERO
+Movimento: L57     | 00 -> 43 
+Movimento: L35     | 43 -> 08 
+Movimento: R92     | 08 -> 00 <-- ZERO
+Movimento: L93     | 00 -> 07 
+Movimento: R25     | 07 -> 32 
+Movimento: R68     | 32 -> 00 <-- ZERO
+Movimento: L71     | 00 -> 29 
+Movimento: L544    | 29 -> 85 
+Movimento: L783    | 85 -> 02 
+Movimento: L11     | 02 -> 91 
+Movimento: L91     | 91 -> 00 <-- ZERO
+Movimento: R377    | 00 -> 77 
+Movimento: L77     | 77 -> 00 <-- ZERO
+Movimento: R10     | 00 -> 10 
+Movimento: L964    | 10 -> 46 
+Movimento: R6      | 46 -> 52 
+Movimento: L76     | 52 -> 76 
+Movimento: R324    | 76 -> 00 <-- ZERO
+Movimento: L15     | 00 -> 85 
+Movimento: R82     | 85 -> 67 
+Movimento: L72     | 67 -> 95 
+Movimento: L66     | 95 -> 29 
+Movimento: R128    | 29 -> 57 
+Movimento: R875    | 57 -> 32 
+Movimento: R86     | 32 -> 18 
+Movimento: R82     | 18 -> 00 <-- ZERO
+Movimento: R873    | 00 -> 73 
+Movimento: L81     | 73 -> 92 
+Movimento: L67     | 92 -> 25 
+Movimento: L86     | 25 -> 39 
+Movimento: R23     | 39 -> 62 
+Movimento: R61     | 62 -> 23 
+Movimento: R77     | 23 -> 00 <-- ZERO
+Movimento: R15     | 00 -> 15 
+Movimento: R47     | 15 -> 62 
+Movimento: R88     | 62 -> 50 
+Movimento: L59     | 50 -> 91 
+Movimento: R9      | 91 -> 00 <-- ZERO
+Movimento: L19     | 00 -> 81 
+Movimento: L81     | 81 -> 00 <-- ZERO
+Movimento: R56     | 00 -> 56 
+Movimento: L86     | 56 -> 70 
+Movimento: L15     | 70 -> 55 
+Movimento: L955    | 55 -> 00 <-- ZERO
+Movimento: L39     | 00 -> 61 
+Movimento: L744    | 61 -> 17 
+Movimento: R83     | 17 -> 00 <-- ZERO
+Movimento: R93     | 00 -> 93 
+Movimento: L93     | 93 -> 00 <-- ZERO
+Movimento: R7      | 00 -> 07 
+Movimento: R87     | 07 -> 94 
+Movimento: L32     | 94 -> 62 
+Movimento: L62     | 62 -> 00 <-- ZERO
+Movimento: L45     | 00 -> 55 
+Movimento: L50     | 55 -> 05 
+Movimento: R3      | 05 -> 08 
+Movimento: R92     | 08 -> 00 <-- ZERO
+Movimento: L485    | 00 -> 15 
+Movimento: L15     | 15 -> 00 <-- ZERO
+Movimento: L70     | 00 -> 30 
+Movimento: R276    | 30 -> 06 
+Movimento: L76     | 06 -> 30 
+Movimento: L66     | 30 -> 64 
+Movimento: R58     | 64 -> 22 
+Movimento: L12     | 22 -> 10 
+Movimento: R90     | 10 -> 00 <-- ZERO
+Movimento: L14     | 00 -> 86 
+Movimento: R41     | 86 -> 27 
+Movimento: R78     | 27 -> 05 
+Movimento: L14     | 05 -> 91 
+Movimento: L91     | 91 -> 00 <-- ZERO
+Movimento: L93     | 00 -> 07 
+Movimento: L5      | 07 -> 02 
+Movimento: L319    | 02 -> 83 
+Movimento: L90     | 83 -> 93 
+Movimento: L293    | 93 -> 00 <-- ZERO
+Movimento: R22     | 00 -> 22 
+Movimento: R172    | 22 -> 94 
+Movimento: R6      | 94 -> 00 <-- ZERO
+Movimento: R31     | 00 -> 31 
+Movimento: L45     | 31 -> 86 
+Movimento: R88     | 86 -> 74 
+Movimento: R48     | 74 -> 22 
+Movimento: L95     | 22 -> 27 
+Movimento: R47     | 27 -> 74 
+Movimento: L94     | 74 -> 80 
+Movimento: L15     | 80 -> 65 
+Movimento: L8      | 65 -> 57 
+Movimento: R64     | 57 -> 21 
+Movimento: L21     | 21 -> 00 <-- ZERO
+Movimento: R10     | 00 -> 10 
+Movimento: L10     | 10 -> 00 <-- ZERO
+Movimento: L73     | 00 -> 27 
+Movimento: L69     | 27 -> 58 
+Movimento: R33     | 58 -> 91 
+Movimento: R7      | 91 -> 98 
+Movimento: R282    | 98 -> 80 
+Movimento: L80     | 80 -> 00 <-- ZERO
+Movimento: R7      | 00 -> 07 
+Movimento: L2      | 07 -> 05 
+Movimento: R19     | 05 -> 24 
+Movimento: L63     | 24 -> 61 
+Movimento: R39     | 61 -> 00 <-- ZERO
+Movimento: L955    | 00 -> 45 
+Movimento: L27     | 45 -> 18 
+Movimento: R718    | 18 -> 36 
+Movimento: L39     | 36 -> 97 
+Movimento: R218    | 97 -> 15 
+Movimento: L915    | 15 -> 00 <-- ZERO
+Movimento: R10     | 00 -> 10 
+Movimento: L83     | 10 -> 27 
+Movimento: R73     | 27 -> 00 <-- ZERO
+Movimento: R70     | 00 -> 70 
+Movimento: L70     | 70 -> 00 <-- ZERO
+Movimento: L94     | 00 -> 06 
+Movimento: L19     | 06 -> 87 
+Movimento: R55     | 87 -> 42 
+Movimento: R57     | 42 -> 99 
+Movimento: R1      | 99 -> 00 <-- ZERO
+Movimento: R67     | 00 -> 67 
+Movimento: L2      | 67 -> 65 
+Movimento: R35     | 65 -> 00 <-- ZERO
+Movimento: R48     | 00 -> 48 
+Movimento: L948    | 48 -> 00 <-- ZERO
+Movimento: R846    | 00 -> 46 
+Movimento: R54     | 46 -> 00 <-- ZERO
+Movimento: R1      | 00 -> 01 
+Movimento: R99     | 01 -> 00 <-- ZERO
+Movimento: L86     | 00 -> 14 
+Movimento: L14     | 14 -> 00 <-- ZERO
+Movimento: R55     | 00 -> 55 
+Movimento: R71     | 55 -> 26 
+Movimento: R44     | 26 -> 70 
+Movimento: L47     | 70 -> 23 
+Movimento: L484    | 23 -> 39 
+Movimento: L739    | 39 -> 00 <-- ZERO
+Movimento: R3      | 00 -> 03 
+Movimento: L56     | 03 -> 47 
+Movimento: L53     | 47 -> 94 
+Movimento: R6      | 94 -> 00 <-- ZERO
+Movimento: R11     | 00 -> 11 
+Movimento: R740    | 11 -> 51 
+Movimento: L37     | 51 -> 14 
+Movimento: L57     | 14 -> 57 
+Movimento: L89     | 57 -> 68 
+Movimento: R34     | 68 -> 02 
+Movimento: R20     | 02 -> 22 
+Movimento: L91     | 22 -> 31 
+Movimento: R73     | 31 -> 04 
+Movimento: R10     | 04 -> 14 
+Movimento: R84     | 14 -> 98 
+Movimento: L41     | 98 -> 57 
+Movimento: L57     | 57 -> 00 <-- ZERO
+Movimento: L16     | 00 -> 84 
+Movimento: L923    | 84 -> 61 
+Movimento: R39     | 61 -> 00 <-- ZERO
+Movimento: L25     | 00 -> 75 
+Movimento: R757    | 75 -> 32 
+Movimento: R268    | 32 -> 00 <-- ZERO
+Movimento: L23     | 00 -> 77 
+Movimento: L856    | 77 -> 21 
+Movimento: L57     | 21 -> 64 
+Movimento: L96     | 64 -> 68 
+Movimento: R32     | 68 -> 00 <-- ZERO
+Movimento: R52     | 00 -> 52 
+Movimento: R999    | 52 -> 51 
+Movimento: R84     | 51 -> 35 
+Movimento: L616    | 35 -> 19 
+Movimento: R81     | 19 -> 00 <-- ZERO
+Movimento: L87     | 00 -> 13 
+Movimento: R90     | 13 -> 03 
+Movimento: R97     | 03 -> 00 <-- ZERO
+Movimento: R25     | 00 -> 25 
+Movimento: L68     | 25 -> 57 
+Movimento: L57     | 57 -> 00 <-- ZERO
+Movimento: R271    | 00 -> 71 
+Movimento: R29     | 71 -> 00 <-- ZERO
+Movimento: R41     | 00 -> 41 
+Movimento: R959    | 41 -> 00 <-- ZERO
+Movimento: R91     | 00 -> 91 
+Movimento: R9      | 91 -> 00 <-- ZERO
+Movimento: R48     | 00 -> 48 
+Movimento: R52     | 48 -> 00 <-- ZERO
+Movimento: L14     | 00 -> 86 
+Movimento: R84     | 86 -> 70 
+Movimento: R61     | 70 -> 31 
+Movimento: R55     | 31 -> 86 
+Movimento: R87     | 86 -> 73 
+Movimento: L59     | 73 -> 14 
+Movimento: R86     | 14 -> 00 <-- ZERO
+Movimento: R17     | 00 -> 17 
+Movimento: L70     | 17 -> 47 
+Movimento: R141    | 47 -> 88 
+Movimento: R12     | 88 -> 00 <-- ZERO
+Movimento: R64     | 00 -> 64 
+Movimento: L701    | 64 -> 63 
+Movimento: R937    | 63 -> 00 <-- ZERO
+Movimento: R17     | 00 -> 17 
+Movimento: R85     | 17 -> 02 
+Movimento: L75     | 02 -> 27 
+Movimento: L436    | 27 -> 91 
+Movimento: R9      | 91 -> 00 <-- ZERO
+Movimento: L2      | 00 -> 98 
+Movimento: L206    | 98 -> 92 
+Movimento: L3      | 92 -> 89 
+Movimento: L70     | 89 -> 19 
+Movimento: R82     | 19 -> 01 
+Movimento: L1      | 01 -> 00 <-- ZERO
+Movimento: L762    | 00 -> 38 
+Movimento: R96     | 38 -> 34 
+Movimento: L34     | 34 -> 00 <-- ZERO
+Movimento: L29     | 00 -> 71 
+Movimento: R49     | 71 -> 20 
+Movimento: L20     | 20 -> 00 <-- ZERO
+Movimento: R15     | 00 -> 15 
+Movimento: R221    | 15 -> 36 
+Movimento: R77     | 36 -> 13 
+Movimento: R615    | 13 -> 28 
+Movimento: R72     | 28 -> 00 <-- ZERO
+Movimento: L71     | 00 -> 29 
+Movimento: R99     | 29 -> 28 
+Movimento: R88     | 28 -> 16 
+Movimento: R84     | 16 -> 00 <-- ZERO
+Movimento: R83     | 00 -> 83 
+Movimento: L63     | 83 -> 20 
+Movimento: L476    | 20 -> 44 
+Movimento: R97     | 44 -> 41 
+Movimento: L75     | 41 -> 66 
+Movimento: R371    | 66 -> 37 
+Movimento: R56     | 37 -> 93 
+Movimento: L98     | 93 -> 95 
+Movimento: L69     | 95 -> 26 
+Movimento: L26     | 26 -> 00 <-- ZERO
+Movimento: L51     | 00 -> 49 
+Movimento: L49     | 49 -> 00 <-- ZERO
+Movimento: R55     | 00 -> 55 
+Movimento: R17     | 55 -> 72 
+Movimento: R6      | 72 -> 78 
+Movimento: R330    | 78 -> 08 
+Movimento: L49     | 08 -> 59 
+Movimento: L90     | 59 -> 69 
+Movimento: L69     | 69 -> 00 <-- ZERO
+Movimento: R39     | 00 -> 39 
+Movimento: L939    | 39 -> 00 <-- ZERO
+Movimento: R56     | 00 -> 56 
+Movimento: L48     | 56 -> 08 
+Movimento: R92     | 08 -> 00 <-- ZERO
+Movimento: L83     | 00 -> 17 
+Movimento: R36     | 17 -> 53 
+Movimento: L21     | 53 -> 32 
+Movimento: R68     | 32 -> 00 <-- ZERO
+Movimento: L717    | 00 -> 83 
+Movimento: L62     | 83 -> 21 
+Movimento: L66     | 21 -> 55 
+Movimento: R27     | 55 -> 82 
+Movimento: R595    | 82 -> 77 
+Movimento: L15     | 77 -> 62 
+Movimento: L34     | 62 -> 28 
+Movimento: R730    | 28 -> 58 
+Movimento: L80     | 58 -> 78 
+Movimento: L78     | 78 -> 00 <-- ZERO
+Movimento: L129    | 00 -> 71 
+Movimento: L15     | 71 -> 56 
+Movimento: R5      | 56 -> 61 
+Movimento: R34     | 61 -> 95 
+Movimento: R63     | 95 -> 58 
+Movimento: R20     | 58 -> 78 
+Movimento: L28     | 78 -> 50 
+Movimento: L50     | 50 -> 00 <-- ZERO
+Movimento: R29     | 00 -> 29 
+Movimento: L22     | 29 -> 07 
+Movimento: L7      | 07 -> 00 <-- ZERO
+Movimento: L903    | 00 -> 97 
+Movimento: L9      | 97 -> 88 
+Movimento: R12     | 88 -> 00 <-- ZERO
+Movimento: L85     | 00 -> 15 
+Movimento: L15     | 15 -> 00 <-- ZERO
+Movimento: L46     | 00 -> 54 
+Movimento: L54     | 54 -> 00 <-- ZERO
+Movimento: R13     | 00 -> 13 
+Movimento: R92     | 13 -> 05 
+Movimento: R11     | 05 -> 16 
+Movimento: L987    | 16 -> 29 
+Movimento: R71     | 29 -> 00 <-- ZERO
+Movimento: R80     | 00 -> 80 
+Movimento: R23     | 80 -> 03 
+Movimento: R938    | 03 -> 41 
+Movimento: R58     | 41 -> 99 
+Movimento: R31     | 99 -> 30 
+Movimento: R70     | 30 -> 00 <-- ZERO
+Movimento: L26     | 00 -> 74 
+Movimento: R26     | 74 -> 00 <-- ZERO
+Movimento: R790    | 00 -> 90 
+Movimento: R310    | 90 -> 00 <-- ZERO
+Movimento: L11     | 00 -> 89 
+Movimento: R11     | 89 -> 00 <-- ZERO
+Movimento: R38     | 00 -> 38 
+Movimento: R413    | 38 -> 51 
+Movimento: R49     | 51 -> 00 <-- ZERO
+Movimento: R43     | 00 -> 43 
+Movimento: L343    | 43 -> 00 <-- ZERO
+Movimento: L789    | 00 -> 11 
+Movimento: R50     | 11 -> 61 
+Movimento: L4      | 61 -> 57 
+Movimento: R43     | 57 -> 00 <-- ZERO
+Movimento: R83     | 00 -> 83 
+Movimento: R74     | 83 -> 57 
+Movimento: R23     | 57 -> 80 
+Movimento: L80     | 80 -> 00 <-- ZERO
+Movimento: R72     | 00 -> 72 
+Movimento: R22     | 72 -> 94 
+Movimento: L86     | 94 -> 08 
+Movimento: L8      | 08 -> 00 <-- ZERO
+Movimento: R3      | 00 -> 03 
+Movimento: R23     | 03 -> 26 
+Movimento: L926    | 26 -> 00 <-- ZERO
+Movimento: R890    | 00 -> 90 
+Movimento: R501    | 90 -> 91 
+Movimento: L61     | 91 -> 30 
+Movimento: L30     | 30 -> 00 <-- ZERO
+Movimento: L4      | 00 -> 96 
+Movimento: R34     | 96 -> 30 
+Movimento: L54     | 30 -> 76 
+Movimento: R24     | 76 -> 00 <-- ZERO
+Movimento: L78     | 00 -> 22 
+Movimento: R96     | 22 -> 18 
+Movimento: L90     | 18 -> 28 
+Movimento: L28     | 28 -> 00 <-- ZERO
+Movimento: R64     | 00 -> 64 
+Movimento: R936    | 64 -> 00 <-- ZERO
+Movimento: L56     | 00 -> 44 
+Movimento: R89     | 44 -> 33 
+Movimento: R40     | 33 -> 73 
+Movimento: L27     | 73 -> 46 
+Movimento: R54     | 46 -> 00 <-- ZERO
+Movimento: R43     | 00 -> 43 
+Movimento: R37     | 43 -> 80 
+Movimento: R50     | 80 -> 30 
+Movimento: R770    | 30 -> 00 <-- ZERO
+Movimento: R57     | 00 -> 57 
+Movimento: R43     | 57 -> 00 <-- ZERO
+Movimento: R16     | 00 -> 16 
+Movimento: L1      | 16 -> 15 
+Movimento: L15     | 15 -> 00 <-- ZERO
+Movimento: R20     | 00 -> 20 
+Movimento: R404    | 20 -> 24 
+Movimento: L65     | 24 -> 59 
+Movimento: R241    | 59 -> 00 <-- ZERO
+Movimento: L90     | 00 -> 10 
+Movimento: L10     | 10 -> 00 <-- ZERO
+Movimento: L6      | 00 -> 94 
+Movimento: R6      | 94 -> 00 <-- ZERO
+Movimento: R564    | 00 -> 64 
+Movimento: L854    | 64 -> 10 
+Movimento: L75     | 10 -> 35 
+Movimento: R94     | 35 -> 29 
+Movimento: L58     | 29 -> 71 
+Movimento: R29     | 71 -> 00 <-- ZERO
+Movimento: L753    | 00 -> 47 
+Movimento: L31     | 47 -> 16 
+Movimento: L16     | 16 -> 00 <-- ZERO
+Movimento: R18     | 00 -> 18 
+Movimento: R982    | 18 -> 00 <-- ZERO
+Movimento: R11     | 00 -> 11 
+Movimento: L13     | 11 -> 98 
+Movimento: R2      | 98 -> 00 <-- ZERO
+Movimento: R18     | 00 -> 18 
+Movimento: R82     | 18 -> 00 <-- ZERO
+Movimento: R87     | 00 -> 87 
+Movimento: R58     | 87 -> 45 
+Movimento: R12     | 45 -> 57 
+Movimento: L15     | 57 -> 42 
+Movimento: R63     | 42 -> 05 
+Movimento: R344    | 05 -> 49 
+Movimento: R93     | 49 -> 42 
+Movimento: R88     | 42 -> 30 
+Movimento: L967    | 30 -> 63 
+Movimento: R37     | 63 -> 00 <-- ZERO
+Movimento: R44     | 00 -> 44 
+Movimento: L62     | 44 -> 82 
+Movimento: L82     | 82 -> 00 <-- ZERO
+Movimento: R76     | 00 -> 76 
+Movimento: R80     | 76 -> 56 
+Movimento: L51     | 56 -> 05 
+Movimento: R56     | 05 -> 61 
+Movimento: R39     | 61 -> 00 <-- ZERO
+Movimento: L656    | 00 -> 44 
+Movimento: L44     | 44 -> 00 <-- ZERO
+Movimento: R11     | 00 -> 11 
+Movimento: R89     | 11 -> 00 <-- ZERO
+Movimento: L96     | 00 -> 04 
+Movimento: L4      | 04 -> 00 <-- ZERO
+Movimento: L31     | 00 -> 69 
+Movimento: L69     | 69 -> 00 <-- ZERO
+Movimento: R39     | 00 -> 39 
+Movimento: R61     | 39 -> 00 <-- ZERO
+Movimento: L61     | 00 -> 39 
+Movimento: L64     | 39 -> 75 
+Movimento: L61     | 75 -> 14 
+Movimento: L6      | 14 -> 08 
+Movimento: R872    | 08 -> 80 
+Movimento: R6      | 80 -> 86 
+Movimento: R131    | 86 -> 17 
+Movimento: R60     | 17 -> 77 
+Movimento: L24     | 77 -> 53 
+Movimento: R30     | 53 -> 83 
+Movimento: L98     | 83 -> 85 
+Movimento: L83     | 85 -> 02 
+Movimento: R86     | 02 -> 88 
+Movimento: R471    | 88 -> 59 
+Movimento: R62     | 59 -> 21 
+Movimento: L99     | 21 -> 22 
+Movimento: R77     | 22 -> 99 
+Movimento: L38     | 99 -> 61 
+Movimento: L45     | 61 -> 16 
+Movimento: L11     | 16 -> 05 
+Movimento: L7      | 05 -> 98 
+Movimento: R2      | 98 -> 00 <-- ZERO
+Movimento: L52     | 00 -> 48 
+Movimento: R89     | 48 -> 37 
+Movimento: R98     | 37 -> 35 
+Movimento: L70     | 35 -> 65 
+Movimento: L94     | 65 -> 71 
+Movimento: R51     | 71 -> 22 
+Movimento: R89     | 22 -> 11 
+Movimento: R44     | 11 -> 55 
+Movimento: L55     | 55 -> 00 <-- ZERO
+Movimento: L70     | 00 -> 30 
+Movimento: L30     | 30 -> 00 <-- ZERO
+Movimento: L76     | 00 -> 24 
+Movimento: L907    | 24 -> 17 
+Movimento: L34     | 17 -> 83 
+Movimento: L39     | 83 -> 44 
+Movimento: L818    | 44 -> 26 
+Movimento: L226    | 26 -> 00 <-- ZERO
+Movimento: L75     | 00 -> 25 
+Movimento: R32     | 25 -> 57 
+Movimento: L390    | 57 -> 67 
+Movimento: L941    | 67 -> 26 
+Movimento: L738    | 26 -> 88 
+Movimento: L93     | 88 -> 95 
+Movimento: R90     | 95 -> 85 
+Movimento: R73     | 85 -> 58 
+Movimento: R42     | 58 -> 00 <-- ZERO
+Movimento: L34     | 00 -> 66 
+Movimento: R134    | 66 -> 00 <-- ZERO
+Movimento: R10     | 00 -> 10 
+Movimento: L60     | 10 -> 50 
+Movimento: L50     | 50 -> 00 <-- ZERO
+Movimento: R28     | 00 -> 28 
+Movimento: L46     | 28 -> 82 
+Movimento: L66     | 82 -> 16 
+Movimento: L581    | 16 -> 35 
+Movimento: R465    | 35 -> 00 <-- ZERO
+Movimento: L76     | 00 -> 24 
+Movimento: L42     | 24 -> 82 
+Movimento: R201    | 82 -> 83 
+Movimento: R84     | 83 -> 67 
+Movimento: L96     | 67 -> 71 
+Movimento: R290    | 71 -> 61 
+Movimento: R68     | 61 -> 29 
+Movimento: L7      | 29 -> 22 
+Movimento: R49     | 22 -> 71 
+Movimento: R44     | 71 -> 15 
+Movimento: R734    | 15 -> 49 
+Movimento: L49     | 49 -> 00 <-- ZERO
+Movimento: L82     | 00 -> 18 
+Movimento: L417    | 18 -> 01 
+Movimento: L1      | 01 -> 00 <-- ZERO
+Movimento: R731    | 00 -> 31 
+Movimento: R85     | 31 -> 16 
+Movimento: R284    | 16 -> 00 <-- ZERO
+Movimento: R50     | 00 -> 50 
+Movimento: R74     | 50 -> 24 
+Movimento: L322    | 24 -> 02 
+Movimento: R27     | 02 -> 29 
+Movimento: L15     | 29 -> 14 
+Movimento: L14     | 14 -> 00 <-- ZERO
+Movimento: R54     | 00 -> 54 
+Movimento: L654    | 54 -> 00 <-- ZERO
+Movimento: L65     | 00 -> 35 
+Movimento: R965    | 35 -> 00 <-- ZERO
+Movimento: R77     | 00 -> 77 
+Movimento: L50     | 77 -> 27 
+Movimento: R173    | 27 -> 00 <-- ZERO
+Movimento: R79     | 00 -> 79 
+Movimento: R521    | 79 -> 00 <-- ZERO
+Movimento: R2      | 00 -> 02 
+Movimento: R28     | 02 -> 30 
+Movimento: L30     | 30 -> 00 <-- ZERO
+Movimento: R472    | 00 -> 72 
+Movimento: L72     | 72 -> 00 <-- ZERO
+Movimento: R38     | 00 -> 38 
+Movimento: R49     | 38 -> 87 
+Movimento: L87     | 87 -> 00 <-- ZERO
+Movimento: R49     | 00 -> 49 
+Movimento: R99     | 49 -> 48 
+Movimento: L48     | 48 -> 00 <-- ZERO
+Movimento: R9      | 00 -> 09 
+Movimento: R91     | 09 -> 00 <-- ZERO
+Movimento: R62     | 00 -> 62 
+Movimento: R538    | 62 -> 00 <-- ZERO
+Movimento: R27     | 00 -> 27 
+Movimento: L621    | 27 -> 06 
+Movimento: L84     | 06 -> 22 
+Movimento: L15     | 22 -> 07 
+Movimento: L75     | 07 -> 32 
+Movimento: L32     | 32 -> 00 <-- ZERO
+Movimento: R68     | 00 -> 68 
+Movimento: L55     | 68 -> 13 
+Movimento: L149    | 13 -> 64 
+Movimento: L964    | 64 -> 00 <-- ZERO
+Movimento: L94     | 00 -> 06 
+Movimento: L606    | 06 -> 00 <-- ZERO
+Movimento: L576    | 00 -> 24 
+Movimento: L42     | 24 -> 82 
+Movimento: L79     | 82 -> 03 
+Movimento: R77     | 03 -> 80 
+Movimento: R20     | 80 -> 00 <-- ZERO
+Movimento: L11     | 00 -> 89 
+Movimento: R11     | 89 -> 00 <-- ZERO
+Movimento: L27     | 00 -> 73 
+Movimento: R42     | 73 -> 15 
+Movimento: L72     | 15 -> 43 
+Movimento: L343    | 43 -> 00 <-- ZERO
+Movimento: R46     | 00 -> 46 
+Movimento: R990    | 46 -> 36 
+Movimento: L334    | 36 -> 02 
+Movimento: R98     | 02 -> 00 <-- ZERO
+Movimento: L38     | 00 -> 62 
+Movimento: R485    | 62 -> 47 
+Movimento: L47     | 47 -> 00 <-- ZERO
+Movimento: R845    | 00 -> 45 
+Movimento: L45     | 45 -> 00 <-- ZERO
+Movimento: R14     | 00 -> 14 
+Movimento: R495    | 14 -> 09 
+Movimento: R91     | 09 -> 00 <-- ZERO
+Movimento: R63     | 00 -> 63 
+Movimento: L73     | 63 -> 90 
+Movimento: L49     | 90 -> 41 
+Movimento: L924    | 41 -> 17 
+Movimento: R14     | 17 -> 31 
+Movimento: L4      | 31 -> 27 
+Movimento: R23     | 27 -> 50 
+Movimento: R950    | 50 -> 00 <-- ZERO
+Movimento: R829    | 00 -> 29 
+Movimento: R6      | 29 -> 35 
+Movimento: R81     | 35 -> 16 
+Movimento: L86     | 16 -> 30 
+Movimento: R70     | 30 -> 00 <-- ZERO
+Movimento: R89     | 00 -> 89 
+Movimento: R28     | 89 -> 17 
+Movimento: R34     | 17 -> 51 
+Movimento: R49     | 51 -> 00 <-- ZERO
+Movimento: L88     | 00 -> 12 
+Movimento: R925    | 12 -> 37 
+Movimento: L19     | 37 -> 18 
+Movimento: R367    | 18 -> 85 
+Movimento: R25     | 85 -> 10 
+Movimento: L7      | 10 -> 03 
+Movimento: R14     | 03 -> 17 
+Movimento: R83     | 17 -> 00 <-- ZERO
+Movimento: R50     | 00 -> 50 
+Movimento: R868    | 50 -> 18 
+Movimento: L59     | 18 -> 59 
+Movimento: R42     | 59 -> 01 
+Movimento: L1      | 01 -> 00 <-- ZERO
+Movimento: R914    | 00 -> 14 
+Movimento: L97     | 14 -> 17 
+Movimento: L61     | 17 -> 56 
+Movimento: L56     | 56 -> 00 <-- ZERO
+Movimento: R38     | 00 -> 38 
+Movimento: L60     | 38 -> 78 
+Movimento: R94     | 78 -> 72 
+Movimento: R389    | 72 -> 61 
+Movimento: R39     | 61 -> 00 <-- ZERO
+Movimento: L12     | 00 -> 88 
+Movimento: R69     | 88 -> 57 
+Movimento: L66     | 57 -> 91 
+Movimento: L91     | 91 -> 00 <-- ZERO
+Movimento: R18     | 00 -> 18 
+Movimento: L91     | 18 -> 27 
+Movimento: L27     | 27 -> 00 <-- ZERO
+Movimento: R24     | 00 -> 24 
+Movimento: R76     | 24 -> 00 <-- ZERO
+Movimento: L940    | 00 -> 60 
+Movimento: L89     | 60 -> 71 
+Movimento: R7      | 71 -> 78 
+Movimento: L86     | 78 -> 92 
+Movimento: R65     | 92 -> 57 
+Movimento: L57     | 57 -> 00 <-- ZERO
+Movimento: L70     | 00 -> 30 
+Movimento: R38     | 30 -> 68 
+Movimento: R81     | 68 -> 49 
+Movimento: L49     | 49 -> 00 <-- ZERO
+Movimento: R368    | 00 -> 68 
+Movimento: L568    | 68 -> 00 <-- ZERO
+Movimento: R36     | 00 -> 36 
+Movimento: R76     | 36 -> 12 
+Movimento: R19     | 12 -> 31 
+Movimento: L31     | 31 -> 00 <-- ZERO
+Movimento: R39     | 00 -> 39 
+Movimento: L86     | 39 -> 53 
+Movimento: L953    | 53 -> 00 <-- ZERO
+Movimento: R2      | 00 -> 02 
+Movimento: R45     | 02 -> 47 
+Movimento: L204    | 47 -> 43 
+Movimento: R57     | 43 -> 00 <-- ZERO
+Movimento: L33     | 00 -> 67 
+Movimento: L63     | 67 -> 04 
+Movimento: R509    | 04 -> 13 
+Movimento: R87     | 13 -> 00 <-- ZERO
+Movimento: R93     | 00 -> 93 
+Movimento: L93     | 93 -> 00 <-- ZERO
+Movimento: R14     | 00 -> 14 
+Movimento: R48     | 14 -> 62 
+Movimento: R38     | 62 -> 00 <-- ZERO
+Movimento: R75     | 00 -> 75 
+Movimento: L75     | 75 -> 00 <-- ZERO
+Movimento: R821    | 00 -> 21 
+Movimento: L98     | 21 -> 23 
+Movimento: R49     | 23 -> 72 
+Movimento: R3      | 72 -> 75 
+Movimento: R225    | 75 -> 00 <-- ZERO
+Movimento: R30     | 00 -> 30 
+Movimento: L23     | 30 -> 07 
+Movimento: L37     | 07 -> 70 
+Movimento: L86     | 70 -> 84 
+Movimento: R28     | 84 -> 12 
+Movimento: L612    | 12 -> 00 <-- ZERO
+Movimento: L68     | 00 -> 32 
+Movimento: L32     | 32 -> 00 <-- ZERO
+Movimento: L93     | 00 -> 07 
+Movimento: L98     | 07 -> 09 
+Movimento: L9      | 09 -> 00 <-- ZERO
+Movimento: R68     | 00 -> 68 
+Movimento: R660    | 68 -> 28 
+Movimento: R56     | 28 -> 84 
+Movimento: L84     | 84 -> 00 <-- ZERO
+Movimento: R74     | 00 -> 74 
+Movimento: L99     | 74 -> 75 
+Movimento: R25     | 75 -> 00 <-- ZERO
+Movimento: R26     | 00 -> 26 
+Movimento: R47     | 26 -> 73 
+Movimento: R517    | 73 -> 90 
+Movimento: L90     | 90 -> 00 <-- ZERO
+Movimento: R70     | 00 -> 70 
+Movimento: L48     | 70 -> 22 
+Movimento: R50     | 22 -> 72 
+Movimento: L34     | 72 -> 38 
+Movimento: R62     | 38 -> 00 <-- ZERO
+Movimento: R46     | 00 -> 46 
+Movimento: R341    | 46 -> 87 
+Movimento: R88     | 87 -> 75 
+Movimento: L575    | 75 -> 00 <-- ZERO
+Movimento: L965    | 00 -> 35 
+Movimento: L193    | 35 -> 42 
+Movimento: L20     | 42 -> 22 
+Movimento: R78     | 22 -> 00 <-- ZERO
+Movimento: L97     | 00 -> 03 
+Movimento: R17     | 03 -> 20 
+Movimento: L702    | 20 -> 18 
+Movimento: L46     | 18 -> 72 
+Movimento: L1      | 72 -> 71 
+Movimento: R29     | 71 -> 00 <-- ZERO
+Movimento: R78     | 00 -> 78 
+Movimento: R52     | 78 -> 30 
+Movimento: L15     | 30 -> 15 
+Movimento: R85     | 15 -> 00 <-- ZERO
+Movimento: R54     | 00 -> 54 
+Movimento: R46     | 54 -> 00 <-- ZERO
+Movimento: L74     | 00 -> 26 
+Movimento: L26     | 26 -> 00 <-- ZERO
+Movimento: L795    | 00 -> 05 
+Movimento: R736    | 05 -> 41 
+Movimento: L8      | 41 -> 33 
+Movimento: L63     | 33 -> 70 
+Movimento: R289    | 70 -> 59 
+Movimento: R87     | 59 -> 46 
+Movimento: L146    | 46 -> 00 <-- ZERO
+Movimento: R627    | 00 -> 27 
+Movimento: R13     | 27 -> 40 
+Movimento: L94     | 40 -> 46 
+Movimento: L56     | 46 -> 90 
+Movimento: L92     | 90 -> 98 
+Movimento: L90     | 98 -> 08 
+Movimento: L285    | 08 -> 23 
+Movimento: L39     | 23 -> 84 
+Movimento: L284    | 84 -> 00 <-- ZERO
+Movimento: L31     | 00 -> 69 
+Movimento: L369    | 69 -> 00 <-- ZERO
+Movimento: L69     | 00 -> 31 
+Movimento: L31     | 31 -> 00 <-- ZERO
+Movimento: L457    | 00 -> 43 
+Movimento: R12     | 43 -> 55 
+Movimento: R45     | 55 -> 00 <-- ZERO
+Movimento: L13     | 00 -> 87 
+Movimento: L87     | 87 -> 00 <-- ZERO
+Movimento: R81     | 00 -> 81 
+Movimento: R19     | 81 -> 00 <-- ZERO
+Movimento: R32     | 00 -> 32 
+Movimento: R87     | 32 -> 19 
+Movimento: R67     | 19 -> 86 
+Movimento: R887    | 86 -> 73 
+Movimento: R127    | 73 -> 00 <-- ZERO
+Movimento: L658    | 00 -> 42 
+Movimento: L23     | 42 -> 19 
+Movimento: R93     | 19 -> 12 
+Movimento: R88     | 12 -> 00 <-- ZERO
+Movimento: R44     | 00 -> 44 
+Movimento: L44     | 44 -> 00 <-- ZERO
+Movimento: R78     | 00 -> 78 
+Movimento: L35     | 78 -> 43 
+Movimento: L43     | 43 -> 00 <-- ZERO
+Movimento: L30     | 00 -> 70 
+Movimento: R30     | 70 -> 00 <-- ZERO
+Movimento: R45     | 00 -> 45 
+Movimento: R93     | 45 -> 38 
+Movimento: L64     | 38 -> 74 
+Movimento: L74     | 74 -> 00 <-- ZERO
+Movimento: L65     | 00 -> 35 
+Movimento: L635    | 35 -> 00 <-- ZERO
+Movimento: L75     | 00 -> 25 
+Movimento: L25     | 25 -> 00 <-- ZERO
+Movimento: L248    | 00 -> 52 
+Movimento: L52     | 52 -> 00 <-- ZERO
+Movimento: L59     | 00 -> 41 
+Movimento: L41     | 41 -> 00 <-- ZERO
+Movimento: L790    | 00 -> 10 
+Movimento: R82     | 10 -> 92 
+Movimento: L92     | 92 -> 00 <-- ZERO
+Movimento: R11     | 00 -> 11 
+Movimento: R35     | 11 -> 46 
+Movimento: L1      | 46 -> 45 
+Movimento: L60     | 45 -> 85 
+Movimento: R715    | 85 -> 00 <-- ZERO
+Movimento: R98     | 00 -> 98 
+Movimento: R702    | 98 -> 00 <-- ZERO
+Movimento: R172    | 00 -> 72 
+Movimento: L72     | 72 -> 00 <-- ZERO
+Movimento: L65     | 00 -> 35 
+Movimento: L96     | 35 -> 39 
+Movimento: R75     | 39 -> 14 
+Movimento: L22     | 14 -> 92 
+Movimento: R846    | 92 -> 38 
+Movimento: L38     | 38 -> 00 <-- ZERO
+Movimento: R79     | 00 -> 79 
+Movimento: L79     | 79 -> 00 <-- ZERO
+Movimento: R78     | 00 -> 78 
+Movimento: R22     | 78 -> 00 <-- ZERO
+Movimento: R36     | 00 -> 36 
+Movimento: R664    | 36 -> 00 <-- ZERO
+Movimento: L30     | 00 -> 70 
+Movimento: L70     | 70 -> 00 <-- ZERO
+Movimento: L471    | 00 -> 29 
+Movimento: R71     | 29 -> 00 <-- ZERO
+Movimento: L17     | 00 -> 83 
+Movimento: R46     | 83 -> 29 
+Movimento: L61     | 29 -> 68 
+Movimento: R575    | 68 -> 43 
+Movimento: L92     | 43 -> 51 
+Movimento: R31     | 51 -> 82 
+Movimento: L9      | 82 -> 73 
+Movimento: L855    | 73 -> 18 
+Movimento: R853    | 18 -> 71 
+Movimento: L71     | 71 -> 00 <-- ZERO
+Movimento: L24     | 00 -> 76 
+Movimento: R81     | 76 -> 57 
+Movimento: R38     | 57 -> 95 
+Movimento: L1      | 95 -> 94 
+Movimento: L1      | 94 -> 93 
+Movimento: R446    | 93 -> 39 
+Movimento: R61     | 39 -> 00 <-- ZERO
+Movimento: L42     | 00 -> 58 
+Movimento: R50     | 58 -> 08 
+Movimento: R604    | 08 -> 12 
+Movimento: L912    | 12 -> 00 <-- ZERO
+Movimento: R68     | 00 -> 68 
+Movimento: L68     | 68 -> 00 <-- ZERO
+Movimento: L50     | 00 -> 50 
+Movimento: R50     | 50 -> 00 <-- ZERO
+Movimento: L376    | 00 -> 24 
+Movimento: L25     | 24 -> 99 
+Movimento: L258    | 99 -> 41 
+Movimento: L77     | 41 -> 64 
+Movimento: R83     | 64 -> 47 
+Movimento: R66     | 47 -> 13 
+Movimento: L81     | 13 -> 32 
+Movimento: R78     | 32 -> 10 
+Movimento: R190    | 10 -> 00 <-- ZERO
+Movimento: L759    | 00 -> 41 
+Movimento: R45     | 41 -> 86 
+Movimento: R66     | 86 -> 52 
+Movimento: L39     | 52 -> 13 
+Movimento: R11     | 13 -> 24 
+Movimento: L67     | 24 -> 57 
+Movimento: R43     | 57 -> 00 <-- ZERO
+Movimento: R83     | 00 -> 83 
+Movimento: L83     | 83 -> 00 <-- ZERO
+Movimento: R48     | 00 -> 48 
+Movimento: L48     | 48 -> 00 <-- ZERO
+Movimento: L14     | 00 -> 86 
+Movimento: L389    | 86 -> 97 
+Movimento: R45     | 97 -> 42 
+Movimento: L30     | 42 -> 12 
+Movimento: L82     | 12 -> 30 
+Movimento: L991    | 30 -> 39 
+Movimento: R66     | 39 -> 05 
+Movimento: L27     | 05 -> 78 
+Movimento: R53     | 78 -> 31 
+Movimento: L31     | 31 -> 00 <-- ZERO
+Movimento: L723    | 00 -> 77 
+Movimento: L77     | 77 -> 00 <-- ZERO
+Movimento: L42     | 00 -> 58 
+Movimento: R98     | 58 -> 56 
+Movimento: R444    | 56 -> 00 <-- ZERO
+Movimento: L528    | 00 -> 72 
+Movimento: L72     | 72 -> 00 <-- ZERO
+Movimento: L72     | 00 -> 28 
+Movimento: R73     | 28 -> 01 
+Movimento: L60     | 01 -> 41 
+Movimento: L78     | 41 -> 63 
+Movimento: R315    | 63 -> 78 
+Movimento: L78     | 78 -> 00 <-- ZERO
+Movimento: L75     | 00 -> 25 
+Movimento: R194    | 25 -> 19 
+Movimento: R818    | 19 -> 37 
+Movimento: R63     | 37 -> 00 <-- ZERO
+Movimento: L272    | 00 -> 28 
+Movimento: R972    | 28 -> 00 <-- ZERO
+Movimento: L964    | 00 -> 36 
+Movimento: L41     | 36 -> 95 
+Movimento: L1      | 95 -> 94 
+Movimento: L94     | 94 -> 00 <-- ZERO
+Movimento: R36     | 00 -> 36 
+Movimento: L68     | 36 -> 68 
+Movimento: L606    | 68 -> 62 
+Movimento: R72     | 62 -> 34 
+Movimento: L18     | 34 -> 16 
+Movimento: R431    | 16 -> 47 
+Movimento: L626    | 47 -> 21 
+Movimento: R79     | 21 -> 00 <-- ZERO
+Movimento: R665    | 00 -> 65 
+Movimento: R552    | 65 -> 17 
+Movimento: L32     | 17 -> 85 
+Movimento: R40     | 85 -> 25 
+Movimento: L1      | 25 -> 24 
+Movimento: R299    | 24 -> 23 
+Movimento: R77     | 23 -> 00 <-- ZERO
+Movimento: L53     | 00 -> 47 
+Movimento: L45     | 47 -> 02 
+Movimento: R98     | 02 -> 00 <-- ZERO
+Movimento: R29     | 00 -> 29 
+Movimento: L54     | 29 -> 75 
+Movimento: L61     | 75 -> 14 
+Movimento: R73     | 14 -> 87 
+Movimento: R613    | 87 -> 00 <-- ZERO
+Movimento: L60     | 00 -> 40 
+Movimento: R282    | 40 -> 22 
+Movimento: L49     | 22 -> 73 
+Movimento: L273    | 73 -> 00 <-- ZERO
+Movimento: L88     | 00 -> 12 
+Movimento: R54     | 12 -> 66 
+Movimento: L71     | 66 -> 95 
+Movimento: R5      | 95 -> 00 <-- ZERO
+Movimento: R59     | 00 -> 59 
+Movimento: R41     | 59 -> 00 <-- ZERO
+Movimento: R36     | 00 -> 36 
+Movimento: L8      | 36 -> 28 
+Movimento: R69     | 28 -> 97 
+Movimento: L97     | 97 -> 00 <-- ZERO
+Movimento: L72     | 00 -> 28 
+Movimento: L28     | 28 -> 00 <-- ZERO
+Movimento: L23     | 00 -> 77 
+Movimento: R23     | 77 -> 00 <-- ZERO
+Movimento: R12     | 00 -> 12 
+Movimento: L420    | 12 -> 92 
+Movimento: L92     | 92 -> 00 <-- ZERO
+Movimento: L29     | 00 -> 71 
+Movimento: R17     | 71 -> 88 
+Movimento: L71     | 88 -> 17 
+Movimento: R61     | 17 -> 78 
+Movimento: R78     | 78 -> 56 
+Movimento: R8      | 56 -> 64 
+Movimento: L82     | 64 -> 82 
+Movimento: L82     | 82 -> 00 <-- ZERO
+Movimento: R54     | 00 -> 54 
+Movimento: R725    | 54 -> 79 
+Movimento: R521    | 79 -> 00 <-- ZERO
+Movimento: R8      | 00 -> 08 
+Movimento: L983    | 08 -> 25 
+Movimento: R21     | 25 -> 46 
+Movimento: R54     | 46 -> 00 <-- ZERO
+Movimento: L42     | 00 -> 58 
+Movimento: R55     | 58 -> 13 
+Movimento: L13     | 13 -> 00 <-- ZERO
+Movimento: R16     | 00 -> 16 
+Movimento: R684    | 16 -> 00 <-- ZERO
+Movimento: R10     | 00 -> 10 
+Movimento: L610    | 10 -> 00 <-- ZERO
+Movimento: L27     | 00 -> 73 
+Movimento: R27     | 73 -> 00 <-- ZERO
+Movimento: L21     | 00 -> 79 
+Movimento: L37     | 79 -> 42 
+Movimento: L78     | 42 -> 64 
+Movimento: R49     | 64 -> 13 
+Movimento: L13     | 13 -> 00 <-- ZERO
+Movimento: R73     | 00 -> 73 
+Movimento: R62     | 73 -> 35 
+Movimento: R53     | 35 -> 88 
+Movimento: L88     | 88 -> 00 <-- ZERO
+Movimento: L92     | 00 -> 08 
+Movimento: R57     | 08 -> 65 
+Movimento: L65     | 65 -> 00 <-- ZERO
+Movimento: R98     | 00 -> 98 
+Movimento: R2      | 98 -> 00 <-- ZERO
+Movimento: R25     | 00 -> 25 
+Movimento: R75     | 25 -> 00 <-- ZERO
+Movimento: R14     | 00 -> 14 
+Movimento: R27     | 14 -> 41 
+Movimento: R759    | 41 -> 00 <-- ZERO
+Movimento: R6      | 00 -> 06 
+Movimento: L19     | 06 -> 87 
+Movimento: L31     | 87 -> 56 
+Movimento: L719    | 56 -> 37 
+Movimento: L167    | 37 -> 70 
+Movimento: R76     | 70 -> 46 
+Movimento: L84     | 46 -> 62 
+Movimento: L63     | 62 -> 99 
+Movimento: R1      | 99 -> 00 <-- ZERO
+Movimento: R89     | 00 -> 89 
+Movimento: R22     | 89 -> 11 
+Movimento: R125    | 11 -> 36 
+Movimento: L92     | 36 -> 44 
+Movimento: L44     | 44 -> 00 <-- ZERO
+Movimento: R1      | 00 -> 01 
+Movimento: L94     | 01 -> 07 
+Movimento: R39     | 07 -> 46 
+Movimento: R17     | 46 -> 63 
+Movimento: L63     | 63 -> 00 <-- ZERO
+Movimento: L15     | 00 -> 85 
+Movimento: R313    | 85 -> 98 
+Movimento: R29     | 98 -> 27 
+Movimento: R10     | 27 -> 37 
+Movimento: L237    | 37 -> 00 <-- ZERO
+Movimento: R15     | 00 -> 15 
+Movimento: R8      | 15 -> 23 
+Movimento: L62     | 23 -> 61 
+Movimento: L28     | 61 -> 33 
+Movimento: R602    | 33 -> 35 
+Movimento: L423    | 35 -> 12 
+Movimento: R35     | 12 -> 47 
+Movimento: L47     | 47 -> 00 <-- ZERO
+Movimento: L28     | 00 -> 72 
+Movimento: R28     | 72 -> 00 <-- ZERO
+Movimento: R13     | 00 -> 13 
+Movimento: L691    | 13 -> 22 
+Movimento: R79     | 22 -> 01 
+Movimento: L1      | 01 -> 00 <-- ZERO
+Movimento: R17     | 00 -> 17 
+Movimento: R83     | 17 -> 00 <-- ZERO
+Movimento: R16     | 00 -> 16 
+Movimento: R56     | 16 -> 72 
+Movimento: L750    | 72 -> 22 
+Movimento: R78     | 22 -> 00 <-- ZERO
+Movimento: L49     | 00 -> 51 
+Movimento: L75     | 51 -> 76 
+Movimento: L33     | 76 -> 43 
+Movimento: R57     | 43 -> 00 <-- ZERO
+Movimento: L763    | 00 -> 37 
+Movimento: L7      | 37 -> 30 
+Movimento: R59     | 30 -> 89 
+Movimento: L1      | 89 -> 88 
+Movimento: R512    | 88 -> 00 <-- ZERO
+Movimento: R53     | 00 -> 53 
+Movimento: L53     | 53 -> 00 <-- ZERO
+Movimento: L55     | 00 -> 45 
+Movimento: L45     | 45 -> 00 <-- ZERO
+Movimento: L30     | 00 -> 70 
+Movimento: L70     | 70 -> 00 <-- ZERO
+Movimento: L76     | 00 -> 24 
+Movimento: R855    | 24 -> 79 
+Movimento: L579    | 79 -> 00 <-- ZERO
+Movimento: L22     | 00 -> 78 
+Movimento: R24     | 78 -> 02 
+Movimento: R98     | 02 -> 00 <-- ZERO
+Movimento: R24     | 00 -> 24 
+Movimento: L24     | 24 -> 00 <-- ZERO
+Movimento: R329    | 00 -> 29 
+Movimento: R20     | 29 -> 49 
+Movimento: L501    | 49 -> 48 
+Movimento: R48     | 48 -> 96 
+Movimento: L36     | 96 -> 60 
+Movimento: L88     | 60 -> 72 
+Movimento: L80     | 72 -> 92 
+Movimento: R58     | 92 -> 50 
+Movimento: R6      | 50 -> 56 
+Movimento: R44     | 56 -> 00 <-- ZERO
+Movimento: R36     | 00 -> 36 
+Movimento: R64     | 36 -> 00 <-- ZERO
+Movimento: L54     | 00 -> 46 
+Movimento: L548    | 46 -> 98 
+Movimento: R2      | 98 -> 00 <-- ZERO
+Movimento: R53     | 00 -> 53 
+Movimento: L53     | 53 -> 00 <-- ZERO
+Movimento: L59     | 00 -> 41 
+Movimento: R159    | 41 -> 00 <-- ZERO
+Movimento: R1      | 00 -> 01 
+Movimento: R80     | 01 -> 81 
+Movimento: L88     | 81 -> 93 
+Movimento: L72     | 93 -> 21 
+Movimento: R94     | 21 -> 15 
+Movimento: L44     | 15 -> 71 
+Movimento: R90     | 71 -> 61 
+Movimento: R39     | 61 -> 00 <-- ZERO
+Movimento: R61     | 00 -> 61 
+Movimento: L479    | 61 -> 82 
+Movimento: L790    | 82 -> 92 
+Movimento: L792    | 92 -> 00 <-- ZERO
+Movimento: L95     | 00 -> 05 
+Movimento: L112    | 05 -> 93 
+Movimento: R50     | 93 -> 43 
+Movimento: L43     | 43 -> 00 <-- ZERO
+Movimento: R93     | 00 -> 93 
+Movimento: R307    | 93 -> 00 <-- ZERO
+Movimento: R39     | 00 -> 39 
+Movimento: L39     | 39 -> 00 <-- ZERO
+Movimento: R992    | 00 -> 92 
+Movimento: R8      | 92 -> 00 <-- ZERO
+Movimento: R67     | 00 -> 67 
+Movimento: R735    | 67 -> 02 
+Movimento: L2      | 02 -> 00 <-- ZERO
+Movimento: R56     | 00 -> 56 
+Movimento: L86     | 56 -> 70 
+Movimento: R179    | 70 -> 49 
+Movimento: R22     | 49 -> 71 
+Movimento: L919    | 71 -> 52 
+Movimento: L21     | 52 -> 31 
+Movimento: L634    | 31 -> 97 
+Movimento: L97     | 97 -> 00 <-- ZERO
+Movimento: R119    | 00 -> 19 
+Movimento: L26     | 19 -> 93 
+Movimento: R797    | 93 -> 90 
+Movimento: R3      | 90 -> 93 
+Movimento: L88     | 93 -> 05 
+Movimento: L5      | 05 -> 00 <-- ZERO
+Movimento: R49     | 00 -> 49 
+Movimento: L57     | 49 -> 92 
+Movimento: R8      | 92 -> 00 <-- ZERO
+Movimento: R17     | 00 -> 17 
+Movimento: L17     | 17 -> 00 <-- ZERO
+Movimento: L48     | 00 -> 52 
+Movimento: R222    | 52 -> 74 
+Movimento: R26     | 74 -> 00 <-- ZERO
+Movimento: L172    | 00 -> 28 
+Movimento: L54     | 28 -> 74 
+Movimento: R65     | 74 -> 39 
+Movimento: R61     | 39 -> 00 <-- ZERO
+Movimento: L90     | 00 -> 10 
+Movimento: L20     | 10 -> 90 
+Movimento: R10     | 90 -> 00 <-- ZERO
+Movimento: L464    | 00 -> 36 
+Movimento: R31     | 36 -> 67 
+Movimento: L4      | 67 -> 63 
+Movimento: L46     | 63 -> 17 
+Movimento: R14     | 17 -> 31 
+Movimento: L17     | 31 -> 14 
+Movimento: R86     | 14 -> 00 <-- ZERO
+Movimento: R15     | 00 -> 15 
+Movimento: R85     | 15 -> 00 <-- ZERO
+Movimento: R1      | 00 -> 01 
+Movimento: R14     | 01 -> 15 
+Movimento: L109    | 15 -> 06 
+Movimento: L12     | 06 -> 94 
+Movimento: R629    | 94 -> 23 
+Movimento: R89     | 23 -> 12 
+Movimento: L12     | 12 -> 00 <-- ZERO
+Movimento: L261    | 00 -> 39 
+Movimento: R5      | 39 -> 44 
+Movimento: R56     | 44 -> 00 <-- ZERO
+Movimento: R52     | 00 -> 52 
+Movimento: L52     | 52 -> 00 <-- ZERO
+Movimento: R91     | 00 -> 91 
+Movimento: R25     | 91 -> 16 
+Movimento: R84     | 16 -> 00 <-- ZERO
+Movimento: R84     | 00 -> 84 
+Movimento: L38     | 84 -> 46 
+Movimento: R363    | 46 -> 09 
+Movimento: L66     | 09 -> 43 
+Movimento: L96     | 43 -> 47 
+Movimento: L9      | 47 -> 38 
+Movimento: L38     | 38 -> 00 <-- ZERO
+Movimento: R57     | 00 -> 57 
+Movimento: R77     | 57 -> 34 
+Movimento: R3      | 34 -> 37 
+Movimento: L37     | 37 -> 00 <-- ZERO
+Movimento: L1      | 00 -> 99 
+Movimento: R56     | 99 -> 55 
+Movimento: L494    | 55 -> 61 
+Movimento: R28     | 61 -> 89 
+Movimento: L30     | 89 -> 59 
+Movimento: R259    | 59 -> 18 
+Movimento: L64     | 18 -> 54 
+Movimento: L54     | 54 -> 00 <-- ZERO
+Movimento: R74     | 00 -> 74 
+Movimento: L374    | 74 -> 00 <-- ZERO
+Movimento: R37     | 00 -> 37 
+Movimento: L78     | 37 -> 59 
+Movimento: L59     | 59 -> 00 <-- ZERO
+Movimento: L59     | 00 -> 41 
+Movimento: L933    | 41 -> 08 
+Movimento: R92     | 08 -> 00 <-- ZERO
+Movimento: L97     | 00 -> 03 
+Movimento: L603    | 03 -> 00 <-- ZERO
+Movimento: R52     | 00 -> 52 
+Movimento: L87     | 52 -> 65 
+Movimento: R4      | 65 -> 69 
+Movimento: R59     | 69 -> 28 
+Movimento: L29     | 28 -> 99 
+Movimento: R1      | 99 -> 00 <-- ZERO
+Movimento: R92     | 00 -> 92 
+Movimento: R29     | 92 -> 21 
+Movimento: R12     | 21 -> 33 
+Movimento: L24     | 33 -> 09 
+Movimento: R337    | 09 -> 46 
+Movimento: R49     | 46 -> 95 
+Movimento: L99     | 95 -> 96 
+Movimento: L57     | 96 -> 39 
+Movimento: R961    | 39 -> 00 <-- ZERO
+Movimento: R69     | 00 -> 69 
+Movimento: L49     | 69 -> 20 
+Movimento: R80     | 20 -> 00 <-- ZERO
+Movimento: R1      | 00 -> 01 
+Movimento: L30     | 01 -> 71 
+Movimento: R141    | 71 -> 12 
+Movimento: R788    | 12 -> 00 <-- ZERO
+Movimento: L30     | 00 -> 70 
+Movimento: R30     | 70 -> 00 <-- ZERO
+Movimento: L371    | 00 -> 29 
+Movimento: R71     | 29 -> 00 <-- ZERO
+Movimento: L20     | 00 -> 80 
+Movimento: L680    | 80 -> 00 <-- ZERO
+Movimento: L70     | 00 -> 30 
+Movimento: R70     | 30 -> 00 <-- ZERO
+Movimento: L595    | 00 -> 05 
+Movimento: R95     | 05 -> 00 <-- ZERO
+Movimento: R25     | 00 -> 25 
+Movimento: L25     | 25 -> 00 <-- ZERO
+Movimento: L66     | 00 -> 34 
+Movimento: R54     | 34 -> 88 
+Movimento: R12     | 88 -> 00 <-- ZERO
+Movimento: R54     | 00 -> 54 
+Movimento: R99     | 54 -> 53 
+Movimento: L11     | 53 -> 42 
+Movimento: R95     | 42 -> 37 
+Movimento: L37     | 37 -> 00 <-- ZERO
+Movimento: L78     | 00 -> 22 
+Movimento: R178    | 22 -> 00 <-- ZERO
+Movimento: L798    | 00 -> 02 
+Movimento: L2      | 02 -> 00 <-- ZERO
+Movimento: R354    | 00 -> 54 
+Movimento: R78     | 54 -> 32 
+Movimento: L96     | 32 -> 36 
+Movimento: R64     | 36 -> 00 <-- ZERO
+Movimento: L14     | 00 -> 86 
+Movimento: L86     | 86 -> 00 <-- ZERO
+Movimento: R44     | 00 -> 44 
+Movimento: L26     | 44 -> 18 
+Movimento: R82     | 18 -> 00 <-- ZERO
+Movimento: L12     | 00 -> 88 
+Movimento: L88     | 88 -> 00 <-- ZERO
+Movimento: L98     | 00 -> 02 
+Movimento: L14     | 02 -> 88 
+Movimento: R1      | 88 -> 89 
+Movimento: R68     | 89 -> 57 
+Movimento: R11     | 57 -> 68 
+Movimento: R95     | 68 -> 63 
+Movimento: R43     | 63 -> 06 
+Movimento: R94     | 06 -> 00 <-- ZERO
+Movimento: R54     | 00 -> 54 
+Movimento: L46     | 54 -> 08 
+Movimento: R92     | 08 -> 00 <-- ZERO
+Movimento: R67     | 00 -> 67 
+Movimento: R33     | 67 -> 00 <-- ZERO
+Movimento: R591    | 00 -> 91 
+Movimento: L57     | 91 -> 34 
+Movimento: R77     | 34 -> 11 
+Movimento: L27     | 11 -> 84 
+Movimento: R16     | 84 -> 00 <-- ZERO
+Movimento: R11     | 00 -> 11 
+Movimento: L3      | 11 -> 08 
+Movimento: L8      | 08 -> 00 <-- ZERO
+Movimento: L7      | 00 -> 93 
+Movimento: L182    | 93 -> 11 
+Movimento: R76     | 11 -> 87 
+Movimento: L87     | 87 -> 00 <-- ZERO
+Movimento: L34     | 00 -> 66 
+Movimento: L93     | 66 -> 73 
+Movimento: R73     | 73 -> 46 
+Movimento: R98     | 46 -> 44 
+Movimento: R49     | 44 -> 93 
+Movimento: L93     | 93 -> 00 <-- ZERO
+Movimento: L19     | 00 -> 81 
+Movimento: L881    | 81 -> 00 <-- ZERO
+Movimento: R76     | 00 -> 76 
+Movimento: R24     | 76 -> 00 <-- ZERO
+Movimento: L57     | 00 -> 43 
+Movimento: R925    | 43 -> 68 
+Movimento: R79     | 68 -> 47 
+Movimento: R13     | 47 -> 60 
+Movimento: R658    | 60 -> 18 
+Movimento: R82     | 18 -> 00 <-- ZERO
+Movimento: R84     | 00 -> 84 
+Movimento: L41     | 84 -> 43 
+Movimento: R357    | 43 -> 00 <-- ZERO
+Movimento: R13     | 00 -> 13 
+Movimento: L550    | 13 -> 63 
+Movimento: L26     | 63 -> 37 
+Movimento: L3      | 37 -> 34 
+Movimento: R66     | 34 -> 00 <-- ZERO
+Movimento: L59     | 00 -> 41 
+Movimento: L44     | 41 -> 97 
+Movimento: L760    | 97 -> 37 
+Movimento: R63     | 37 -> 00 <-- ZERO
+Movimento: L686    | 00 -> 14 
+Movimento: L14     | 14 -> 00 <-- ZERO
+Movimento: R96     | 00 -> 96 
+Movimento: R19     | 96 -> 15 
+Movimento: R85     | 15 -> 00 <-- ZERO
+Movimento: L88     | 00 -> 12 
+Movimento: R88     | 12 -> 00 <-- ZERO
+Movimento: R36     | 00 -> 36 
+Movimento: L13     | 36 -> 23 
+Movimento: L473    | 23 -> 50 
+Movimento: L5      | 50 -> 45 
+Movimento: R45     | 45 -> 90 
+Movimento: L90     | 90 -> 00 <-- ZERO
+Movimento: L261    | 00 -> 39 
+Movimento: L57     | 39 -> 82 
+Movimento: R37     | 82 -> 19 
+Movimento: R81     | 19 -> 00 <-- ZERO
+Movimento: R27     | 00 -> 27 
+Movimento: R81     | 27 -> 08 
+Movimento: R92     | 08 -> 00 <-- ZERO
+Movimento: R37     | 00 -> 37 
+Movimento: L3      | 37 -> 34 
+Movimento: R66     | 34 -> 00 <-- ZERO
+Movimento: R857    | 00 -> 57 
+Movimento: R81     | 57 -> 38 
+Movimento: L38     | 38 -> 00 <-- ZERO
+Movimento: L277    | 00 -> 23 
+Movimento: R15     | 23 -> 38 
+Movimento: R62     | 38 -> 00 <-- ZERO
+Movimento: R38     | 00 -> 38 
+Movimento: R62     | 38 -> 00 <-- ZERO
+Movimento: R57     | 00 -> 57 
+Movimento: L57     | 57 -> 00 <-- ZERO
+Movimento: L28     | 00 -> 72 
+Movimento: R82     | 72 -> 54 
+Movimento: R46     | 54 -> 00 <-- ZERO
+Movimento: R59     | 00 -> 59 
+Movimento: L78     | 59 -> 81 
+Movimento: L78     | 81 -> 03 
+Movimento: L3      | 03 -> 00 <-- ZERO
+Movimento: R44     | 00 -> 44 
+Movimento: R45     | 44 -> 89 
+Movimento: R84     | 89 -> 73 
+Movimento: R512    | 73 -> 85 
+Movimento: R12     | 85 -> 97 
+Movimento: L27     | 97 -> 70 
+Movimento: L7      | 70 -> 63 
+Movimento: R83     | 63 -> 46 
+Movimento: R86     | 46 -> 32 
+Movimento: R68     | 32 -> 00 <-- ZERO
+Movimento: R27     | 00 -> 27 
+Movimento: L30     | 27 -> 97 
+Movimento: R3      | 97 -> 00 <-- ZERO
+Movimento: L45     | 00 -> 55 
+Movimento: L66     | 55 -> 89 
+Movimento: L789    | 89 -> 00 <-- ZERO
+Movimento: L85     | 00 -> 15 
+Movimento: R138    | 15 -> 53 
+Movimento: L743    | 53 -> 10 
+Movimento: L310    | 10 -> 00 <-- ZERO
+Movimento: R95     | 00 -> 95 
+Movimento: R5      | 95 -> 00 <-- ZERO
+Movimento: R53     | 00 -> 53 
+Movimento: R24     | 53 -> 77 
+Movimento: R91     | 77 -> 68 
+Movimento: L93     | 68 -> 75 
+Movimento: L75     | 75 -> 00 <-- ZERO
+Movimento: R85     | 00 -> 85 
+Movimento: L95     | 85 -> 90 
+Movimento: L90     | 90 -> 00 <-- ZERO
+Movimento: R61     | 00 -> 61 
+Movimento: L61     | 61 -> 00 <-- ZERO
+Movimento: L35     | 00 -> 65 
+Movimento: R35     | 65 -> 00 <-- ZERO
+Movimento: L131    | 00 -> 69 
+Movimento: R40     | 69 -> 09 
+Movimento: L388    | 09 -> 21 
+Movimento: R7      | 21 -> 28 
+Movimento: L28     | 28 -> 00 <-- ZERO
+Movimento: R33     | 00 -> 33 
+Movimento: L33     | 33 -> 00 <-- ZERO
+Movimento: L62     | 00 -> 38 
+Movimento: L698    | 38 -> 40 
+Movimento: L40     | 40 -> 00 <-- ZERO
+Movimento: R363    | 00 -> 63 
+Movimento: R670    | 63 -> 33 
+Movimento: R365    | 33 -> 98 
+Movimento: L98     | 98 -> 00 <-- ZERO
+Movimento: L114    | 00 -> 86 
+Movimento: L79     | 86 -> 07 
+Movimento: R63     | 07 -> 70 
+Movimento: R42     | 70 -> 12 
+Movimento: R104    | 12 -> 16 
+Movimento: L66     | 16 -> 50 
+Movimento: R50     | 50 -> 00 <-- ZERO
+Movimento: L62     | 00 -> 38 
+Movimento: R16     | 38 -> 54 
+Movimento: L54     | 54 -> 00 <-- ZERO
+Movimento: R55     | 00 -> 55 
+Movimento: R469    | 55 -> 24 
+Movimento: L38     | 24 -> 86 
+Movimento: R14     | 86 -> 00 <-- ZERO
+Movimento: R92     | 00 -> 92 
+Movimento: R88     | 92 -> 80 
+Movimento: L80     | 80 -> 00 <-- ZERO
+Movimento: R33     | 00 -> 33 
+Movimento: R67     | 33 -> 00 <-- ZERO
+Movimento: R29     | 00 -> 29 
+Movimento: L29     | 29 -> 00 <-- ZERO
+Movimento: R702    | 00 -> 02 
+Movimento: L2      | 02 -> 00 <-- ZERO
+Movimento: R40     | 00 -> 40 
+Movimento: L48     | 40 -> 92 
+Movimento: R8      | 92 -> 00 <-- ZERO
+Movimento: L55     | 00 -> 45 
+Movimento: R55     | 45 -> 00 <-- ZERO
+Movimento: R8      | 00 -> 08 
+Movimento: L21     | 08 -> 87 
+Movimento: R65     | 87 -> 52 
+Movimento: R91     | 52 -> 43 
+Movimento: L824    | 43 -> 19 
+Movimento: R95     | 19 -> 14 
+Movimento: R817    | 14 -> 31 
+Movimento: R21     | 31 -> 52 
+Movimento: L18     | 52 -> 34 
+Movimento: L6      | 34 -> 28 
+Movimento: R78     | 28 -> 06 
+Movimento: R46     | 06 -> 52 
+Movimento: R98     | 52 -> 50 
+Movimento: L97     | 50 -> 53 
+Movimento: R55     | 53 -> 08 
+Movimento: R312    | 08 -> 20 
+Movimento: L74     | 20 -> 46 
+Movimento: R654    | 46 -> 00 <-- ZERO
+Movimento: L33     | 00 -> 67 
+Movimento: L75     | 67 -> 92 
+Movimento: L92     | 92 -> 00 <-- ZERO
+Movimento: L16     | 00 -> 84 
+Movimento: R59     | 84 -> 43 
+Movimento: L94     | 43 -> 49 
+Movimento: R917    | 49 -> 66 
+Movimento: R69     | 66 -> 35 
+Movimento: L38     | 35 -> 97 
+Movimento: L23     | 97 -> 74 
+Movimento: L74     | 74 -> 00 <-- ZERO
+Movimento: R15     | 00 -> 15 
+Movimento: R456    | 15 -> 71 
+Movimento: L44     | 71 -> 27 
+Movimento: R85     | 27 -> 12 
+Movimento: R288    | 12 -> 00 <-- ZERO
+Movimento: R98     | 00 -> 98 
+Movimento: R721    | 98 -> 19 
+Movimento: R61     | 19 -> 80 
+Movimento: L44     | 80 -> 36 
+Movimento: L31     | 36 -> 05 
+Movimento: L98     | 05 -> 07 
+Movimento: L25     | 07 -> 82 
+Movimento: R81     | 82 -> 63 
+Movimento: R37     | 63 -> 00 <-- ZERO
+Movimento: R22     | 00 -> 22 
+Movimento: R74     | 22 -> 96 
+Movimento: R53     | 96 -> 49 
+Movimento: R77     | 49 -> 26 
+Movimento: L26     | 26 -> 00 <-- ZERO
+Movimento: R74     | 00 -> 74 
+Movimento: L74     | 74 -> 00 <-- ZERO
+Movimento: L37     | 00 -> 63 
+Movimento: L33     | 63 -> 30 
+Movimento: L52     | 30 -> 78 
+Movimento: R34     | 78 -> 12 
+Movimento: L218    | 12 -> 94 
+Movimento: L96     | 94 -> 98 
+Movimento: L12     | 98 -> 86 
+Movimento: R807    | 86 -> 93 
+Movimento: R32     | 93 -> 25 
+Movimento: L25     | 25 -> 00 <-- ZERO
+Movimento: L86     | 00 -> 14 
+Movimento: L8      | 14 -> 06 
+Movimento: R573    | 06 -> 79 
+Movimento: L79     | 79 -> 00 <-- ZERO
+Movimento: L83     | 00 -> 17 
+Movimento: L78     | 17 -> 39 
+Movimento: L39     | 39 -> 00 <-- ZERO
+Movimento: R643    | 00 -> 43 
+Movimento: L32     | 43 -> 11 
+Movimento: R89     | 11 -> 00 <-- ZERO
+Movimento: R87     | 00 -> 87 
+Movimento: L58     | 87 -> 29 
+Movimento: L872    | 29 -> 57 
+Movimento: R26     | 57 -> 83 
+Movimento: R14     | 83 -> 97 
+Movimento: L97     | 97 -> 00 <-- ZERO
+Movimento: R99     | 00 -> 99 
+Movimento: L99     | 99 -> 00 <-- ZERO
+Movimento: R42     | 00 -> 42 
+Movimento: R58     | 42 -> 00 <-- ZERO
+Movimento: R2      | 00 -> 02 
+Movimento: L67     | 02 -> 35 
+Movimento: R90     | 35 -> 25 
+Movimento: R75     | 25 -> 00 <-- ZERO
+Movimento: R69     | 00 -> 69 
+Movimento: R31     | 69 -> 00 <-- ZERO
+Movimento: L57     | 00 -> 43 
+Movimento: L643    | 43 -> 00 <-- ZERO
+Movimento: L543    | 00 -> 57 
+Movimento: L57     | 57 -> 00 <-- ZERO
+Movimento: L52     | 00 -> 48 
+Movimento: L85     | 48 -> 63 
+Movimento: R31     | 63 -> 94 
+Movimento: L74     | 94 -> 20 
+Movimento: R72     | 20 -> 92 
+Movimento: R8      | 92 -> 00 <-- ZERO
+Movimento: R7      | 00 -> 07 
+Movimento: R64     | 07 -> 71 
+Movimento: R9      | 71 -> 80 
+Movimento: R95     | 80 -> 75 
+Movimento: R25     | 75 -> 00 <-- ZERO
+Movimento: R31     | 00 -> 31 
+Movimento: L64     | 31 -> 67 
+Movimento: R681    | 67 -> 48 
+Movimento: R52     | 48 -> 00 <-- ZERO
+Movimento: R84     | 00 -> 84 
+Movimento: L84     | 84 -> 00 <-- ZERO
+Movimento: L71     | 00 -> 29 
+Movimento: L17     | 29 -> 12 
+Movimento: R639    | 12 -> 51 
+Movimento: R49     | 51 -> 00 <-- ZERO
+Movimento: L35     | 00 -> 65 
+Movimento: L27     | 65 -> 38 
+Movimento: R53     | 38 -> 91 
+Movimento: L81     | 91 -> 10 
+Movimento: R51     | 10 -> 61 
+Movimento: R29     | 61 -> 90 
+Movimento: L90     | 90 -> 00 <-- ZERO
+Movimento: R41     | 00 -> 41 
+Movimento: L51     | 41 -> 90 
+Movimento: L60     | 90 -> 30 
+Movimento: L938    | 30 -> 92 
+Movimento: L698    | 92 -> 94 
+Movimento: L381    | 94 -> 13 
+Movimento: R87     | 13 -> 00 <-- ZERO
+Movimento: R26     | 00 -> 26 
+Movimento: L90     | 26 -> 36 
+Movimento: L3      | 36 -> 33 
+Movimento: R27     | 33 -> 60 
+Movimento: R85     | 60 -> 45 
+Movimento: L45     | 45 -> 00 <-- ZERO
+Movimento: R10     | 00 -> 10 
+Movimento: L17     | 10 -> 93 
+Movimento: L93     | 93 -> 00 <-- ZERO
+Movimento: R314    | 00 -> 14 
+Movimento: L14     | 14 -> 00 <-- ZERO
+Movimento: L5      | 00 -> 95 
+Movimento: R129    | 95 -> 24 
+Movimento: L2      | 24 -> 22 
+Movimento: L22     | 22 -> 00 <-- ZERO
+Movimento: L42     | 00 -> 58 
+Movimento: L28     | 58 -> 30 
+Movimento: R70     | 30 -> 00 <-- ZERO
+Movimento: L46     | 00 -> 54 
+Movimento: L43     | 54 -> 11 
+Movimento: R47     | 11 -> 58 
+Movimento: R81     | 58 -> 39 
+Movimento: R8      | 39 -> 47 
+Movimento: L827    | 47 -> 20 
+Movimento: L603    | 20 -> 17 
+Movimento: R49     | 17 -> 66 
+Movimento: L46     | 66 -> 20 
+Movimento: L73     | 20 -> 47 
+Movimento: R383    | 47 -> 30 
+Movimento: R879    | 30 -> 09 
+Movimento: L34     | 09 -> 75 
+Movimento: L12     | 75 -> 63 
+Movimento: R606    | 63 -> 69 
+Movimento: R11     | 69 -> 80 
+Movimento: L3      | 80 -> 77 
+Movimento: R74     | 77 -> 51 
+Movimento: R23     | 51 -> 74 
+Movimento: R13     | 74 -> 87 
+Movimento: R71     | 87 -> 58 
+Movimento: R42     | 58 -> 00 <-- ZERO
+Movimento: R41     | 00 -> 41 
+Movimento: R7      | 41 -> 48 
+Movimento: R39     | 48 -> 87 
+Movimento: R274    | 87 -> 61 
+Movimento: R39     | 61 -> 00 <-- ZERO
+Movimento: R31     | 00 -> 31 
+Movimento: L85     | 31 -> 46 
+Movimento: R54     | 46 -> 00 <-- ZERO
+Movimento: L14     | 00 -> 86 
+Movimento: R276    | 86 -> 62 
+Movimento: R582    | 62 -> 44 
+Movimento: L44     | 44 -> 00 <-- ZERO
+Movimento: L839    | 00 -> 61 
+Movimento: L87     | 61 -> 74 
+Movimento: L74     | 74 -> 00 <-- ZERO
+Movimento: R75     | 00 -> 75 
+Movimento: R20     | 75 -> 95 
+Movimento: R5      | 95 -> 00 <-- ZERO
+Movimento: L955    | 00 -> 45 
+Movimento: L6      | 45 -> 39 
+Movimento: L23     | 39 -> 16 
+Movimento: L16     | 16 -> 00 <-- ZERO
+Movimento: R3      | 00 -> 03 
+Movimento: R60     | 03 -> 63 
+Movimento: R28     | 63 -> 91 
+Movimento: L98     | 91 -> 93 
+Movimento: L61     | 93 -> 32 
+Movimento: L133    | 32 -> 99 
+Movimento: R388    | 99 -> 87 
+Movimento: L90     | 87 -> 97 
+Movimento: L40     | 97 -> 57 
+Movimento: L57     | 57 -> 00 <-- ZERO
+Movimento: R64     | 00 -> 64 
+Movimento: R368    | 64 -> 32 
+Movimento: L32     | 32 -> 00 <-- ZERO
+Movimento: L80     | 00 -> 20 
+Movimento: R380    | 20 -> 00 <-- ZERO
+Movimento: L70     | 00 -> 30 
+Movimento: R12     | 30 -> 42 
+Movimento: R876    | 42 -> 18 
+Movimento: L794    | 18 -> 24 
+Movimento: R19     | 24 -> 43 
+Movimento: R683    | 43 -> 26 
+Movimento: L25     | 26 -> 01 
+Movimento: L45     | 01 -> 56 
+Movimento: L99     | 56 -> 57 
+Movimento: L363    | 57 -> 94 
+Movimento: L75     | 94 -> 19 
+Movimento: R81     | 19 -> 00 <-- ZERO
+Movimento: R70     | 00 -> 70 
+Movimento: R77     | 70 -> 47 
+Movimento: R53     | 47 -> 00 <-- ZERO
+Movimento: L3      | 00 -> 97 
+Movimento: L26     | 97 -> 71 
+Movimento: R29     | 71 -> 00 <-- ZERO
+Movimento: R63     | 00 -> 63 
+Movimento: R93     | 63 -> 56 
+Movimento: R75     | 56 -> 31 
+Movimento: R69     | 31 -> 00 <-- ZERO
+Movimento: R43     | 00 -> 43 
+Movimento: R57     | 43 -> 00 <-- ZERO
+Movimento: R25     | 00 -> 25 
+Movimento: R83     | 25 -> 08 
+Movimento: R4      | 08 -> 12 
+Movimento: R79     | 12 -> 91 
+Movimento: R715    | 91 -> 06 
+Movimento: L6      | 06 -> 00 <-- ZERO
+Movimento: L95     | 00 -> 05 
+Movimento: R76     | 05 -> 81 
+Movimento: L81     | 81 -> 00 <-- ZERO
+Movimento: L36     | 00 -> 64 
+Movimento: L64     | 64 -> 00 <-- ZERO
+Movimento: L91     | 00 -> 09 
+Movimento: R91     | 09 -> 00 <-- ZERO
+Movimento: L130    | 00 -> 70 
+Movimento: L66     | 70 -> 04 
+Movimento: R83     | 04 -> 87 
+Movimento: L87     | 87 -> 00 <-- ZERO
+Movimento: R479    | 00 -> 79 
+Movimento: R66     | 79 -> 45 
+Movimento: R55     | 45 -> 00 <-- ZERO
+Movimento: R26     | 00 -> 26 
+Movimento: R74     | 26 -> 00 <-- ZERO
+Movimento: L534    | 00 -> 66 
+Movimento: L50     | 66 -> 16 
+Movimento: R84     | 16 -> 00 <-- ZERO
+Movimento: R31     | 00 -> 31 
+Movimento: R19     | 31 -> 50 
+Movimento: R71     | 50 -> 21 
+Movimento: L643    | 21 -> 78 
+Movimento: R83     | 78 -> 61 
+Movimento: L74     | 61 -> 87 
+Movimento: L87     | 87 -> 00 <-- ZERO
+Movimento: L6      | 00 -> 94 
+Movimento: R89     | 94 -> 83 
+Movimento: R17     | 83 -> 00 <-- ZERO
+Movimento: L57     | 00 -> 43 
+Movimento: R57     | 43 -> 00 <-- ZERO
+Movimento: L94     | 00 -> 06 
+Movimento: R94     | 06 -> 00 <-- ZERO
+Movimento: R66     | 00 -> 66 
+Movimento: L687    | 66 -> 79 
+Movimento: R21     | 79 -> 00 <-- ZERO
+Movimento: R6      | 00 -> 06 
+Movimento: R22     | 06 -> 28 
+Movimento: R92     | 28 -> 20 
+Movimento: R80     | 20 -> 00 <-- ZERO
+Movimento: L542    | 00 -> 58 
+Movimento: L13     | 58 -> 45 
+Movimento: R55     | 45 -> 00 <-- ZERO
+Movimento: R69     | 00 -> 69 
+Movimento: R31     | 69 -> 00 <-- ZERO
+Movimento: R69     | 00 -> 69 
+Movimento: L343    | 69 -> 26 
+Movimento: R86     | 26 -> 12 
+Movimento: L134    | 12 -> 78 
+Movimento: R24     | 78 -> 02 
+Movimento: L2      | 02 -> 00 <-- ZERO
+Movimento: L95     | 00 -> 05 
+Movimento: L11     | 05 -> 94 
+Movimento: L70     | 94 -> 24 
+Movimento: R65     | 24 -> 89 
+Movimento: R2      | 89 -> 91 
+Movimento: R10     | 91 -> 01 
+Movimento: R811    | 01 -> 12 
+Movimento: R88     | 12 -> 00 <-- ZERO
+Movimento: R55     | 00 -> 55 
+Movimento: L16     | 55 -> 39 
+Movimento: L439    | 39 -> 00 <-- ZERO
+Movimento: L82     | 00 -> 18 
+Movimento: L88     | 18 -> 30 
+Movimento: R533    | 30 -> 63 
+Movimento: R13     | 63 -> 76 
+Movimento: R24     | 76 -> 00 <-- ZERO
+Movimento: R73     | 00 -> 73 
+Movimento: R42     | 73 -> 15 
+Movimento: L30     | 15 -> 85 
+Movimento: L804    | 85 -> 81 
+Movimento: R97     | 81 -> 78 
+Movimento: R622    | 78 -> 00 <-- ZERO
+Movimento: R310    | 00 -> 10 
+Movimento: L66     | 10 -> 44 
+Movimento: R56     | 44 -> 00 <-- ZERO
+Movimento: R95     | 00 -> 95 
+Movimento: L89     | 95 -> 06 
+Movimento: L6      | 06 -> 00 <-- ZERO
+Movimento: R13     | 00 -> 13 
+Movimento: R87     | 13 -> 00 <-- ZERO
+Movimento: R10     | 00 -> 10 
+Movimento: L10     | 10 -> 00 <-- ZERO
+Movimento: R24     | 00 -> 24 
+Movimento: L66     | 24 -> 58 
+Movimento: R442    | 58 -> 00 <-- ZERO
+Movimento: L30     | 00 -> 70 
+Movimento: R38     | 70 -> 08 
+Movimento: R46     | 08 -> 54 
+Movimento: R46     | 54 -> 00 <-- ZERO
+Movimento: R9      | 00 -> 09 
+Movimento: L409    | 09 -> 00 <-- ZERO
+Movimento: L47     | 00 -> 53 
+Movimento: L89     | 53 -> 64 
+Movimento: R515    | 64 -> 79 
+Movimento: R13     | 79 -> 92 
+Movimento: R48     | 92 -> 40 
+Movimento: R40     | 40 -> 80 
+Movimento: R98     | 80 -> 78 
+Movimento: R22     | 78 -> 00 <-- ZERO
+Movimento: L88     | 00 -> 12 
+Movimento: R88     | 12 -> 00 <-- ZERO
+Movimento: R90     | 00 -> 90 
+Movimento: L20     | 90 -> 70 
+Movimento: R30     | 70 -> 00 <-- ZERO
+Movimento: L34     | 00 -> 66 
+Movimento: R24     | 66 -> 90 
+Movimento: R10     | 90 -> 00 <-- ZERO
+Movimento: R9      | 00 -> 09 
+Movimento: L33     | 09 -> 76 
+Movimento: R38     | 76 -> 14 
+Movimento: R54     | 14 -> 68 
+Movimento: R329    | 68 -> 97 
+Movimento: L97     | 97 -> 00 <-- ZERO
+Movimento: L47     | 00 -> 53 
+Movimento: R45     | 53 -> 98 
+Movimento: L53     | 98 -> 45 
+Movimento: L15     | 45 -> 30 
+Movimento: R89     | 30 -> 19 
+Movimento: R74     | 19 -> 93 
+Movimento: R5      | 93 -> 98 
+Movimento: L806    | 98 -> 92 
+Movimento: L892    | 92 -> 00 <-- ZERO
+Movimento: R14     | 00 -> 14 
+Movimento: L22     | 14 -> 92 
+Movimento: L92     | 92 -> 00 <-- ZERO
+Movimento: R20     | 00 -> 20 
+Movimento: R41     | 20 -> 61 
+Movimento: L78     | 61 -> 83 
+Movimento: L83     | 83 -> 00 <-- ZERO
+Movimento: R47     | 00 -> 47 
+Movimento: L47     | 47 -> 00 <-- ZERO
+Movimento: L52     | 00 -> 48 
+Movimento: L830    | 48 -> 18 
+Movimento: R13     | 18 -> 31 
+Movimento: L31     | 31 -> 00 <-- ZERO
+Movimento: L2      | 00 -> 98 
+Movimento: R90     | 98 -> 88 
+Movimento: L776    | 88 -> 12 
+Movimento: L428    | 12 -> 84 
+Movimento: R16     | 84 -> 00 <-- ZERO
+Movimento: R91     | 00 -> 91 
+Movimento: L91     | 91 -> 00 <-- ZERO
+Movimento: R79     | 00 -> 79 
+Movimento: L55     | 79 -> 24 
+Movimento: L45     | 24 -> 79 
+Movimento: R12     | 79 -> 91 
+Movimento: L91     | 91 -> 00 <-- ZERO
+Movimento: L25     | 00 -> 75 
+Movimento: R299    | 75 -> 74 
+Movimento: L55     | 74 -> 19 
+Movimento: L150    | 19 -> 69 
+Movimento: L48     | 69 -> 21 
+Movimento: R98     | 21 -> 19 
+Movimento: L19     | 19 -> 00 <-- ZERO
+Movimento: L86     | 00 -> 14 
+Movimento: R46     | 14 -> 60 
+Movimento: R40     | 60 -> 00 <-- ZERO
+Movimento: R26     | 00 -> 26 
+Movimento: L454    | 26 -> 72 
+Movimento: R7      | 72 -> 79 
+Movimento: L946    | 79 -> 33 
+Movimento: L33     | 33 -> 00 <-- ZERO
+Movimento: L19     | 00 -> 81 
+Movimento: L981    | 81 -> 00 <-- ZERO
+Movimento: R7      | 00 -> 07 
+Movimento: L7      | 07 -> 00 <-- ZERO
+Movimento: L51     | 00 -> 49 
+Movimento: R51     | 49 -> 00 <-- ZERO
+Movimento: R97     | 00 -> 97 
+Movimento: R731    | 97 -> 28 
+Movimento: R59     | 28 -> 87 
+Movimento: L25     | 87 -> 62 
+Movimento: L18     | 62 -> 44 
+Movimento: R56     | 44 -> 00 <-- ZERO
+Movimento: R69     | 00 -> 69 
+Movimento: L468    | 69 -> 01 
+Movimento: L65     | 01 -> 36 
+Movimento: L36     | 36 -> 00 <-- ZERO
+Movimento: L66     | 00 -> 34 
+Movimento: R66     | 34 -> 00 <-- ZERO
+Movimento: R38     | 00 -> 38 
+Movimento: R62     | 38 -> 00 <-- ZERO
+Movimento: L13     | 00 -> 87 
+Movimento: L79     | 87 -> 08 
+Movimento: L608    | 08 -> 00 <-- ZERO
+Movimento: R90     | 00 -> 90 
+Movimento: R80     | 90 -> 70 
+Movimento: L74     | 70 -> 96 
+Movimento: L25     | 96 -> 71 
+Movimento: L17     | 71 -> 54 
+Movimento: L16     | 54 -> 38 
+Movimento: L26     | 38 -> 12 
+Movimento: R88     | 12 -> 00 <-- ZERO
+Movimento: R12     | 00 -> 12 
+Movimento: L12     | 12 -> 00 <-- ZERO
+Movimento: L50     | 00 -> 50 
+Movimento: R22     | 50 -> 72 
+Movimento: R89     | 72 -> 61 
+Movimento: R7      | 61 -> 68 
+Movimento: R665    | 68 -> 33 
+Movimento: R467    | 33 -> 00 <-- ZERO
+Movimento: L86     | 00 -> 14 
+Movimento: L83     | 14 -> 31 
+Movimento: L31     | 31 -> 00 <-- ZERO
+Movimento: R91     | 00 -> 91 
+Movimento: R9      | 91 -> 00 <-- ZERO
+Movimento: L31     | 00 -> 69 
+Movimento: L69     | 69 -> 00 <-- ZERO
+Movimento: R11     | 00 -> 11 
+Movimento: L6      | 11 -> 05 
+Movimento: L605    | 05 -> 00 <-- ZERO
+Movimento: L7      | 00 -> 93 
+Movimento: R99     | 93 -> 92 
+Movimento: R8      | 92 -> 00 <-- ZERO
+Movimento: L76     | 00 -> 24 
+Movimento: L982    | 24 -> 42 
+Movimento: R53     | 42 -> 95 
+Movimento: L92     | 95 -> 03 
+Movimento: R92     | 03 -> 95 
+Movimento: R56     | 95 -> 51 
+Movimento: R49     | 51 -> 00 <-- ZERO
+Movimento: R90     | 00 -> 90 
+Movimento: L90     | 90 -> 00 <-- ZERO
+Movimento: R82     | 00 -> 82 
+Movimento: L882    | 82 -> 00 <-- ZERO
+Movimento: R859    | 00 -> 59 
+Movimento: L8      | 59 -> 51 
+Movimento: L201    | 51 -> 50 
+Movimento: L34     | 50 -> 16 
+Movimento: L69     | 16 -> 47 
+Movimento: L47     | 47 -> 00 <-- ZERO
+Movimento: L25     | 00 -> 75 
+Movimento: L73     | 75 -> 02 
+Movimento: L75     | 02 -> 27 
+Movimento: R25     | 27 -> 52 
+Movimento: R690    | 52 -> 42 
+Movimento: R44     | 42 -> 86 
+Movimento: L9      | 86 -> 77 
+Movimento: L77     | 77 -> 00 <-- ZERO
+Movimento: L238    | 00 -> 62 
+Movimento: L62     | 62 -> 00 <-- ZERO
+Movimento: L83     | 00 -> 17 
+Movimento: R27     | 17 -> 44 
+Movimento: L89     | 44 -> 55 
+Movimento: L355    | 55 -> 00 <-- ZERO
+Movimento: R78     | 00 -> 78 
+Movimento: L538    | 78 -> 40 
+Movimento: R81     | 40 -> 21 
+Movimento: L69     | 21 -> 52 
+Movimento: L61     | 52 -> 91 
+Movimento: R809    | 91 -> 00 <-- ZERO
+Movimento: R89     | 00 -> 89 
+Movimento: R11     | 89 -> 00 <-- ZERO
+Movimento: R393    | 00 -> 93 
+Movimento: R292    | 93 -> 85 
+Movimento: L96     | 85 -> 89 
+Movimento: L2      | 89 -> 87 
+Movimento: L62     | 87 -> 25 
+Movimento: R475    | 25 -> 00 <-- ZERO
+Movimento: R50     | 00 -> 50 
+Movimento: R41     | 50 -> 91 
+Movimento: R9      | 91 -> 00 <-- ZERO
+Movimento: R28     | 00 -> 28 
+Movimento: L40     | 28 -> 88 
+Movimento: L49     | 88 -> 39 
+Movimento: R25     | 39 -> 64 
+Movimento: L31     | 64 -> 33 
+Movimento: L372    | 33 -> 61 
+Movimento: R39     | 61 -> 00 <-- ZERO
+Movimento: R672    | 00 -> 72 
+Movimento: R32     | 72 -> 04 
+Movimento: R96     | 04 -> 00 <-- ZERO
+Movimento: R41     | 00 -> 41 
+Movimento: L941    | 41 -> 00 <-- ZERO
+Movimento: L18     | 00 -> 82 
+Movimento: R76     | 82 -> 58 
+Movimento: L58     | 58 -> 00 <-- ZERO
+Movimento: L59     | 00 -> 41 
+Movimento: R429    | 41 -> 70 
+Movimento: L370    | 70 -> 00 <-- ZERO
+Movimento: R55     | 00 -> 55 
+Movimento: R87     | 55 -> 42 
+Movimento: R86     | 42 -> 28 
+Movimento: R72     | 28 -> 00 <-- ZERO
+Movimento: R29     | 00 -> 29 
+Movimento: R71     | 29 -> 00 <-- ZERO
+Movimento: L92     | 00 -> 08 
+Movimento: L462    | 08 -> 46 
+Movimento: L97     | 46 -> 49 
+Movimento: R61     | 49 -> 10 
+Movimento: R90     | 10 -> 00 <-- ZERO
+Movimento: L39     | 00 -> 61 
+Movimento: L61     | 61 -> 00 <-- ZERO
+Movimento: R93     | 00 -> 93 
+Movimento: L39     | 93 -> 54 
+Movimento: R23     | 54 -> 77 
+Movimento: R23     | 77 -> 00 <-- ZERO
+Movimento: R40     | 00 -> 40 
+Movimento: R360    | 40 -> 00 <-- ZERO
+Movimento: R769    | 00 -> 69 
+Movimento: L69     | 69 -> 00 <-- ZERO
+Movimento: R3      | 00 -> 03 
+Movimento: L757    | 03 -> 46 
+Movimento: R18     | 46 -> 64 
+Movimento: L5      | 64 -> 59 
+Movimento: R74     | 59 -> 33 
+Movimento: L14     | 33 -> 19 
+Movimento: R76     | 19 -> 95 
+Movimento: R82     | 95 -> 77 
+Movimento: L436    | 77 -> 41 
+Movimento: R50     | 41 -> 91 
+Movimento: L91     | 91 -> 00 <-- ZERO
+Movimento: L66     | 00 -> 34 
+Movimento: R66     | 34 -> 00 <-- ZERO
+Movimento: R269    | 00 -> 69 
+Movimento: R92     | 69 -> 61 
+Movimento: L61     | 61 -> 00 <-- ZERO
+Movimento: R83     | 00 -> 83 
+Movimento: R758    | 83 -> 41 
+Movimento: R2      | 41 -> 43 
+Movimento: L43     | 43 -> 00 <-- ZERO
+Movimento: L575    | 00 -> 25 
+Movimento: L922    | 25 -> 03 
+Movimento: R21     | 03 -> 24 
+Movimento: L50     | 24 -> 74 
+Movimento: L70     | 74 -> 04 
+Movimento: R96     | 04 -> 00 <-- ZERO
+Movimento: R38     | 00 -> 38 
+Movimento: R62     | 38 -> 00 <-- ZERO
+Movimento: L85     | 00 -> 15 
+Movimento: R75     | 15 -> 90 
+Movimento: R10     | 90 -> 00 <-- ZERO
+Movimento: R129    | 00 -> 29 
+Movimento: L30     | 29 -> 99 
+Movimento: L99     | 99 -> 00 <-- ZERO
+Movimento: L92     | 00 -> 08 
+Movimento: R592    | 08 -> 00 <-- ZERO
+Movimento: L13     | 00 -> 87 
+Movimento: R30     | 87 -> 17 
+Movimento: R56     | 17 -> 73 
+Movimento: R29     | 73 -> 02 
+Movimento: L27     | 02 -> 75 
+Movimento: R94     | 75 -> 69 
+Movimento: R65     | 69 -> 34 
+Movimento: L22     | 34 -> 12 
+Movimento: L95     | 12 -> 17 
+Movimento: R83     | 17 -> 00 <-- ZERO
+Movimento: L682    | 00 -> 18 
+Movimento: R71     | 18 -> 89 
+Movimento: L22     | 89 -> 67 
+Movimento: L1      | 67 -> 66 
+Movimento: L77     | 66 -> 89 
+Movimento: L37     | 89 -> 52 
+Movimento: L3      | 52 -> 49 
+Movimento: R51     | 49 -> 00 <-- ZERO
+Movimento: R59     | 00 -> 59 
+Movimento: R41     | 59 -> 00 <-- ZERO
+Movimento: L93     | 00 -> 07 
+Movimento: R85     | 07 -> 92 
+Movimento: L90     | 92 -> 02 
+Movimento: L2      | 02 -> 00 <-- ZERO
+Movimento: L18     | 00 -> 82 
+Movimento: R60     | 82 -> 42 
+Movimento: R58     | 42 -> 00 <-- ZERO
+Movimento: R90     | 00 -> 90 
+Movimento: R10     | 90 -> 00 <-- ZERO
+Movimento: R6      | 00 -> 06 
+Movimento: L81     | 06 -> 25 
+Movimento: L25     | 25 -> 00 <-- ZERO
+Movimento: R5      | 00 -> 05 
+Movimento: R45     | 05 -> 50 
+Movimento: L15     | 50 -> 35 
+Movimento: L35     | 35 -> 00 <-- ZERO
+Movimento: L37     | 00 -> 63 
+Movimento: R31     | 63 -> 94 
+Movimento: L391    | 94 -> 03 
+Movimento: L29     | 03 -> 74 
+Movimento: R313    | 74 -> 87 
+Movimento: L388    | 87 -> 99 
+Movimento: L99     | 99 -> 00 <-- ZERO
+Movimento: L25     | 00 -> 75 
+Movimento: R8      | 75 -> 83 
+Movimento: L48     | 83 -> 35 
+Movimento: R65     | 35 -> 00 <-- ZERO
+Movimento: L88     | 00 -> 12 
+Movimento: R70     | 12 -> 82 
+Movimento: R68     | 82 -> 50 
+Movimento: R50     | 50 -> 00 <-- ZERO
+Movimento: R257    | 00 -> 57 
+Movimento: R43     | 57 -> 00 <-- ZERO
+Movimento: L92     | 00 -> 08 
+Movimento: L47     | 08 -> 61 
+Movimento: L26     | 61 -> 35 
+Movimento: L573    | 35 -> 62 
+Movimento: R38     | 62 -> 00 <-- ZERO
+Movimento: R31     | 00 -> 31 
+Movimento: R826    | 31 -> 57 
+Movimento: R43     | 57 -> 00 <-- ZERO
+Movimento: R5      | 00 -> 05 
+Movimento: L79     | 05 -> 26 
+Movimento: R970    | 26 -> 96 
+Movimento: R53     | 96 -> 49 
+Movimento: R1      | 49 -> 50 
+Movimento: L41     | 50 -> 09 
+Movimento: R68     | 09 -> 77 
+Movimento: R52     | 77 -> 29 
+Movimento: R71     | 29 -> 00 <-- ZERO
+Movimento: R65     | 00 -> 65 
+Movimento: L93     | 65 -> 72 
+Movimento: L572    | 72 -> 00 <-- ZERO
+Movimento: L47     | 00 -> 53 
+Movimento: R47     | 53 -> 00 <-- ZERO
+Movimento: L40     | 00 -> 60 
+Movimento: L94     | 60 -> 66 
+Movimento: L66     | 66 -> 00 <-- ZERO
+Movimento: R56     | 00 -> 56 
+Movimento: R44     | 56 -> 00 <-- ZERO
+Movimento: R84     | 00 -> 84 
+Movimento: R754    | 84 -> 38 
+Movimento: L316    | 38 -> 22 
+Movimento: R98     | 22 -> 20 
+Movimento: R440    | 20 -> 60 
+Movimento: L97     | 60 -> 63 
+Movimento: R37     | 63 -> 00 <-- ZERO
+Movimento: R61     | 00 -> 61 
+Movimento: L57     | 61 -> 04 
+Movimento: R13     | 04 -> 17 
+Movimento: R83     | 17 -> 00 <-- ZERO
+Movimento: R31     | 00 -> 31 
+Movimento: R98     | 31 -> 29 
+Movimento: L29     | 29 -> 00 <-- ZERO
+Movimento: L82     | 00 -> 18 
+Movimento: R982    | 18 -> 00 <-- ZERO
+Movimento: L632    | 00 -> 68 
+Movimento: L968    | 68 -> 00 <-- ZERO
+Movimento: R60     | 00 -> 60 
+Movimento: L60     | 60 -> 00 <-- ZERO
+Movimento: L19     | 00 -> 81 
+Movimento: R419    | 81 -> 00 <-- ZERO
+Movimento: L864    | 00 -> 36 
+Movimento: L36     | 36 -> 00 <-- ZERO
+Movimento: L66     | 00 -> 34 
+Movimento: L71     | 34 -> 63 
+Movimento: R37     | 63 -> 00 <-- ZERO
+Movimento: L89     | 00 -> 11 
+Movimento: R93     | 11 -> 04 
+Movimento: L32     | 04 -> 72 
+Movimento: L49     | 72 -> 23 
+Movimento: L83     | 23 -> 40 
+Movimento: L540    | 40 -> 00 <-- ZERO
+Movimento: L59     | 00 -> 41 
+Movimento: L86     | 41 -> 55 
+Movimento: R45     | 55 -> 00 <-- ZERO
+Movimento: L87     | 00 -> 13 
+Movimento: R790    | 13 -> 03 
+Movimento: R697    | 03 -> 00 <-- ZERO
+Movimento: R553    | 00 -> 53 
+Movimento: L281    | 53 -> 72 
+Movimento: R41     | 72 -> 13 
+Movimento: R56     | 13 -> 69 
+Movimento: R31     | 69 -> 00 <-- ZERO
+Movimento: R70     | 00 -> 70 
+Movimento: L70     | 70 -> 00 <-- ZERO
+Movimento: R28     | 00 -> 28 
+Movimento: L28     | 28 -> 00 <-- ZERO
+Movimento: L39     | 00 -> 61 
+Movimento: R39     | 61 -> 00 <-- ZERO
+Movimento: R86     | 00 -> 86 
+Movimento: R14     | 86 -> 00 <-- ZERO
+Movimento: L89     | 00 -> 11 
+Movimento: R89     | 11 -> 00 <-- ZERO
+Movimento: R323    | 00 -> 23 
+Movimento: L968    | 23 -> 55 
+Movimento: L55     | 55 -> 00 <-- ZERO
+Movimento: R54     | 00 -> 54 
+Movimento: L82     | 54 -> 72 
+Movimento: L97     | 72 -> 75 
+Movimento: L36     | 75 -> 39 
+Movimento: R61     | 39 -> 00 <-- ZERO
+Movimento: R19     | 00 -> 19 
+Movimento: L19     | 19 -> 00 <-- ZERO
+Movimento: L33     | 00 -> 67 
+Movimento: L51     | 67 -> 16 
+Movimento: L54     | 16 -> 62 
+Movimento: R20     | 62 -> 82 
+Movimento: L79     | 82 -> 03 
+Movimento: L630    | 03 -> 73 
+Movimento: L73     | 73 -> 00 <-- ZERO
+Movimento: R61     | 00 -> 61 
+Movimento: R54     | 61 -> 15 
+Movimento: R47     | 15 -> 62 
+Movimento: L62     | 62 -> 00 <-- ZERO
+Movimento: R453    | 00 -> 53 
+Movimento: R47     | 53 -> 00 <-- ZERO
+Movimento: L40     | 00 -> 60 
+Movimento: R359    | 60 -> 19 
+Movimento: L97     | 19 -> 22 
+Movimento: R4      | 22 -> 26 
+Movimento: R30     | 26 -> 56 
+Movimento: L84     | 56 -> 72 
+Movimento: L72     | 72 -> 00 <-- ZERO
+Movimento: R657    | 00 -> 57 
+Movimento: R56     | 57 -> 13 
+Movimento: R95     | 13 -> 08 
+Movimento: L71     | 08 -> 37 
+Movimento: L4      | 37 -> 33 
+Movimento: L92     | 33 -> 41 
+Movimento: L57     | 41 -> 84 
+Movimento: L708    | 84 -> 76 
+Movimento: L42     | 76 -> 34 
+Movimento: R66     | 34 -> 00 <-- ZERO
+Movimento: L37     | 00 -> 63 
+Movimento: L463    | 63 -> 00 <-- ZERO
+Movimento: L29     | 00 -> 71 
+Movimento: R729    | 71 -> 00 <-- ZERO
+Movimento: R96     | 00 -> 96 
+Movimento: L96     | 96 -> 00 <-- ZERO
+Movimento: L40     | 00 -> 60 
+Movimento: R40     | 60 -> 00 <-- ZERO
+Movimento: L64     | 00 -> 36 
+Movimento: L36     | 36 -> 00 <-- ZERO
+Movimento: L529    | 00 -> 71 
+Movimento: R3      | 71 -> 74 
+Movimento: L74     | 74 -> 00 <-- ZERO
+Movimento: L33     | 00 -> 67 
+Movimento: L66     | 67 -> 01 
+Movimento: L51     | 01 -> 50 
+Movimento: R6      | 50 -> 56 
+Movimento: L413    | 56 -> 43 
+Movimento: R74     | 43 -> 17 
+Movimento: L67     | 17 -> 50 
+Movimento: L50     | 50 -> 00 <-- ZERO
+Movimento: R19     | 00 -> 19 
+Movimento: R181    | 19 -> 00 <-- ZERO
+Movimento: L404    | 00 -> 96 
+Movimento: R68     | 96 -> 64 
+Movimento: L76     | 64 -> 88 
+Movimento: L937    | 88 -> 51 
+Movimento: L93     | 51 -> 58 
+Movimento: L10     | 58 -> 48 
+Movimento: L48     | 48 -> 00 <-- ZERO
+Movimento: L615    | 00 -> 85 
+Movimento: R11     | 85 -> 96 
+Movimento: R56     | 96 -> 52 
+Movimento: R48     | 52 -> 00 <-- ZERO
+Movimento: R69     | 00 -> 69 
+Movimento: R31     | 69 -> 00 <-- ZERO
+Movimento: R94     | 00 -> 94 
+Movimento: R672    | 94 -> 66 
+Movimento: R88     | 66 -> 54 
+Movimento: L90     | 54 -> 64 
+Movimento: L44     | 64 -> 20 
+Movimento: L20     | 20 -> 00 <-- ZERO
+Movimento: L76     | 00 -> 24 
+Movimento: L24     | 24 -> 00 <-- ZERO
+Movimento: L85     | 00 -> 15 
+Movimento: R85     | 15 -> 00 <-- ZERO
+Movimento: L374    | 00 -> 26 
+Movimento: L126    | 26 -> 00 <-- ZERO
+Movimento: R67     | 00 -> 67 
+Movimento: R97     | 67 -> 64 
+Movimento: R69     | 64 -> 33 
+Movimento: L33     | 33 -> 00 <-- ZERO
+Movimento: L3      | 00 -> 97 
+Movimento: R19     | 97 -> 16 
+Movimento: L79     | 16 -> 37 
+Movimento: L86     | 37 -> 51 
+Movimento: L132    | 51 -> 19 
+Movimento: L37     | 19 -> 82 
+Movimento: R18     | 82 -> 00 <-- ZERO
+Movimento: L288    | 00 -> 12 
+Movimento: L12     | 12 -> 00 <-- ZERO
+Movimento: R55     | 00 -> 55 
+Movimento: R45     | 55 -> 00 <-- ZERO
+Movimento: R83     | 00 -> 83 
+Movimento: R62     | 83 -> 45 
+Movimento: R55     | 45 -> 00 <-- ZERO
+Movimento: L78     | 00 -> 22 
+Movimento: R859    | 22 -> 81 
+Movimento: R19     | 81 -> 00 <-- ZERO
+Movimento: L34     | 00 -> 66 
+Movimento: L966    | 66 -> 00 <-- ZERO
+Movimento: L35     | 00 -> 65 
+Movimento: R29     | 65 -> 94 
+Movimento: L94     | 94 -> 00 <-- ZERO
+Movimento: L23     | 00 -> 77 
+Movimento: R75     | 77 -> 52 
+Movimento: R22     | 52 -> 74 
+Movimento: R55     | 74 -> 29 
+Movimento: R399    | 29 -> 28 
+Movimento: R38     | 28 -> 66 
+Movimento: R428    | 66 -> 94 
+Movimento: R6      | 94 -> 00 <-- ZERO
+Movimento: L30     | 00 -> 70 
+Movimento: R24     | 70 -> 94 
+Movimento: L75     | 94 -> 19 
+Movimento: L97     | 19 -> 22 
+Movimento: R29     | 22 -> 51 
+Movimento: R56     | 51 -> 07 
+Movimento: R22     | 07 -> 29 
+Movimento: L54     | 29 -> 75 
+Movimento: R25     | 75 -> 00 <-- ZERO
+Movimento: R999    | 00 -> 99 
+Movimento: R95     | 99 -> 94 
+Movimento: L269    | 94 -> 25 
+Movimento: L659    | 25 -> 66 
+Movimento: L13     | 66 -> 53 
+Movimento: R34     | 53 -> 87 
+Movimento: L68     | 87 -> 19 
+Movimento: L25     | 19 -> 94 
+Movimento: R6      | 94 -> 00 <-- ZERO
+Movimento: L23     | 00 -> 77 
+Movimento: L58     | 77 -> 19 
+Movimento: R81     | 19 -> 00 <-- ZERO
+Movimento: R68     | 00 -> 68 
+Movimento: L68     | 68 -> 00 <-- ZERO
+Movimento: R634    | 00 -> 34 
+Movimento: R66     | 34 -> 00 <-- ZERO
+Movimento: R89     | 00 -> 89 
+Movimento: R79     | 89 -> 68 
+Movimento: R32     | 68 -> 00 <-- ZERO
+Movimento: L37     | 00 -> 63 
+Movimento: L63     | 63 -> 00 <-- ZERO
+Movimento: R25     | 00 -> 25 
+Movimento: L80     | 25 -> 45 
+Movimento: R72     | 45 -> 17 
+Movimento: L852    | 17 -> 65 
+Movimento: L365    | 65 -> 00 <-- ZERO
+Movimento: L7      | 00 -> 93 
+Movimento: R42     | 93 -> 35 
+Movimento: L60     | 35 -> 75 
+Movimento: L58     | 75 -> 17 
+Movimento: L823    | 17 -> 94 
+Movimento: L94     | 94 -> 00 <-- ZERO
+Movimento: L59     | 00 -> 41 
+Movimento: R306    | 41 -> 47 
+Movimento: L25     | 47 -> 22 
+Movimento: R78     | 22 -> 00 <-- ZERO
+Movimento: L29     | 00 -> 71 
+Movimento: R29     | 71 -> 00 <-- ZERO
+Movimento: R86     | 00 -> 86 
+Movimento: L486    | 86 -> 00 <-- ZERO
+Movimento: R891    | 00 -> 91 
+Movimento: L94     | 91 -> 97 
+Movimento: R3      | 97 -> 00 <-- ZERO
+Movimento: L13     | 00 -> 87 
+Movimento: L60     | 87 -> 27 
+Movimento: R97     | 27 -> 24 
+Movimento: L424    | 24 -> 00 <-- ZERO
+Movimento: R76     | 00 -> 76 
+Movimento: L76     | 76 -> 00 <-- ZERO
+Movimento: R919    | 00 -> 19 
+Movimento: R81     | 19 -> 00 <-- ZERO
+Movimento: L23     | 00 -> 77 
+Movimento: L577    | 77 -> 00 <-- ZERO
+Movimento: L81     | 00 -> 19 
+Movimento: R25     | 19 -> 44 
+Movimento: L44     | 44 -> 00 <-- ZERO
+Movimento: L91     | 00 -> 09 
+Movimento: R916    | 09 -> 25 
+Movimento: L86     | 25 -> 39 
+Movimento: L809    | 39 -> 30 
+Movimento: L47     | 30 -> 83 
+Movimento: R725    | 83 -> 08 
+Movimento: L5      | 08 -> 03 
+Movimento: R46     | 03 -> 49 
+Movimento: L49     | 49 -> 00 <-- ZERO
+Movimento: L291    | 00 -> 09 
+Movimento: L29     | 09 -> 80 
+Movimento: R92     | 80 -> 72 
+Movimento: R668    | 72 -> 40 
+Movimento: L40     | 40 -> 00 <-- ZERO
+Movimento: R91     | 00 -> 91 
+Movimento: R909    | 91 -> 00 <-- ZERO
+Movimento: L50     | 00 -> 50 
+Movimento: L50     | 50 -> 00 <-- ZERO
+Movimento: L14     | 00 -> 86 
+Movimento: R19     | 86 -> 05 
+Movimento: L5      | 05 -> 00 <-- ZERO
+Movimento: R59     | 00 -> 59 
+Movimento: R7      | 59 -> 66 
+Movimento: R54     | 66 -> 20 
+Movimento: R58     | 20 -> 78 
+Movimento: R73     | 78 -> 51 
+Movimento: R97     | 51 -> 48 
+Movimento: L553    | 48 -> 95 
+Movimento: R78     | 95 -> 73 
+Movimento: R30     | 73 -> 03 
+Movimento: L75     | 03 -> 28 
+Movimento: R38     | 28 -> 66 
+Movimento: R60     | 66 -> 26 
+Movimento: R74     | 26 -> 00 <-- ZERO
+Movimento: R86     | 00 -> 86 
+Movimento: R187    | 86 -> 73 
+Movimento: R27     | 73 -> 00 <-- ZERO
+Movimento: R5      | 00 -> 05 
+Movimento: R19     | 05 -> 24 
+Movimento: L142    | 24 -> 82 
+Movimento: L18     | 82 -> 64 
+Movimento: L47     | 64 -> 17 
+Movimento: L64     | 17 -> 53 
+Movimento: R21     | 53 -> 74 
+Movimento: L74     | 74 -> 00 <-- ZERO
+Movimento: R75     | 00 -> 75 
+Movimento: R25     | 75 -> 00 <-- ZERO
+Movimento: L87     | 00 -> 13 
+Movimento: L63     | 13 -> 50 
+Movimento: R512    | 50 -> 62 
+Movimento: L79     | 62 -> 83 
+Movimento: L19     | 83 -> 64 
+Movimento: L45     | 64 -> 19 
+Movimento: R81     | 19 -> 00 <-- ZERO
+Movimento: L40     | 00 -> 60 
+Movimento: L47     | 60 -> 13 
+Movimento: L13     | 13 -> 00 <-- ZERO
+Movimento: L11     | 00 -> 89 
+Movimento: R953    | 89 -> 42 
+Movimento: L42     | 42 -> 00 <-- ZERO
+Movimento: R90     | 00 -> 90 
+Movimento: L95     | 90 -> 95 
+Movimento: R22     | 95 -> 17 
+Movimento: L40     | 17 -> 77 
+Movimento: L57     | 77 -> 20 
+Movimento: L20     | 20 -> 00 <-- ZERO
+Movimento: R978    | 00 -> 78 
+Movimento: R98     | 78 -> 76 
+Movimento: L90     | 76 -> 86 
+Movimento: L23     | 86 -> 63 
+Movimento: L90     | 63 -> 73 
+Movimento: L98     | 73 -> 75 
+Movimento: R325    | 75 -> 00 <-- ZERO
+Movimento: L92     | 00 -> 08 
+Movimento: L8      | 08 -> 00 <-- ZERO
+Movimento: L497    | 00 -> 03 
+Movimento: R12     | 03 -> 15 
+Movimento: R85     | 15 -> 00 <-- ZERO
+Movimento: L64     | 00 -> 36 
+Movimento: L99     | 36 -> 37 
+Movimento: L37     | 37 -> 00 <-- ZERO
+Movimento: L91     | 00 -> 09 
+Movimento: R491    | 09 -> 00 <-- ZERO
+Movimento: R15     | 00 -> 15 
+Movimento: L90     | 15 -> 25 
+Movimento: L395    | 25 -> 30 
+Movimento: L14     | 30 -> 16 
+Movimento: R84     | 16 -> 00 <-- ZERO
+Movimento: L38     | 00 -> 62 
+Movimento: R475    | 62 -> 37 
+Movimento: L45     | 37 -> 92 
+Movimento: R19     | 92 -> 11 
+Movimento: L11     | 11 -> 00 <-- ZERO
+Movimento: L51     | 00 -> 49 
+Movimento: L49     | 49 -> 00 <-- ZERO
+Movimento: L72     | 00 -> 28 
+Movimento: L69     | 28 -> 59 
+Movimento: R96     | 59 -> 55 
+Movimento: R45     | 55 -> 00 <-- ZERO
+Movimento: R86     | 00 -> 86 
+Movimento: R33     | 86 -> 19 
+Movimento: L19     | 19 -> 00 <-- ZERO
+Movimento: L99     | 00 -> 01 
+Movimento: L795    | 01 -> 06 
+Movimento: R94     | 06 -> 00 <-- ZERO
+Movimento: R37     | 00 -> 37 
+Movimento: R66     | 37 -> 03 
+Movimento: L76     | 03 -> 27 
+Movimento: L76     | 27 -> 51 
+Movimento: R49     | 51 -> 00 <-- ZERO
+Movimento: R61     | 00 -> 61 
+Movimento: R39     | 61 -> 00 <-- ZERO
+Movimento: L917    | 00 -> 83 
+Movimento: L8      | 83 -> 75 
+Movimento: L52     | 75 -> 23 
+Movimento: L44     | 23 -> 79 
+Movimento: R21     | 79 -> 00 <-- ZERO
+Movimento: R15     | 00 -> 15 
+Movimento: R99     | 15 -> 14 
+Movimento: L314    | 14 -> 00 <-- ZERO
+Movimento: R27     | 00 -> 27 
+Movimento: R71     | 27 -> 98 
+Movimento: R198    | 98 -> 96 
+Movimento: L754    | 96 -> 42 
+Movimento: L691    | 42 -> 51 
+Movimento: R16     | 51 -> 67 
+Movimento: L67     | 67 -> 00 <-- ZERO
+Movimento: R13     | 00 -> 13 
+Movimento: L13     | 13 -> 00 <-- ZERO
+Movimento: R64     | 00 -> 64 
+Movimento: L54     | 64 -> 10 
+Movimento: L70     | 10 -> 40 
+Movimento: R68     | 40 -> 08 
+Movimento: L59     | 08 -> 49 
+Movimento: L649    | 49 -> 00 <-- ZERO
+Movimento: R23     | 00 -> 23 
+Movimento: R314    | 23 -> 37 
+Movimento: L37     | 37 -> 00 <-- ZERO
+Movimento: R14     | 00 -> 14 
+Movimento: L57     | 14 -> 57 
+Movimento: L298    | 57 -> 59 
+Movimento: L59     | 59 -> 00 <-- ZERO
+Movimento: L810    | 00 -> 90 
+Movimento: L160    | 90 -> 30 
+Movimento: R53     | 30 -> 83 
+Movimento: R72     | 83 -> 55 
+Movimento: L43     | 55 -> 12 
+Movimento: L12     | 12 -> 00 <-- ZERO
+Movimento: R97     | 00 -> 97 
+Movimento: L36     | 97 -> 61 
+Movimento: L6      | 61 -> 55 
+Movimento: L62     | 55 -> 93 
+Movimento: R598    | 93 -> 91 
+Movimento: R9      | 91 -> 00 <-- ZERO
+Movimento: R1      | 00 -> 01 
+Movimento: R426    | 01 -> 27 
+Movimento: L41     | 27 -> 86 
+Movimento: R484    | 86 -> 70 
+Movimento: R30     | 70 -> 00 <-- ZERO
+Movimento: L72     | 00 -> 28 
+Movimento: L51     | 28 -> 77 
+Movimento: R62     | 77 -> 39 
+Movimento: L39     | 39 -> 00 <-- ZERO
+Movimento: R78     | 00 -> 78 
+Movimento: R38     | 78 -> 16 
+Movimento: L91     | 16 -> 25 
+Movimento: R75     | 25 -> 00 <-- ZERO
+Movimento: L97     | 00 -> 03 
+Movimento: R18     | 03 -> 21 
+Movimento: L604    | 21 -> 17 
+Movimento: R34     | 17 -> 51 
+Movimento: L85     | 51 -> 66 
+Movimento: L7      | 66 -> 59 
+Movimento: R41     | 59 -> 00 <-- ZERO
+Movimento: L6      | 00 -> 94 
+Movimento: L81     | 94 -> 13 
+Movimento: R87     | 13 -> 00 <-- ZERO
+Movimento: R9      | 00 -> 09 
+Movimento: L39     | 09 -> 70 
+Movimento: L2      | 70 -> 68 
+Movimento: L48     | 68 -> 20 
+Movimento: L46     | 20 -> 74 
+Movimento: L391    | 74 -> 83 
+Movimento: R917    | 83 -> 00 <-- ZERO
+Movimento: R10     | 00 -> 10 
+Movimento: L83     | 10 -> 27 
+Movimento: L31     | 27 -> 96 
+Movimento: L978    | 96 -> 18 
+Movimento: R144    | 18 -> 62 
+Movimento: R42     | 62 -> 04 
+Movimento: R96     | 04 -> 00 <-- ZERO
+Movimento: L44     | 00 -> 56 
+Movimento: R56     | 56 -> 12 
+Movimento: L3      | 12 -> 09 
+Movimento: L40     | 09 -> 69 
+Movimento: R23     | 69 -> 92 
+Movimento: L75     | 92 -> 17 
+Movimento: L17     | 17 -> 00 <-- ZERO
+Movimento: R61     | 00 -> 61 
+Movimento: L57     | 61 -> 04 
+Movimento: R396    | 04 -> 00 <-- ZERO
+Movimento: R41     | 00 -> 41 
+Movimento: L96     | 41 -> 45 
+Movimento: R13     | 45 -> 58 
+Movimento: R33     | 58 -> 91 
+Movimento: L72     | 91 -> 19 
+Movimento: R81     | 19 -> 00 <-- ZERO
+Movimento: L29     | 00 -> 71 
+Movimento: R26     | 71 -> 97 
+Movimento: L97     | 97 -> 00 <-- ZERO
+Movimento: L33     | 00 -> 67 
+Movimento: R44     | 67 -> 11 
+Movimento: R526    | 11 -> 37 
+Movimento: R12     | 37 -> 49 
+Movimento: R44     | 49 -> 93 
+Movimento: R12     | 93 -> 05 
+Movimento: R36     | 05 -> 41 
+Movimento: L87     | 41 -> 54 
+Movimento: R546    | 54 -> 00 <-- ZERO
+Movimento: R67     | 00 -> 67 
+Movimento: R91     | 67 -> 58 
+Movimento: L52     | 58 -> 06 
+Movimento: R184    | 06 -> 90 
+Movimento: L90     | 90 -> 00 <-- ZERO
+Movimento: R99     | 00 -> 99 
+Movimento: L47     | 99 -> 52 
+Movimento: R26     | 52 -> 78 
+Movimento: R22     | 78 -> 00 <-- ZERO
+Movimento: L84     | 00 -> 16 
+Movimento: R67     | 16 -> 83 
+Movimento: L83     | 83 -> 00 <-- ZERO
+Movimento: R21     | 00 -> 21 
+Movimento: L293    | 21 -> 28 
+Movimento: L176    | 28 -> 52 
+Movimento: R66     | 52 -> 18 
+Movimento: R53     | 18 -> 71 
+Movimento: R77     | 71 -> 48 
+Movimento: R31     | 48 -> 79 
+Movimento: L44     | 79 -> 35 
+Movimento: L47     | 35 -> 88 
+Movimento: L588    | 88 -> 00 <-- ZERO
+Movimento: L974    | 00 -> 26 
+Movimento: L226    | 26 -> 00 <-- ZERO
+Movimento: L86     | 00 -> 14 
+Movimento: L32     | 14 -> 82 
+Movimento: R84     | 82 -> 66 
+Movimento: L966    | 66 -> 00 <-- ZERO
+Movimento: L99     | 00 -> 01 
+Movimento: L852    | 01 -> 49 
+Movimento: L9      | 49 -> 40 
+Movimento: R48     | 40 -> 88 
+Movimento: R74     | 88 -> 62 
+Movimento: R28     | 62 -> 90 
+Movimento: L68     | 90 -> 22 
+Movimento: L22     | 22 -> 00 <-- ZERO
+Movimento: L4      | 00 -> 96 
+Movimento: L54     | 96 -> 42 
+Movimento: R60     | 42 -> 02 
+Movimento: L81     | 02 -> 21 
+Movimento: L921    | 21 -> 00 <-- ZERO
+Movimento: R62     | 00 -> 62 
+Movimento: R38     | 62 -> 00 <-- ZERO
+Movimento: R67     | 00 -> 67 
+Movimento: L79     | 67 -> 88 
+Movimento: L18     | 88 -> 70 
+Movimento: R430    | 70 -> 00 <-- ZERO
+Movimento: R52     | 00 -> 52 
+Movimento: L86     | 52 -> 66 
+Movimento: L45     | 66 -> 21 
+Movimento: L92     | 21 -> 29 
+Movimento: L129    | 29 -> 00 <-- ZERO
+Movimento: R69     | 00 -> 69 
+Movimento: R88     | 69 -> 57 
+Movimento: R98     | 57 -> 55 
+Movimento: R70     | 55 -> 25 
+Movimento: L25     | 25 -> 00 <-- ZERO
+Movimento: L60     | 00 -> 40 
+Movimento: L840    | 40 -> 00 <-- ZERO
+Movimento: R629    | 00 -> 29 
+Movimento: L29     | 29 -> 00 <-- ZERO
+Movimento: R86     | 00 -> 86 
+Movimento: L86     | 86 -> 00 <-- ZERO
+Movimento: L44     | 00 -> 56 
+Movimento: R75     | 56 -> 31 
+Movimento: L23     | 31 -> 08 
+Movimento: R92     | 08 -> 00 <-- ZERO
+Movimento: L626    | 00 -> 74 
+Movimento: R26     | 74 -> 00 <-- ZERO
+Movimento: R26     | 00 -> 26 
+Movimento: L26     | 26 -> 00 <-- ZERO
+Movimento: L42     | 00 -> 58 
+Movimento: L818    | 58 -> 40 
+Movimento: R860    | 40 -> 00 <-- ZERO
+Movimento: R50     | 00 -> 50 
+Movimento: R40     | 50 -> 90 
+Movimento: L90     | 90 -> 00 <-- ZERO
+Movimento: L509    | 00 -> 91 
+Movimento: L391    | 91 -> 00 <-- ZERO
+Movimento: R14     | 00 -> 14 
+Movimento: R51     | 14 -> 65 
+Movimento: L655    | 65 -> 10 
+Movimento: L10     | 10 -> 00 <-- ZERO
+Movimento: R38     | 00 -> 38 
+Movimento: L38     | 38 -> 00 <-- ZERO
+Movimento: R63     | 00 -> 63 
+Movimento: R63     | 63 -> 26 
+Movimento: L20     | 26 -> 06 
+Movimento: R97     | 06 -> 03 
+Movimento: R97     | 03 -> 00 <-- ZERO
+Movimento: R87     | 00 -> 87 
+Movimento: L45     | 87 -> 42 
+Movimento: R395    | 42 -> 37 
+Movimento: L37     | 37 -> 00 <-- ZERO
+Movimento: L34     | 00 -> 66 
+Movimento: R41     | 66 -> 07 
+Movimento: L90     | 07 -> 17 
+Movimento: L417    | 17 -> 00 <-- ZERO
+Movimento: L94     | 00 -> 06 
+Movimento: R76     | 06 -> 82 
+Movimento: R18     | 82 -> 00 <-- ZERO
+Movimento: L69     | 00 -> 31 
+Movimento: R79     | 31 -> 10 
+Movimento: L323    | 10 -> 87 
+Movimento: L79     | 87 -> 08 
+Movimento: L97     | 08 -> 11 
+Movimento: L49     | 11 -> 62 
+Movimento: R23     | 62 -> 85 
+Movimento: L385    | 85 -> 00 <-- ZERO
+Movimento: L63     | 00 -> 37 
+Movimento: L37     | 37 -> 00 <-- ZERO
+Movimento: L1      | 00 -> 99 
+Movimento: L99     | 99 -> 00 <-- ZERO
+Movimento: R85     | 00 -> 85 
+Movimento: R15     | 85 -> 00 <-- ZERO
+Movimento: L91     | 00 -> 09 
+Movimento: R91     | 09 -> 00 <-- ZERO
+Movimento: L93     | 00 -> 07 
+Movimento: R10     | 07 -> 17 
+Movimento: L74     | 17 -> 43 
+Movimento: R85     | 43 -> 28 
+Movimento: L47     | 28 -> 81 
+Movimento: R19     | 81 -> 00 <-- ZERO
+Movimento: R20     | 00 -> 20 
+Movimento: R83     | 20 -> 03 
+Movimento: L64     | 03 -> 39 
+Movimento: L897    | 39 -> 42 
+Movimento: L272    | 42 -> 70 
+Movimento: L370    | 70 -> 00 <-- ZERO
+Movimento: R59     | 00 -> 59 
+Movimento: R41     | 59 -> 00 <-- ZERO
+Movimento: R80     | 00 -> 80 
+Movimento: L80     | 80 -> 00 <-- ZERO
+Movimento: R63     | 00 -> 63 
+Movimento: R337    | 63 -> 00 <-- ZERO
+Movimento: L5      | 00 -> 95 
+Movimento: L95     | 95 -> 00 <-- ZERO
+Movimento: R31     | 00 -> 31 
+Movimento: R28     | 31 -> 59 
+Movimento: R337    | 59 -> 96 
+Movimento: L58     | 96 -> 38 
+Movimento: R18     | 38 -> 56 
+Movimento: R26     | 56 -> 82 
+Movimento: R61     | 82 -> 43 
+Movimento: R602    | 43 -> 45 
+Movimento: L145    | 45 -> 00 <-- ZERO
+Movimento: L47     | 00 -> 53 
+Movimento: R29     | 53 -> 82 
+Movimento: R90     | 82 -> 72 
+Movimento: L72     | 72 -> 00 <-- ZERO
+Movimento: L67     | 00 -> 33 
+Movimento: R11     | 33 -> 44 
+Movimento: R92     | 44 -> 36 
+Movimento: R871    | 36 -> 07 
+Movimento: R893    | 07 -> 00 <-- ZERO
+Movimento: R25     | 00 -> 25 
+Movimento: R75     | 25 -> 00 <-- ZERO
+Movimento: R9      | 00 -> 09 
+Movimento: L9      | 09 -> 00 <-- ZERO
+Movimento: R5      | 00 -> 05 
+Movimento: L5      | 05 -> 00 <-- ZERO
+Movimento: L461    | 00 -> 39 
+Movimento: L869    | 39 -> 70 
+Movimento: L570    | 70 -> 00 <-- ZERO
+Movimento: R82     | 00 -> 82 
+Movimento: L46     | 82 -> 36 
+Movimento: L36     | 36 -> 00 <-- ZERO
+Movimento: R25     | 00 -> 25 
+Movimento: L538    | 25 -> 87 
+Movimento: L87     | 87 -> 00 <-- ZERO
+Movimento: L479    | 00 -> 21 
+Movimento: R79     | 21 -> 00 <-- ZERO
+Movimento: L49     | 00 -> 51 
+Movimento: R16     | 51 -> 67 
+Movimento: R44     | 67 -> 11 
+Movimento: R589    | 11 -> 00 <-- ZERO
+Movimento: L576    | 00 -> 24 
+Movimento: R735    | 24 -> 59 
+Movimento: R41     | 59 -> 00 <-- ZERO
+Movimento: L832    | 00 -> 68 
+Movimento: R32     | 68 -> 00 <-- ZERO
+Movimento: L71     | 00 -> 29 
+Movimento: R471    | 29 -> 00 <-- ZERO
+Movimento: L17     | 00 -> 83 
+Movimento: L982    | 83 -> 01 
+Movimento: R74     | 01 -> 75 
+Movimento: L75     | 75 -> 00 <-- ZERO
+Movimento: L723    | 00 -> 77 
+Movimento: L77     | 77 -> 00 <-- ZERO
+Movimento: R33     | 00 -> 33 
+Movimento: R67     | 33 -> 00 <-- ZERO
+Movimento: L27     | 00 -> 73 
+Movimento: R27     | 73 -> 00 <-- ZERO
+Movimento: R84     | 00 -> 84 
+Movimento: L84     | 84 -> 00 <-- ZERO
+Movimento: R64     | 00 -> 64 
+Movimento: L58     | 64 -> 06 
+Movimento: L73     | 06 -> 33 
+Movimento: R67     | 33 -> 00 <-- ZERO
+Movimento: L32     | 00 -> 68 
+Movimento: R82     | 68 -> 50 
+Movimento: R14     | 50 -> 64 
+Movimento: R8      | 64 -> 72 
+Movimento: R74     | 72 -> 46 
+Movimento: R316    | 46 -> 62 
+Movimento: R8      | 62 -> 70 
+Movimento: L70     | 70 -> 00 <-- ZERO
+Movimento: L811    | 00 -> 89 
+Movimento: R11     | 89 -> 00 <-- ZERO
+Movimento: R54     | 00 -> 54 
+Movimento: R46     | 54 -> 00 <-- ZERO
+Movimento: L32     | 00 -> 68 
+Movimento: R29     | 68 -> 97 
+Movimento: R17     | 97 -> 14 
+Movimento: L14     | 14 -> 00 <-- ZERO
+Movimento: R11     | 00 -> 11 
+Movimento: R89     | 11 -> 00 <-- ZERO
+Movimento: R85     | 00 -> 85 
+Movimento: L24     | 85 -> 61 
+Movimento: R8      | 61 -> 69 
+Movimento: R50     | 69 -> 19 
+Movimento: R81     | 19 -> 00 <-- ZERO
+Movimento: L923    | 00 -> 77 
+Movimento: R23     | 77 -> 00 <-- ZERO
+Movimento: L37     | 00 -> 63 
+Movimento: L63     | 63 -> 00 <-- ZERO
+Movimento: R16     | 00 -> 16 
+Movimento: L16     | 16 -> 00 <-- ZERO
+Movimento: R494    | 00 -> 94 
+Movimento: R6      | 94 -> 00 <-- ZERO
+Movimento: L73     | 00 -> 27 
+Movimento: L68     | 27 -> 59 
+Movimento: L637    | 59 -> 22 
+Movimento: R78     | 22 -> 00 <-- ZERO
+Movimento: L93     | 00 -> 07 
+Movimento: L107    | 07 -> 00 <-- ZERO
+Movimento: L733    | 00 -> 67 
+Movimento: R33     | 67 -> 00 <-- ZERO
+Movimento: L838    | 00 -> 62 
+Movimento: R31     | 62 -> 93 
+Movimento: R7      | 93 -> 00 <-- ZERO
+Movimento: L53     | 00 -> 47 
+Movimento: L47     | 47 -> 00 <-- ZERO
+Movimento: R490    | 00 -> 90 
+Movimento: R17     | 90 -> 07 
+Movimento: R93     | 07 -> 00 <-- ZERO
+Movimento: R43     | 00 -> 43 
+Movimento: R17     | 43 -> 60 
+Movimento: L8      | 60 -> 52 
+Movimento: R37     | 52 -> 89 
+Movimento: R11     | 89 -> 00 <-- ZERO
+Movimento: L56     | 00 -> 44 
+Movimento: R67     | 44 -> 11 
+Movimento: L40     | 11 -> 71 
+Movimento: R67     | 71 -> 38 
+Movimento: L54     | 38 -> 84 
+Movimento: L284    | 84 -> 00 <-- ZERO
+Movimento: L959    | 00 -> 41 
+Movimento: L41     | 41 -> 00 <-- ZERO
+Movimento: R87     | 00 -> 87 
+Movimento: R13     | 87 -> 00 <-- ZERO
+Movimento: L18     | 00 -> 82 
+Movimento: L131    | 82 -> 51 
+Movimento: R49     | 51 -> 00 <-- ZERO
+Movimento: L264    | 00 -> 36 
+Movimento: R27     | 36 -> 63 
+Movimento: R80     | 63 -> 43 
+Movimento: R957    | 43 -> 00 <-- ZERO
+Movimento: L121    | 00 -> 79 
+Movimento: R919    | 79 -> 98 
+Movimento: L20     | 98 -> 78 
+Movimento: L78     | 78 -> 00 <-- ZERO
+Movimento: L74     | 00 -> 26 
+Movimento: R56     | 26 -> 82 
+Movimento: R18     | 82 -> 00 <-- ZERO
+Movimento: L70     | 00 -> 30 
+Movimento: L30     | 30 -> 00 <-- ZERO
+Movimento: R74     | 00 -> 74 
+Movimento: R31     | 74 -> 05 
+Movimento: L18     | 05 -> 87 
+Movimento: L31     | 87 -> 56 
+Movimento: L51     | 56 -> 05 
+Movimento: L36     | 05 -> 69 
+Movimento: L69     | 69 -> 00 <-- ZERO
+Movimento: R19     | 00 -> 19 
+Movimento: R70     | 19 -> 89 
+Movimento: R201    | 89 -> 90 
+Movimento: L71     | 90 -> 19 
+Movimento: R81     | 19 -> 00 <-- ZERO
+Movimento: L17     | 00 -> 83 
+Movimento: R88     | 83 -> 71 
+Movimento: R29     | 71 -> 00 <-- ZERO
+Movimento: L479    | 00 -> 21 
+Movimento: R14     | 21 -> 35 
+Movimento: R65     | 35 -> 00 <-- ZERO
+Movimento: R21     | 00 -> 21 
+Movimento: R74     | 21 -> 95 
+Movimento: R5      | 95 -> 00 <-- ZERO
+Movimento: R12     | 00 -> 12 
+Movimento: L12     | 12 -> 00 <-- ZERO
+Movimento: L45     | 00 -> 55 
+Movimento: L55     | 55 -> 00 <-- ZERO
+Movimento: R79     | 00 -> 79 
+Movimento: L79     | 79 -> 00 <-- ZERO
+Movimento: R243    | 00 -> 43 
+Movimento: L90     | 43 -> 53 
+Movimento: L14     | 53 -> 39 
+Movimento: L39     | 39 -> 00 <-- ZERO
+Movimento: L41     | 00 -> 59 
+Movimento: L299    | 59 -> 60 
+Movimento: L99     | 60 -> 61 
+Movimento: R39     | 61 -> 00 <-- ZERO
+Movimento: L36     | 00 -> 64 
+Movimento: L78     | 64 -> 86 
+Movimento: L41     | 86 -> 45 
+Movimento: L14     | 45 -> 31 
+Movimento: R13     | 31 -> 44 
+Movimento: L77     | 44 -> 67 
+Movimento: R50     | 67 -> 17 
+Movimento: R583    | 17 -> 00 <-- ZERO
+Movimento: L851    | 00 -> 49 
+Movimento: R19     | 49 -> 68 
+Movimento: R93     | 68 -> 61 
+Movimento: R239    | 61 -> 00 <-- ZERO
+Movimento: R568    | 00 -> 68 
+Movimento: L68     | 68 -> 00 <-- ZERO
+Movimento: L572    | 00 -> 28 
+Movimento: L28     | 28 -> 00 <-- ZERO
+Movimento: L20     | 00 -> 80 
+Movimento: L77     | 80 -> 03 
+Movimento: L59     | 03 -> 44 
+Movimento: R56     | 44 -> 00 <-- ZERO
+Movimento: R99     | 00 -> 99 
+Movimento: L99     | 99 -> 00 <-- ZERO
+Movimento: R745    | 00 -> 45 
+Movimento: L45     | 45 -> 00 <-- ZERO
+Movimento: L19     | 00 -> 81 
+Movimento: R19     | 81 -> 00 <-- ZERO
+Movimento: L21     | 00 -> 79 
+Movimento: R885    | 79 -> 64 
+Movimento: L74     | 64 -> 90 
+Movimento: R10     | 90 -> 00 <-- ZERO
+Movimento: R911    | 00 -> 11 
+Movimento: R38     | 11 -> 49 
+Movimento: L49     | 49 -> 00 <-- ZERO
+Movimento: L431    | 00 -> 69 
+Movimento: R231    | 69 -> 00 <-- ZERO
+Movimento: R57     | 00 -> 57 
+Movimento: R43     | 57 -> 00 <-- ZERO
+Movimento: R12     | 00 -> 12 
+Movimento: R88     | 12 -> 00 <-- ZERO
+Movimento: L36     | 00 -> 64 
+Movimento: L39     | 64 -> 25 
+Movimento: L887    | 25 -> 38 
+Movimento: R62     | 38 -> 00 <-- ZERO
+Movimento: R72     | 00 -> 72 
+Movimento: R528    | 72 -> 00 <-- ZERO
+Movimento: R426    | 00 -> 26 
+Movimento: R74     | 26 -> 00 <-- ZERO
+Movimento: R77     | 00 -> 77 
+Movimento: L77     | 77 -> 00 <-- ZERO
+Movimento: R32     | 00 -> 32 
+Movimento: R72     | 32 -> 04 
+Movimento: R796    | 04 -> 00 <-- ZERO
+Movimento: R16     | 00 -> 16 
+Movimento: R2      | 16 -> 18 
+Movimento: R5      | 18 -> 23 
+Movimento: R77     | 23 -> 00 <-- ZERO
+Movimento: L43     | 00 -> 57 
+Movimento: R43     | 57 -> 00 <-- ZERO
+Movimento: L94     | 00 -> 06 
+Movimento: R71     | 06 -> 77 
+Movimento: L732    | 77 -> 45 
+Movimento: R72     | 45 -> 17 
+Movimento: R626    | 17 -> 43 
+Movimento: R57     | 43 -> 00 <-- ZERO
+Movimento: L495    | 00 -> 05 
+Movimento: R28     | 05 -> 33 
+Movimento: R70     | 33 -> 03 
+Movimento: R88     | 03 -> 91 
+Movimento: R9      | 91 -> 00 <-- ZERO
+Movimento: L64     | 00 -> 36 
+Movimento: R564    | 36 -> 00 <-- ZERO
+Movimento: L38     | 00 -> 62 
+Movimento: R38     | 62 -> 00 <-- ZERO
+Movimento: R620    | 00 -> 20 
+Movimento: R82     | 20 -> 02 
+Movimento: R80     | 02 -> 82 
+Movimento: R63     | 82 -> 45 
+Movimento: L826    | 45 -> 19 
+Movimento: L19     | 19 -> 00 <-- ZERO
+Movimento: L23     | 00 -> 77 
+Movimento: L81     | 77 -> 96 
+Movimento: L55     | 96 -> 41 
+Movimento: L741    | 41 -> 00 <-- ZERO
+Movimento: L77     | 00 -> 23 
+Movimento: R36     | 23 -> 59 
+Movimento: L59     | 59 -> 00 <-- ZERO
+Movimento: L33     | 00 -> 67 
+Movimento: R33     | 67 -> 00 <-- ZERO
+Movimento: L99     | 00 -> 01 
+Movimento: L72     | 01 -> 29 
+Movimento: L20     | 29 -> 09 
+Movimento: L9      | 09 -> 00 <-- ZERO
+Movimento: R241    | 00 -> 41 
+Movimento: L41     | 41 -> 00 <-- ZERO
+Movimento: R86     | 00 -> 86 
+Movimento: L86     | 86 -> 00 <-- ZERO
+Movimento: L93     | 00 -> 07 
+Movimento: L36     | 07 -> 71 
+Movimento: R435    | 71 -> 06 
+Movimento: L6      | 06 -> 00 <-- ZERO
+Movimento: L38     | 00 -> 62 
+Movimento: L20     | 62 -> 42 
+Movimento: L55     | 42 -> 87 
+Movimento: R69     | 87 -> 56 
+Movimento: R70     | 56 -> 26 
+Movimento: R44     | 26 -> 70 
+Movimento: R30     | 70 -> 00 <-- ZERO
+Movimento: R81     | 00 -> 81 
+Movimento: R86     | 81 -> 67 
+Movimento: L64     | 67 -> 03 
+Movimento: R74     | 03 -> 77 
+Movimento: R80     | 77 -> 57 
+Movimento: R545    | 57 -> 02 
+Movimento: L1      | 02 -> 01 
+Movimento: L627    | 01 -> 74 
+Movimento: L23     | 74 -> 51 
+Movimento: R60     | 51 -> 11 
+Movimento: R189    | 11 -> 00 <-- ZERO
+Movimento: L86     | 00 -> 14 
+Movimento: R86     | 14 -> 00 <-- ZERO
+Movimento: R8      | 00 -> 08 
+Movimento: R804    | 08 -> 12 
+Movimento: R627    | 12 -> 39 
+Movimento: R71     | 39 -> 10 
+Movimento: L57     | 10 -> 53 
+Movimento: R48     | 53 -> 01 
+Movimento: L84     | 01 -> 17 
+Movimento: R87     | 17 -> 04 
+Movimento: L83     | 04 -> 21 
+Movimento: R179    | 21 -> 00 <-- ZERO
+Movimento: L97     | 00 -> 03 
+Movimento: R36     | 03 -> 39 
+Movimento: L12     | 39 -> 27 
+Movimento: R960    | 27 -> 87 
+Movimento: L45     | 87 -> 42 
+Movimento: L48     | 42 -> 94 
+Movimento: L67     | 94 -> 27 
+Movimento: R462    | 27 -> 89 
+Movimento: R711    | 89 -> 00 <-- ZERO
+Movimento: L39     | 00 -> 61 
+Movimento: R539    | 61 -> 00 <-- ZERO
+Movimento: R666    | 00 -> 66 
+Movimento: L31     | 66 -> 35 
+Movimento: L35     | 35 -> 00 <-- ZERO
+Movimento: R8      | 00 -> 08 
+Movimento: L79     | 08 -> 29 
+Movimento: R50     | 29 -> 79 
+Movimento: L879    | 79 -> 00 <-- ZERO
+Movimento: R61     | 00 -> 61 
+Movimento: R62     | 61 -> 23 
+Movimento: R177    | 23 -> 00 <-- ZERO
+Movimento: R47     | 00 -> 47 
+Movimento: L47     | 47 -> 00 <-- ZERO
+Movimento: L82     | 00 -> 18 
+Movimento: L45     | 18 -> 73 
+Movimento: L73     | 73 -> 00 <-- ZERO
+Movimento: R17     | 00 -> 17 
+Movimento: R49     | 17 -> 66 
+Movimento: L18     | 66 -> 48 
+Movimento: L98     | 48 -> 50 
+Movimento: R250    | 50 -> 00 <-- ZERO
+Movimento: L57     | 00 -> 43 
+Movimento: L15     | 43 -> 28 
+Movimento: L28     | 28 -> 00 <-- ZERO
+Movimento: L94     | 00 -> 06 
+Movimento: R36     | 06 -> 42 
+Movimento: L194    | 42 -> 48 
+Movimento: R52     | 48 -> 00 <-- ZERO
+Movimento: L269    | 00 -> 31 
+Movimento: L931    | 31 -> 00 <-- ZERO
+Movimento: L939    | 00 -> 61 
+Movimento: L161    | 61 -> 00 <-- ZERO
+Movimento: R193    | 00 -> 93 
+Movimento: R41     | 93 -> 34 
+Movimento: L42     | 34 -> 92 
+Movimento: L92     | 92 -> 00 <-- ZERO
+Movimento: L12     | 00 -> 88 
+Movimento: L88     | 88 -> 00 <-- ZERO
+Movimento: R831    | 00 -> 31 
+Movimento: L731    | 31 -> 00 <-- ZERO
+Movimento: R85     | 00 -> 85 
+Movimento: R58     | 85 -> 43 
+Movimento: R41     | 43 -> 84 
+Movimento: R64     | 84 -> 48 
+Movimento: R122    | 48 -> 70 
+Movimento: R5      | 70 -> 75 
+Movimento: L6      | 75 -> 69 
+Movimento: R8      | 69 -> 77 
+Movimento: R23     | 77 -> 00 <-- ZERO
+Movimento: R11     | 00 -> 11 
+Movimento: L14     | 11 -> 97 
+Movimento: R103    | 97 -> 00 <-- ZERO
+Movimento: L7      | 00 -> 93 
+Movimento: L45     | 93 -> 48 
+Movimento: L43     | 48 -> 05 
+Movimento: R95     | 05 -> 00 <-- ZERO
+Movimento: R47     | 00 -> 47 
+Movimento: R94     | 47 -> 41 
+Movimento: R779    | 41 -> 20 
+Movimento: R86     | 20 -> 06 
+Movimento: R43     | 06 -> 49 
+Movimento: L20     | 49 -> 29 
+Movimento: L60     | 29 -> 69 
+Movimento: L69     | 69 -> 00 <-- ZERO
+Movimento: R128    | 00 -> 28 
+Movimento: R827    | 28 -> 55 
+Movimento: L55     | 55 -> 00 <-- ZERO
+Movimento: L26     | 00 -> 74 
+Movimento: R28     | 74 -> 02 
+Movimento: R710    | 02 -> 12 
+Movimento: L12     | 12 -> 00 <-- ZERO
+Movimento: L332    | 00 -> 68 
+Movimento: L68     | 68 -> 00 <-- ZERO
+Movimento: R14     | 00 -> 14 
+Movimento: L77     | 14 -> 37 
+Movimento: R12     | 37 -> 49 
+Movimento: L12     | 49 -> 37 
+Movimento: R328    | 37 -> 65 
+Movimento: R935    | 65 -> 00 <-- ZERO
+Movimento: L412    | 00 -> 88 
+Movimento: R28     | 88 -> 16 
+Movimento: L456    | 16 -> 60 
+Movimento: R97     | 60 -> 57 
+Movimento: R67     | 57 -> 24 
+Movimento: L24     | 24 -> 00 <-- ZERO
+Movimento: R87     | 00 -> 87 
+Movimento: R913    | 87 -> 00 <-- ZERO
+Movimento: R98     | 00 -> 98 
+Movimento: R502    | 98 -> 00 <-- ZERO
+Movimento: L840    | 00 -> 60 
+Movimento: L56     | 60 -> 04 
+Movimento: L54     | 04 -> 50 
+Movimento: R450    | 50 -> 00 <-- ZERO
+Movimento: L88     | 00 -> 12 
+Movimento: R94     | 12 -> 06 
+Movimento: L68     | 06 -> 38 
+Movimento: R38     | 38 -> 76 
+Movimento: R38     | 76 -> 14 
+Movimento: R88     | 14 -> 02 
+Movimento: R98     | 02 -> 00 <-- ZERO
+Movimento: R28     | 00 -> 28 
+Movimento: R72     | 28 -> 00 <-- ZERO
+Movimento: R83     | 00 -> 83 
+Movimento: R69     | 83 -> 52 
+Movimento: R5      | 52 -> 57 
+Movimento: L57     | 57 -> 00 <-- ZERO
+Movimento: R53     | 00 -> 53 
+Movimento: L389    | 53 -> 64 
+Movimento: R636    | 64 -> 00 <-- ZERO
+Movimento: R89     | 00 -> 89 
+Movimento: L89     | 89 -> 00 <-- ZERO
+Movimento: R504    | 00 -> 04 
+Movimento: R10     | 04 -> 14 
+Movimento: R986    | 14 -> 00 <-- ZERO
+Movimento: R42     | 00 -> 42 
+Movimento: R458    | 42 -> 00 <-- ZERO
+Movimento: R75     | 00 -> 75 
+Movimento: L16     | 75 -> 59 
+Movimento: L94     | 59 -> 65 
+Movimento: L65     | 65 -> 00 <-- ZERO
+Movimento: R76     | 00 -> 76 
+Movimento: R724    | 76 -> 00 <-- ZERO
+Movimento: R14     | 00 -> 14 
+Movimento: L14     | 14 -> 00 <-- ZERO
+Movimento: L60     | 00 -> 40 
+Movimento: L88     | 40 -> 52 
+Movimento: R87     | 52 -> 39 
+Movimento: R47     | 39 -> 86 
+Movimento: R57     | 86 -> 43 
+Movimento: R57     | 43 -> 00 <-- ZERO
+Movimento: L13     | 00 -> 87 
+Movimento: L772    | 87 -> 15 
+Movimento: R16     | 15 -> 31 
+Movimento: R51     | 31 -> 82 
+Movimento: L82     | 82 -> 00 <-- ZERO
+Movimento: L74     | 00 -> 26 
+Movimento: R74     | 26 -> 00 <-- ZERO
+Movimento: L54     | 00 -> 46 
+Movimento: L74     | 46 -> 72 
+Movimento: L77     | 72 -> 95 
+Movimento: R5      | 95 -> 00 <-- ZERO
+Movimento: L408    | 00 -> 92 
+Movimento: R50     | 92 -> 42 
+Movimento: R12     | 42 -> 54 
+Movimento: R46     | 54 -> 00 <-- ZERO
+Movimento: L62     | 00 -> 38 
+Movimento: R44     | 38 -> 82 
+Movimento: L54     | 82 -> 28 
+Movimento: R772    | 28 -> 00 <-- ZERO
+Movimento: L4      | 00 -> 96 
+Movimento: L96     | 96 -> 00 <-- ZERO
+Movimento: L17     | 00 -> 83 
+Movimento: L30     | 83 -> 53 
+Movimento: R56     | 53 -> 09 
+Movimento: R39     | 09 -> 48 
+Movimento: R92     | 48 -> 40 
+Movimento: R460    | 40 -> 00 <-- ZERO
+Movimento: R5      | 00 -> 05 
+Movimento: L5      | 05 -> 00 <-- ZERO
+Movimento: L51     | 00 -> 49 
+Movimento: R351    | 49 -> 00 <-- ZERO
+Movimento: L84     | 00 -> 16 
+Movimento: L347    | 16 -> 69 
+Movimento: R37     | 69 -> 06 
+Movimento: R863    | 06 -> 69 
+Movimento: R233    | 69 -> 02 
+Movimento: L45     | 02 -> 57 
+Movimento: R543    | 57 -> 00 <-- ZERO
+Movimento: R74     | 00 -> 74 
+Movimento: L874    | 74 -> 00 <-- ZERO
+Movimento: L45     | 00 -> 55 
+Movimento: R45     | 55 -> 00 <-- ZERO
+Movimento: L149    | 00 -> 51 
+Movimento: R49     | 51 -> 00 <-- ZERO
+Movimento: L85     | 00 -> 15 
+Movimento: L14     | 15 -> 01 
+Movimento: L26     | 01 -> 75 
+Movimento: L75     | 75 -> 00 <-- ZERO
+Movimento: L34     | 00 -> 66 
+Movimento: L573    | 66 -> 93 
+Movimento: R85     | 93 -> 78 
+Movimento: L78     | 78 -> 00 <-- ZERO
+Movimento: L13     | 00 -> 87 
+Movimento: L92     | 87 -> 95 
+Movimento: L95     | 95 -> 00 <-- ZERO
+Movimento: R252    | 00 -> 52 
+Movimento: L11     | 52 -> 41 
+Movimento: L469    | 41 -> 72 
+Movimento: L72     | 72 -> 00 <-- ZERO
+Movimento: L98     | 00 -> 02 
+Movimento: L20     | 02 -> 82 
+Movimento: R30     | 82 -> 12 
+Movimento: L312    | 12 -> 00 <-- ZERO
+Movimento: L711    | 00 -> 89 
+Movimento: R4      | 89 -> 93 
+Movimento: R120    | 93 -> 13 
+Movimento: R69     | 13 -> 82 
+Movimento: R85     | 82 -> 67 
+Movimento: R33     | 67 -> 00 <-- ZERO
+Movimento: R72     | 00 -> 72 
+Movimento: R74     | 72 -> 46 
+Movimento: L46     | 46 -> 00 <-- ZERO
+Movimento: R95     | 00 -> 95 
+Movimento: L295    | 95 -> 00 <-- ZERO
+Movimento: L87     | 00 -> 13 
+Movimento: L96     | 13 -> 17 
+Movimento: R94     | 17 -> 11 
+Movimento: R78     | 11 -> 89 
+Movimento: L95     | 89 -> 94 
+Movimento: L52     | 94 -> 42 
+Movimento: L22     | 42 -> 20 
+Movimento: L260    | 20 -> 60 
+Movimento: L23     | 60 -> 37 
+Movimento: L137    | 37 -> 00 <-- ZERO
+Movimento: R507    | 00 -> 07 
+Movimento: R793    | 07 -> 00 <-- ZERO
+Movimento: L96     | 00 -> 04 
+Movimento: L4      | 04 -> 00 <-- ZERO
+Movimento: R27     | 00 -> 27 
+Movimento: L527    | 27 -> 00 <-- ZERO
+Movimento: R70     | 00 -> 70 
+Movimento: R30     | 70 -> 00 <-- ZERO
+Movimento: R61     | 00 -> 61 
+Movimento: R75     | 61 -> 36 
+Movimento: R56     | 36 -> 92 
+Movimento: R83     | 92 -> 75 
+Movimento: L17     | 75 -> 58 
+Movimento: R58     | 58 -> 16 
+Movimento: L916    | 16 -> 00 <-- ZERO
+Movimento: L31     | 00 -> 69 
+Movimento: L19     | 69 -> 50 
+Movimento: L50     | 50 -> 00 <-- ZERO
+Movimento: L70     | 00 -> 30 
+Movimento: R2      | 30 -> 32 
+Movimento: R68     | 32 -> 00 <-- ZERO
+Movimento: L16     | 00 -> 84 
+Movimento: L3      | 84 -> 81 
+Movimento: R69     | 81 -> 50 
+Movimento: L84     | 50 -> 66 
+Movimento: R8      | 66 -> 74 
+Movimento: L267    | 74 -> 07 
+Movimento: R93     | 07 -> 00 <-- ZERO
+Movimento: R88     | 00 -> 88 
+Movimento: L88     | 88 -> 00 <-- ZERO
+Movimento: L76     | 00 -> 24 
+Movimento: R578    | 24 -> 02 
+Movimento: R708    | 02 -> 10 
+Movimento: R23     | 10 -> 33 
+Movimento: L74     | 33 -> 59 
+Movimento: R41     | 59 -> 00 <-- ZERO
+Movimento: R38     | 00 -> 38 
+Movimento: L38     | 38 -> 00 <-- ZERO
+Movimento: R857    | 00 -> 57 
+Movimento: R43     | 57 -> 00 <-- ZERO
+Movimento: R13     | 00 -> 13 
+Movimento: L432    | 13 -> 81 
+Movimento: L15     | 81 -> 66 
+Movimento: R99     | 66 -> 65 
+Movimento: R43     | 65 -> 08 
+Movimento: L4      | 08 -> 04 
+Movimento: L87     | 04 -> 17 
+Movimento: R40     | 17 -> 57 
+Movimento: L644    | 57 -> 13 
+Movimento: R379    | 13 -> 92 
+Movimento: R81     | 92 -> 73 
+Movimento: R65     | 73 -> 38 
+Movimento: L96     | 38 -> 42 
+Movimento: R58     | 42 -> 00 <-- ZERO
+Movimento: R98     | 00 -> 98 
+Movimento: R5      | 98 -> 03 
+Movimento: L80     | 03 -> 23 
+Movimento: R77     | 23 -> 00 <-- ZERO
+Movimento: R70     | 00 -> 70 
+Movimento: L24     | 70 -> 46 
+Movimento: L60     | 46 -> 86 
+Movimento: R53     | 86 -> 39 
+Movimento: L39     | 39 -> 00 <-- ZERO
+Movimento: R66     | 00 -> 66 
+Movimento: L344    | 66 -> 22 
+Movimento: L1      | 22 -> 21 
+Movimento: R56     | 21 -> 77 
+Movimento: L77     | 77 -> 00 <-- ZERO
+Movimento: L90     | 00 -> 10 
+Movimento: R775    | 10 -> 85 
+Movimento: R15     | 85 -> 00 <-- ZERO
+Movimento: R16     | 00 -> 16 
+Movimento: R84     | 16 -> 00 <-- ZERO
+Movimento: L41     | 00 -> 59 
+Movimento: R41     | 59 -> 00 <-- ZERO
+Movimento: L8      | 00 -> 92 
+Movimento: R98     | 92 -> 90 
+Movimento: L890    | 90 -> 00 <-- ZERO
+Movimento: R9      | 00 -> 09 
+Movimento: R3      | 09 -> 12 
+Movimento: R54     | 12 -> 66 
+Movimento: L80     | 66 -> 86 
+Movimento: L83     | 86 -> 03 
+Movimento: R65     | 03 -> 68 
+Movimento: R33     | 68 -> 01 
+Movimento: R1      | 01 -> 02 
+Movimento: L356    | 02 -> 46 
+Movimento: L108    | 46 -> 38 
+Movimento: L10     | 38 -> 28 
+Movimento: L851    | 28 -> 77 
+Movimento: R27     | 77 -> 04 
+Movimento: R42     | 04 -> 46 
+Movimento: R46     | 46 -> 92 
+Movimento: L692    | 92 -> 00 <-- ZERO
+Movimento: L817    | 00 -> 83 
+Movimento: L83     | 83 -> 00 <-- ZERO
+Movimento: R58     | 00 -> 58 
+Movimento: R42     | 58 -> 00 <-- ZERO
+Movimento: R51     | 00 -> 51 
+Movimento: L74     | 51 -> 77 
+Movimento: R23     | 77 -> 00 <-- ZERO
+Movimento: R957    | 00 -> 57 
+Movimento: R86     | 57 -> 43 
+Movimento: R70     | 43 -> 13 
+Movimento: R724    | 13 -> 37 
+Movimento: R14     | 37 -> 51 
+Movimento: L851    | 51 -> 00 <-- ZERO
+Movimento: L42     | 00 -> 58 
+Movimento: R42     | 58 -> 00 <-- ZERO
+Movimento: R83     | 00 -> 83 
+Movimento: L83     | 83 -> 00 <-- ZERO
+Movimento: L38     | 00 -> 62 
+Movimento: R438    | 62 -> 00 <-- ZERO
+Movimento: R724    | 00 -> 24 
+Movimento: L17     | 24 -> 07 
+Movimento: R938    | 07 -> 45 
+Movimento: L45     | 45 -> 00 <-- ZERO
+Movimento: R50     | 00 -> 50 
+Movimento: R50     | 50 -> 00 <-- ZERO
+Movimento: R118    | 00 -> 18 
+Movimento: R82     | 18 -> 00 <-- ZERO
+Movimento: L22     | 00 -> 78 
+Movimento: R856    | 78 -> 34 
+Movimento: L86     | 34 -> 48 
+Movimento: L48     | 48 -> 00 <-- ZERO
+Movimento: R96     | 00 -> 96 
+Movimento: R78     | 96 -> 74 
+Movimento: R36     | 74 -> 10 
+Movimento: R95     | 10 -> 05 
+Movimento: R3      | 05 -> 08 
+Movimento: R92     | 08 -> 00 <-- ZERO
+Movimento: L11     | 00 -> 89 
+Movimento: L52     | 89 -> 37 
+Movimento: L57     | 37 -> 80 
+Movimento: R76     | 80 -> 56 
+Movimento: L56     | 56 -> 00 <-- ZERO
+Movimento: R85     | 00 -> 85 
+Movimento: R15     | 85 -> 00 <-- ZERO
+Movimento: R6      | 00 -> 06 
+Movimento: L21     | 06 -> 85 
+Movimento: L61     | 85 -> 24 
+Movimento: R21     | 24 -> 45 
+Movimento: R86     | 45 -> 31 
+Movimento: L43     | 31 -> 88 
+Movimento: L66     | 88 -> 22 
+Movimento: R46     | 22 -> 68 
+Movimento: L30     | 68 -> 38 
+Movimento: L689    | 38 -> 49 
+Movimento: R12     | 49 -> 61 
+Movimento: L11     | 61 -> 50 
+Movimento: R57     | 50 -> 07 
+Movimento: R66     | 07 -> 73 
+Movimento: R41     | 73 -> 14 
+Movimento: L69     | 14 -> 45 
+Movimento: L45     | 45 -> 00 <-- ZERO
+Movimento: R18     | 00 -> 18 
+Movimento: R679    | 18 -> 97 
+Movimento: L37     | 97 -> 60 
+Movimento: L652    | 60 -> 08 
+Movimento: R31     | 08 -> 39 
+Movimento: L96     | 39 -> 43 
+Movimento: L80     | 43 -> 63 
+Movimento: L963    | 63 -> 00 <-- ZERO
+Movimento: L24     | 00 -> 76 
+Movimento: R24     | 76 -> 00 <-- ZERO
+Movimento: R99     | 00 -> 99 
+Movimento: L4      | 99 -> 95 
+Movimento: L9      | 95 -> 86 
+Movimento: L86     | 86 -> 00 <-- ZERO
+Movimento: L74     | 00 -> 26 
+Movimento: R78     | 26 -> 04 
+Movimento: L38     | 04 -> 66 
+Movimento: R34     | 66 -> 00 <-- ZERO
+Movimento: L21     | 00 -> 79 
+Movimento: R21     | 79 -> 00 <-- ZERO
+Movimento: L554    | 00 -> 46 
+Movimento: R20     | 46 -> 66 
+Movimento: R133    | 66 -> 99 
+Movimento: L99     | 99 -> 00 <-- ZERO
+Movimento: R56     | 00 -> 56 
+Movimento: L556    | 56 -> 00 <-- ZERO
+Movimento: R539    | 00 -> 39 
+Movimento: L77     | 39 -> 62 
+Movimento: L1      | 62 -> 61 
+Movimento: L19     | 61 -> 42 
+Movimento: R380    | 42 -> 22 
+Movimento: R78     | 22 -> 00 <-- ZERO
+Movimento: R870    | 00 -> 70 
+Movimento: L368    | 70 -> 02 
+Movimento: L85     | 02 -> 17 
+Movimento: R86     | 17 -> 03 
+Movimento: R97     | 03 -> 00 <-- ZERO
+Movimento: L47     | 00 -> 53 
+Movimento: R47     | 53 -> 00 <-- ZERO
+Movimento: R981    | 00 -> 81 
+Movimento: R59     | 81 -> 40 
+Movimento: R75     | 40 -> 15 
+Movimento: R25     | 15 -> 40 
+Movimento: R60     | 40 -> 00 <-- ZERO
+Movimento: L87     | 00 -> 13 
+Movimento: L14     | 13 -> 99 
+Movimento: R501    | 99 -> 00 <-- ZERO
+Movimento: L9      | 00 -> 91 
+Movimento: R53     | 91 -> 44 
+Movimento: R56     | 44 -> 00 <-- ZERO
+Movimento: R97     | 00 -> 97 
+Movimento: R57     | 97 -> 54 
+Movimento: R921    | 54 -> 75 
+Movimento: L175    | 75 -> 00 <-- ZERO
+Movimento: L822    | 00 -> 78 
+Movimento: R22     | 78 -> 00 <-- ZERO
+Movimento: L908    | 00 -> 92 
+Movimento: L92     | 92 -> 00 <-- ZERO
+Movimento: L45     | 00 -> 55 
+Movimento: R45     | 55 -> 00 <-- ZERO
+Movimento: R28     | 00 -> 28 
+Movimento: L28     | 28 -> 00 <-- ZERO
+Movimento: L84     | 00 -> 16 
+Movimento: L85     | 16 -> 31 
+Movimento: L613    | 31 -> 18 
+Movimento: L85     | 18 -> 33 
+Movimento: L33     | 33 -> 00 <-- ZERO
+Movimento: L20     | 00 -> 80 
+Movimento: L964    | 80 -> 16 
+Movimento: L386    | 16 -> 30 
+Movimento: R70     | 30 -> 00 <-- ZERO
+Movimento: L6      | 00 -> 94 
+Movimento: R6      | 94 -> 00 <-- ZERO
+Movimento: R553    | 00 -> 53 
+Movimento: R73     | 53 -> 26 
+Movimento: R12     | 26 -> 38 
+Movimento: L13     | 38 -> 25 
+Movimento: L25     | 25 -> 00 <-- ZERO
+Movimento: R66     | 00 -> 66 
+Movimento: L45     | 66 -> 21 
+Movimento: L77     | 21 -> 44 
+Movimento: R56     | 44 -> 00 <-- ZERO
+Movimento: L4      | 00 -> 96 
+Movimento: R3      | 96 -> 99 
+Movimento: R97     | 99 -> 96 
+Movimento: R4      | 96 -> 00 <-- ZERO
+Movimento: L73     | 00 -> 27 
+Movimento: R72     | 27 -> 99 
+Movimento: L19     | 99 -> 80 
+Movimento: R16     | 80 -> 96 
+Movimento: L96     | 96 -> 00 <-- ZERO
+Movimento: L91     | 00 -> 09 
+Movimento: R76     | 09 -> 85 
+Movimento: R915    | 85 -> 00 <-- ZERO
+Movimento: L20     | 00 -> 80 
+Movimento: R78     | 80 -> 58 
+Movimento: R12     | 58 -> 70 
+Movimento: L70     | 70 -> 00 <-- ZERO
+Movimento: L35     | 00 -> 65 
+Movimento: R93     | 65 -> 58 
+Movimento: R99     | 58 -> 57 
+Movimento: R82     | 57 -> 39 
+Movimento: R61     | 39 -> 00 <-- ZERO
+Movimento: R70     | 00 -> 70 
+Movimento: L41     | 70 -> 29 
+Movimento: L94     | 29 -> 35 
+Movimento: L35     | 35 -> 00 <-- ZERO
+Movimento: L98     | 00 -> 02 
+Movimento: R370    | 02 -> 72 
+Movimento: R84     | 72 -> 56 
+Movimento: L28     | 56 -> 28 
+Movimento: L283    | 28 -> 45 
+Movimento: L991    | 45 -> 54 
+Movimento: R46     | 54 -> 00 <-- ZERO
+Movimento: L2      | 00 -> 98 
+Movimento: L34     | 98 -> 64 
+Movimento: L16     | 64 -> 48 
+Movimento: L12     | 48 -> 36 
+Movimento: R283    | 36 -> 19 
+Movimento: L840    | 19 -> 79 
+Movimento: L47     | 79 -> 32 
+Movimento: R31     | 32 -> 63 
+Movimento: L26     | 63 -> 37 
+Movimento: L89     | 37 -> 48 
+Movimento: L857    | 48 -> 91 
+Movimento: R53     | 91 -> 44 
+Movimento: R64     | 44 -> 08 
+Movimento: L208    | 08 -> 00 <-- ZERO
+Movimento: L28     | 00 -> 72 
+Movimento: L72     | 72 -> 00 <-- ZERO
+Movimento: R1      | 00 -> 01 
+Movimento: R99     | 01 -> 00 <-- ZERO
+Movimento: L16     | 00 -> 84 
+Movimento: R633    | 84 -> 17 
+Movimento: R4      | 17 -> 21 
+Movimento: L21     | 21 -> 00 <-- ZERO
+Movimento: R91     | 00 -> 91 
+Movimento: R609    | 91 -> 00 <-- ZERO
+Movimento: L704    | 00 -> 96 
+Movimento: L1      | 96 -> 95 
+Movimento: R98     | 95 -> 93 
+Movimento: L93     | 93 -> 00 <-- ZERO
+Movimento: L848    | 00 -> 52 
+Movimento: L32     | 52 -> 20 
+Movimento: L620    | 20 -> 00 <-- ZERO
+Movimento: R807    | 00 -> 07 
+Movimento: R793    | 07 -> 00 <-- ZERO
+Movimento: R64     | 00 -> 64 
+Movimento: R36     | 64 -> 00 <-- ZERO
+Movimento: L21     | 00 -> 79 
+Movimento: R21     | 79 -> 00 <-- ZERO
+Movimento: R70     | 00 -> 70 
+Movimento: L70     | 70 -> 00 <-- ZERO
+Movimento: R49     | 00 -> 49 
+Movimento: R251    | 49 -> 00 <-- ZERO
+Movimento: R31     | 00 -> 31 
+Movimento: R69     | 31 -> 00 <-- ZERO
+Movimento: R93     | 00 -> 93 
+Movimento: R87     | 93 -> 80 
+Movimento: R20     | 80 -> 00 <-- ZERO
+Movimento: R58     | 00 -> 58 
+Movimento: R234    | 58 -> 92 
+Movimento: R8      | 92 -> 00 <-- ZERO
+Movimento: R74     | 00 -> 74 
+Movimento: R1      | 74 -> 75 
+Movimento: L160    | 75 -> 15 
+Movimento: L669    | 15 -> 46 
+Movimento: R54     | 46 -> 00 <-- ZERO
+Movimento: R43     | 00 -> 43 
+Movimento: R96     | 43 -> 39 
+Movimento: R40     | 39 -> 79 
+Movimento: R588    | 79 -> 67 
+Movimento: L264    | 67 -> 03 
+Movimento: R97     | 03 -> 00 <-- ZERO
+Movimento: L17     | 00 -> 83 
+Movimento: R617    | 83 -> 00 <-- ZERO
+Movimento: R66     | 00 -> 66 
+Movimento: L9      | 66 -> 57 
+Movimento: L59     | 57 -> 98 
+Movimento: R3      | 98 -> 01 
+Movimento: R99     | 01 -> 00 <-- ZERO
+Movimento: L58     | 00 -> 42 
+Movimento: R53     | 42 -> 95 
+Movimento: R68     | 95 -> 63 
+Movimento: L63     | 63 -> 00 <-- ZERO
+Movimento: L48     | 00 -> 52 
+Movimento: R39     | 52 -> 91 
+Movimento: R85     | 91 -> 76 
+Movimento: R70     | 76 -> 46 
+Movimento: L80     | 46 -> 66 
+Movimento: R34     | 66 -> 00 <-- ZERO
+Movimento: L516    | 00 -> 84 
+Movimento: R686    | 84 -> 70 
+Movimento: R45     | 70 -> 15 
+Movimento: L15     | 15 -> 00 <-- ZERO
+Movimento: R63     | 00 -> 63 
+Movimento: R37     | 63 -> 00 <-- ZERO
+Movimento: L428    | 00 -> 72 
+Movimento: R94     | 72 -> 66 
+Movimento: R68     | 66 -> 34 
+Movimento: L53     | 34 -> 81 
+Movimento: L81     | 81 -> 00 <-- ZERO
+Movimento: L956    | 00 -> 44 
+Movimento: L46     | 44 -> 98 
+Movimento: L59     | 98 -> 39 
+Movimento: R261    | 39 -> 00 <-- ZERO
+Movimento: L807    | 00 -> 93 
+Movimento: L77     | 93 -> 16 
+Movimento: L80     | 16 -> 36 
+Movimento: L23     | 36 -> 13 
+Movimento: L35     | 13 -> 78 
+Movimento: R22     | 78 -> 00 <-- ZERO
+Movimento: L20     | 00 -> 80 
+Movimento: L480    | 80 -> 00 <-- ZERO
+Movimento: L493    | 00 -> 07 
+Movimento: R23     | 07 -> 30 
+Movimento: L30     | 30 -> 00 <-- ZERO
+Movimento: R96     | 00 -> 96 
+Movimento: L29     | 96 -> 67 
+Movimento: R133    | 67 -> 00 <-- ZERO
+Movimento: L90     | 00 -> 10 
+Movimento: R30     | 10 -> 40 
+Movimento: R89     | 40 -> 29 
+Movimento: R71     | 29 -> 00 <-- ZERO
+Movimento: R42     | 00 -> 42 
+Movimento: R73     | 42 -> 15 
+Movimento: L385    | 15 -> 30 
+Movimento: R870    | 30 -> 00 <-- ZERO
+Movimento: L3      | 00 -> 97 
+Movimento: R3      | 97 -> 00 <-- ZERO
+Movimento: L13     | 00 -> 87 
+Movimento: R6      | 87 -> 93 
+Movimento: L493    | 93 -> 00 <-- ZERO
+Movimento: R22     | 00 -> 22 
+Movimento: L15     | 22 -> 07 
+Movimento: L7      | 07 -> 00 <-- ZERO
+Movimento: R51     | 00 -> 51 
+Movimento: R49     | 51 -> 00 <-- ZERO
+Movimento: R585    | 00 -> 85 
+Movimento: L185    | 85 -> 00 <-- ZERO
+Movimento: L37     | 00 -> 63 
+Movimento: R77     | 63 -> 40 
+Movimento: R123    | 40 -> 63 
+Movimento: L87     | 63 -> 76 
+Movimento: R24     | 76 -> 00 <-- ZERO
+Movimento: L26     | 00 -> 74 
+Movimento: R16     | 74 -> 90 
+Movimento: L374    | 90 -> 16 
+Movimento: R23     | 16 -> 39 
+Movimento: L892    | 39 -> 47 
+Movimento: R17     | 47 -> 64 
+Movimento: R36     | 64 -> 00 <-- ZERO
+Movimento: R12     | 00 -> 12 
+Movimento: L181    | 12 -> 31 
+Movimento: R44     | 31 -> 75 
+Movimento: L54     | 75 -> 21 
+Movimento: R79     | 21 -> 00 <-- ZERO
+Movimento: R4      | 00 -> 04 
+Movimento: R26     | 04 -> 30 
+Movimento: L95     | 30 -> 35 
+Movimento: L35     | 35 -> 00 <-- ZERO
+Movimento: R296    | 00 -> 96 
+Movimento: R4      | 96 -> 00 <-- ZERO
+Movimento: L22     | 00 -> 78 
+Movimento: L78     | 78 -> 00 <-- ZERO
+Movimento: R80     | 00 -> 80 
+Movimento: R39     | 80 -> 19 
+Movimento: L55     | 19 -> 64 
+Movimento: R66     | 64 -> 30 
+Movimento: R89     | 30 -> 19 
+Movimento: L719    | 19 -> 00 <-- ZERO
+Movimento: L448    | 00 -> 52 
+Movimento: L638    | 52 -> 14 
+Movimento: R337    | 14 -> 51 
+Movimento: R49     | 51 -> 00 <-- ZERO
+Movimento: L99     | 00 -> 01 
+Movimento: R138    | 01 -> 39 
+Movimento: R52     | 39 -> 91 
+Movimento: R83     | 91 -> 74 
+Movimento: L96     | 74 -> 78 
+Movimento: L13     | 78 -> 65 
+Movimento: R17     | 65 -> 82 
+Movimento: R27     | 82 -> 09 
+Movimento: R91     | 09 -> 00 <-- ZERO
+Movimento: R667    | 00 -> 67 
+Movimento: R91     | 67 -> 58 
+Movimento: L58     | 58 -> 00 <-- ZERO
+Movimento: L759    | 00 -> 41 
+Movimento: L41     | 41 -> 00 <-- ZERO
+Movimento: R97     | 00 -> 97 
+Movimento: R231    | 97 -> 28 
+Movimento: L65     | 28 -> 63 
+Movimento: L71     | 63 -> 92 
+Movimento: L76     | 92 -> 16 
+Movimento: L22     | 16 -> 94 
+Movimento: R6      | 94 -> 00 <-- ZERO
+Movimento: L90     | 00 -> 10 
+Movimento: R51     | 10 -> 61 
+Movimento: L28     | 61 -> 33 
+Movimento: R30     | 33 -> 63 
+Movimento: L63     | 63 -> 00 <-- ZERO
+Movimento: R8      | 00 -> 08 
+Movimento: R43     | 08 -> 51 
+Movimento: R334    | 51 -> 85 
+Movimento: R94     | 85 -> 79 
+Movimento: L33     | 79 -> 46 
+Movimento: R75     | 46 -> 21 
+Movimento: L472    | 21 -> 49 
+Movimento: L5      | 49 -> 44 
+Movimento: R14     | 44 -> 58 
+Movimento: R28     | 58 -> 86 
+Movimento: R914    | 86 -> 00 <-- ZERO
+Movimento: L717    | 00 -> 83 
+Movimento: L55     | 83 -> 28 
+Movimento: L89     | 28 -> 39 
+Movimento: R68     | 39 -> 07 
+Movimento: L55     | 07 -> 52 
+Movimento: L776    | 52 -> 76 
+Movimento: R75     | 76 -> 51 
+Movimento: R49     | 51 -> 00 <-- ZERO
+Movimento: R99     | 00 -> 99 
+Movimento: R99     | 99 -> 98 
+Movimento: R4      | 98 -> 02 
+Movimento: R898    | 02 -> 00 <-- ZERO
+Movimento: R67     | 00 -> 67 
+Movimento: L34     | 67 -> 33 
+Movimento: R67     | 33 -> 00 <-- ZERO
+Movimento: R758    | 00 -> 58 
+Movimento: R90     | 58 -> 48 
+Movimento: L92     | 48 -> 56 
+Movimento: R43     | 56 -> 99 
+Movimento: L79     | 99 -> 20 
+Movimento: R114    | 20 -> 34 
+Movimento: L22     | 34 -> 12 
+Movimento: R687    | 12 -> 99 
+Movimento: R78     | 99 -> 77 
+Movimento: R23     | 77 -> 00 <-- ZERO
+Movimento: R63     | 00 -> 63 
+Movimento: R95     | 63 -> 58 
+Movimento: R27     | 58 -> 85 
+Movimento: R5      | 85 -> 90 
+Movimento: R10     | 90 -> 00 <-- ZERO
+Movimento: R86     | 00 -> 86 
+Movimento: L67     | 86 -> 19 
+Movimento: R30     | 19 -> 49 
+Movimento: L7      | 49 -> 42 
+Movimento: R42     | 42 -> 84 
+Movimento: L949    | 84 -> 35 
+Movimento: L35     | 35 -> 00 <-- ZERO
+Movimento: L14     | 00 -> 86 
+Movimento: R292    | 86 -> 78 
+Movimento: L371    | 78 -> 07 
+Movimento: R93     | 07 -> 00 <-- ZERO
+Movimento: R43     | 00 -> 43 
+Movimento: R57     | 43 -> 00 <-- ZERO
+Movimento: R52     | 00 -> 52 
+Movimento: L92     | 52 -> 60 
+Movimento: R318    | 60 -> 78 
+Movimento: L17     | 78 -> 61 
+Movimento: L73     | 61 -> 88 
+Movimento: L88     | 88 -> 00 <-- ZERO
+Movimento: R14     | 00 -> 14 
+Movimento: L518    | 14 -> 96 
+Movimento: R72     | 96 -> 68 
+Movimento: R724    | 68 -> 92 
+Movimento: R10     | 92 -> 02 
+Movimento: L80     | 02 -> 22 
+Movimento: R74     | 22 -> 96 
+Movimento: R145    | 96 -> 41 
+Movimento: L92     | 41 -> 49 
+Movimento: L99     | 49 -> 50 
+Movimento: R98     | 50 -> 48 
+Movimento: L48     | 48 -> 00 <-- ZERO
+Movimento: R85     | 00 -> 85 
+Movimento: L85     | 85 -> 00 <-- ZERO
+Movimento: L440    | 00 -> 60 
+Movimento: L5      | 60 -> 55 
+Movimento: R7      | 55 -> 62 
+Movimento: R663    | 62 -> 25 
+Movimento: L125    | 25 -> 00 <-- ZERO
+Movimento: L92     | 00 -> 08 
+Movimento: L8      | 08 -> 00 <-- ZERO
+Movimento: L26     | 00 -> 74 
+Movimento: R26     | 74 -> 00 <-- ZERO
+Movimento: R96     | 00 -> 96 
+Movimento: R79     | 96 -> 75 
+Movimento: R25     | 75 -> 00 <-- ZERO
+Movimento: R50     | 00 -> 50 
+Movimento: L50     | 50 -> 00 <-- ZERO
+Movimento: R32     | 00 -> 32 
+Movimento: L32     | 32 -> 00 <-- ZERO
+Movimento: R71     | 00 -> 71 
+Movimento: R72     | 71 -> 43 
+Movimento: R2      | 43 -> 45 
+Movimento: R42     | 45 -> 87 
+Movimento: R13     | 87 -> 00 <-- ZERO
+Movimento: L84     | 00 -> 16 
+Movimento: L23     | 16 -> 93 
+Movimento: L47     | 93 -> 46 
+Movimento: L337    | 46 -> 09 
+Movimento: R91     | 09 -> 00 <-- ZERO
+Movimento: R66     | 00 -> 66 
+Movimento: L66     | 66 -> 00 <-- ZERO
+Movimento: L17     | 00 -> 83 
+Movimento: L318    | 83 -> 65 
+Movimento: L46     | 65 -> 19 
+Movimento: R316    | 19 -> 35 
+Movimento: R52     | 35 -> 87 
+Movimento: R70     | 87 -> 57 
+Movimento: L135    | 57 -> 22 
+Movimento: L22     | 22 -> 00 <-- ZERO
+Movimento: R34     | 00 -> 34 
+Movimento: L34     | 34 -> 00 <-- ZERO
+Movimento: L41     | 00 -> 59 
+Movimento: L18     | 59 -> 41 
+Movimento: R86     | 41 -> 27 
+Movimento: L426    | 27 -> 01 
+Movimento: L84     | 01 -> 17 
+Movimento: R513    | 17 -> 30 
+Movimento: L1      | 30 -> 29 
+Movimento: R22     | 29 -> 51 
+Movimento: L16     | 51 -> 35 
+Movimento: R298    | 35 -> 33 
+Movimento: L33     | 33 -> 00 <-- ZERO
+Movimento: R39     | 00 -> 39 
+Movimento: L639    | 39 -> 00 <-- ZERO
+Movimento: R68     | 00 -> 68 
+Movimento: L134    | 68 -> 34 
+Movimento: R66     | 34 -> 00 <-- ZERO
+Movimento: L62     | 00 -> 38 
+Movimento: R79     | 38 -> 17 
+Movimento: L17     | 17 -> 00 <-- ZERO
+Movimento: R42     | 00 -> 42 
+Movimento: R58     | 42 -> 00 <-- ZERO
+Movimento: R82     | 00 -> 82 
+Movimento: L82     | 82 -> 00 <-- ZERO
+Movimento: L76     | 00 -> 24 
+Movimento: L207    | 24 -> 17 
+Movimento: L9      | 17 -> 08 
+Movimento: R92     | 08 -> 00 <-- ZERO
+Movimento: R99     | 00 -> 99 
+Movimento: R1      | 99 -> 00 <-- ZERO
+Movimento: L41     | 00 -> 59 
+Movimento: R79     | 59 -> 38 
+Movimento: R351    | 38 -> 89 
+Movimento: R11     | 89 -> 00 <-- ZERO
+Movimento: R730    | 00 -> 30 
+Movimento: R70     | 30 -> 00 <-- ZERO
+Movimento: R18     | 00 -> 18 
+Movimento: L18     | 18 -> 00 <-- ZERO
+Movimento: R19     | 00 -> 19 
+Movimento: R61     | 19 -> 80 
+Movimento: R976    | 80 -> 56 
+Movimento: L137    | 56 -> 19 
+Movimento: R834    | 19 -> 53 
+Movimento: L53     | 53 -> 00 <-- ZERO
+Movimento: L741    | 00 -> 59 
+Movimento: R763    | 59 -> 22 
+Movimento: L15     | 22 -> 07 
+Movimento: R48     | 07 -> 55 
+Movimento: L90     | 55 -> 65 
+Movimento: R52     | 65 -> 17 
+Movimento: L550    | 17 -> 67 
+Movimento: L90     | 67 -> 77 
+Movimento: R23     | 77 -> 00 <-- ZERO
+Movimento: R184    | 00 -> 84 
+Movimento: R953    | 84 -> 37 
+Movimento: L37     | 37 -> 00 <-- ZERO
+Movimento: R89     | 00 -> 89 
+Movimento: L89     | 89 -> 00 <-- ZERO
+Movimento: L775    | 00 -> 25 
+Movimento: R8      | 25 -> 33 
+Movimento: R67     | 33 -> 00 <-- ZERO
+Movimento: R78     | 00 -> 78 
+Movimento: R22     | 78 -> 00 <-- ZERO
+Movimento: L392    | 00 -> 08 
+Movimento: L80     | 08 -> 28 
+Movimento: L28     | 28 -> 00 <-- ZERO
+Movimento: L30     | 00 -> 70 
+Movimento: L41     | 70 -> 29 
+Movimento: L82     | 29 -> 47 
+Movimento: L372    | 47 -> 75 
+Movimento: L175    | 75 -> 00 <-- ZERO
+Movimento: R69     | 00 -> 69 
+Movimento: L69     | 69 -> 00 <-- ZERO
+Movimento: L90     | 00 -> 10 
+Movimento: R71     | 10 -> 81 
+Movimento: L52     | 81 -> 29 
+Movimento: R49     | 29 -> 78 
+Movimento: L878    | 78 -> 00 <-- ZERO
+Movimento: R76     | 00 -> 76 
+Movimento: L57     | 76 -> 19 
+Movimento: L23     | 19 -> 96 
+Movimento: L85     | 96 -> 11 
+Movimento: R82     | 11 -> 93 
+Movimento: L73     | 93 -> 20 
+Movimento: L20     | 20 -> 00 <-- ZERO
+Movimento: R81     | 00 -> 81 
+Movimento: L18     | 81 -> 63 
+Movimento: R17     | 63 -> 80 
+Movimento: R46     | 80 -> 26 
+Movimento: L44     | 26 -> 82 
+Movimento: L82     | 82 -> 00 <-- ZERO
+Movimento: L67     | 00 -> 33 
+Movimento: R2      | 33 -> 35 
+Movimento: L10     | 35 -> 25 
+Movimento: R9      | 25 -> 34 
+Movimento: R66     | 34 -> 00 <-- ZERO
+Movimento: L680    | 00 -> 20 
+Movimento: L39     | 20 -> 81 
+Movimento: R60     | 81 -> 41 
+Movimento: R59     | 41 -> 00 <-- ZERO
+Movimento: L65     | 00 -> 35 
+Movimento: R479    | 35 -> 14 
+Movimento: L73     | 14 -> 41 
+Movimento: R59     | 41 -> 00 <-- ZERO
+Movimento: R51     | 00 -> 51 
+Movimento: L57     | 51 -> 94 
+Movimento: R206    | 94 -> 00 <-- ZERO
+Movimento: L89     | 00 -> 11 
+Movimento: L65     | 11 -> 46 
+Movimento: L88     | 46 -> 58 
+Movimento: R31     | 58 -> 89 
+Movimento: R39     | 89 -> 28 
+Movimento: L28     | 28 -> 00 <-- ZERO
+Movimento: R135    | 00 -> 35 
+Movimento: R665    | 35 -> 00 <-- ZERO
+Movimento: L36     | 00 -> 64 
+Movimento: R37     | 64 -> 01 
+Movimento: L95     | 01 -> 06 
+Movimento: R20     | 06 -> 26 
+Movimento: R38     | 26 -> 64 
+Movimento: L853    | 64 -> 11 
+Movimento: R89     | 11 -> 00 <-- ZERO
+Movimento: L298    | 00 -> 02 
+Movimento: L2      | 02 -> 00 <-- ZERO
+Movimento: L6      | 00 -> 94 
+Movimento: R6      | 94 -> 00 <-- ZERO
+Movimento: L49     | 00 -> 51 
+Movimento: R5      | 51 -> 56 
+Movimento: L56     | 56 -> 00 <-- ZERO
+Movimento: R27     | 00 -> 27 
+Movimento: R73     | 27 -> 00 <-- ZERO
+Movimento: R249    | 00 -> 49 
+Movimento: R56     | 49 -> 05 
+Movimento: L120    | 05 -> 85 
+Movimento: R23     | 85 -> 08 
+Movimento: R97     | 08 -> 05 
+Movimento: L105    | 05 -> 00 <-- ZERO
+Movimento: R28     | 00 -> 28 
+Movimento: R389    | 28 -> 17 
+Movimento: R49     | 17 -> 66 
+Movimento: L36     | 66 -> 30 
+Movimento: R76     | 30 -> 06 
+Movimento: L6      | 06 -> 00 <-- ZERO
+Movimento: R43     | 00 -> 43 
+Movimento: L543    | 43 -> 00 <-- ZERO
+Movimento: R366    | 00 -> 66 
+Movimento: R76     | 66 -> 42 
+Movimento: R57     | 42 -> 99 
+Movimento: L61     | 99 -> 38 
+Movimento: R62     | 38 -> 00 <-- ZERO
+Movimento: R554    | 00 -> 54 
+Movimento: R96     | 54 -> 50 
+Movimento: R250    | 50 -> 00 <-- ZERO
+Movimento: L27     | 00 -> 73 
+Movimento: R82     | 73 -> 55 
+Movimento: R745    | 55 -> 00 <-- ZERO
+Movimento: L266    | 00 -> 34 
+Movimento: L34     | 34 -> 00 <-- ZERO
+Movimento: R2      | 00 -> 02 
+Movimento: R51     | 02 -> 53 
+Movimento: R5      | 53 -> 58 
+Movimento: R42     | 58 -> 00 <-- ZERO
+Movimento: L21     | 00 -> 79 
+Movimento: L480    | 79 -> 99 
+Movimento: R101    | 99 -> 00 <-- ZERO
+Movimento: R932    | 00 -> 32 
+Movimento: R810    | 32 -> 42 
+Movimento: L5      | 42 -> 37 
+Movimento: R232    | 37 -> 69 
+Movimento: R373    | 69 -> 42 
+Movimento: L42     | 42 -> 00 <-- ZERO
+Movimento: R68     | 00 -> 68 
+Movimento: L12     | 68 -> 56 
+Movimento: L30     | 56 -> 26 
+Movimento: R74     | 26 -> 00 <-- ZERO
+Movimento: L35     | 00 -> 65 
+Movimento: L65     | 65 -> 00 <-- ZERO
+Movimento: R63     | 00 -> 63 
+Movimento: R452    | 63 -> 15 
+Movimento: L67     | 15 -> 48 
+Movimento: L95     | 48 -> 53 
+Movimento: R465    | 53 -> 18 
+Movimento: L75     | 18 -> 43 
+Movimento: L23     | 43 -> 20 
+Movimento: R62     | 20 -> 82 
+Movimento: L82     | 82 -> 00 <-- ZERO
+Movimento: L877    | 00 -> 23 
+Movimento: R90     | 23 -> 13 
+Movimento: R53     | 13 -> 66 
+Movimento: L60     | 66 -> 06 
+Movimento: L6      | 06 -> 00 <-- ZERO
+Movimento: R81     | 00 -> 81 
+Movimento: R926    | 81 -> 07 
+Movimento: L192    | 07 -> 15 
+Movimento: R85     | 15 -> 00 <-- ZERO
+Movimento: L10     | 00 -> 90 
+Movimento: L17     | 90 -> 73 
+Movimento: L97     | 73 -> 76 
+Movimento: L98     | 76 -> 78 
+Movimento: R59     | 78 -> 37 
+Movimento: L49     | 37 -> 88 
+Movimento: R73     | 88 -> 61 
+Movimento: L61     | 61 -> 00 <-- ZERO
+Movimento: L25     | 00 -> 75 
+Movimento: R84     | 75 -> 59 
+Movimento: L59     | 59 -> 00 <-- ZERO
+Movimento: R76     | 00 -> 76 
+Movimento: R79     | 76 -> 55 
+Movimento: L6      | 55 -> 49 
+Movimento: L69     | 49 -> 80 
+Movimento: L99     | 80 -> 81 
+Movimento: L38     | 81 -> 43 
+Movimento: R64     | 43 -> 07 
+Movimento: L7      | 07 -> 00 <-- ZERO
+Movimento: L49     | 00 -> 51 
+Movimento: L93     | 51 -> 58 
+Movimento: L58     | 58 -> 00 <-- ZERO
+Movimento: R59     | 00 -> 59 
+Movimento: R41     | 59 -> 00 <-- ZERO
+Movimento: R77     | 00 -> 77 
+Movimento: L86     | 77 -> 91 
+Movimento: R9      | 91 -> 00 <-- ZERO
+Movimento: R68     | 00 -> 68 
+Movimento: R32     | 68 -> 00 <-- ZERO
+Movimento: R20     | 00 -> 20 
+Movimento: L20     | 20 -> 00 <-- ZERO
+Movimento: R44     | 00 -> 44 
+Movimento: R95     | 44 -> 39 
+Movimento: R83     | 39 -> 22 
+Movimento: R89     | 22 -> 11 
+Movimento: L14     | 11 -> 97 
+Movimento: L97     | 97 -> 00 <-- ZERO
+Movimento: L15     | 00 -> 85 
+Movimento: R68     | 85 -> 53 
+Movimento: R69     | 53 -> 22 
+Movimento: L7      | 22 -> 15 
+Movimento: R73     | 15 -> 88 
+Movimento: L15     | 88 -> 73 
+Movimento: L56     | 73 -> 17 
+Movimento: R74     | 17 -> 91 
+Movimento: L91     | 91 -> 00 <-- ZERO
+Movimento: R43     | 00 -> 43 
+Movimento: R47     | 43 -> 90 
+Movimento: L40     | 90 -> 50 
+Movimento: R50     | 50 -> 00 <-- ZERO
+Movimento: R44     | 00 -> 44 
+Movimento: R56     | 44 -> 00 <-- ZERO
+Movimento: L61     | 00 -> 39 
+Movimento: L18     | 39 -> 21 
+Movimento: L21     | 21 -> 00 <-- ZERO
+Movimento: R69     | 00 -> 69 
+Movimento: R31     | 69 -> 00 <-- ZERO
+Movimento: L71     | 00 -> 29 
+Movimento: L29     | 29 -> 00 <-- ZERO
+Movimento: L27     | 00 -> 73 
+Movimento: L73     | 73 -> 00 <-- ZERO
+Movimento: L61     | 00 -> 39 
+Movimento: R75     | 39 -> 14 
+Movimento: R86     | 14 -> 00 <-- ZERO
+Movimento: L90     | 00 -> 10 
+Movimento: R32     | 10 -> 42 
+Movimento: L26     | 42 -> 16 
+Movimento: L3      | 16 -> 13 
+Movimento: R46     | 13 -> 59 
+Movimento: L38     | 59 -> 21 
+Movimento: L18     | 21 -> 03 
+Movimento: R36     | 03 -> 39 
+Movimento: R7      | 39 -> 46 
+Movimento: R21     | 46 -> 67 
+Movimento: R6      | 67 -> 73 
+Movimento: R19     | 73 -> 92 
+Movimento: R43     | 92 -> 35 
+Movimento: R1      | 35 -> 36 
+Movimento: R17     | 36 -> 53 
+Movimento: R13     | 53 -> 66 
+Movimento: L17     | 66 -> 49 
+Movimento: R3      | 49 -> 52 
+Movimento: L35     | 52 -> 17 
+Movimento: L31     | 17 -> 86 
+Movimento: L45     | 86 -> 41 
+Movimento: L1      | 41 -> 40 
+Movimento: L31     | 40 -> 09 
+Movimento: L44     | 09 -> 65 
+Movimento: L43     | 65 -> 22 
+Movimento: L23     | 22 -> 99 
+Movimento: L2      | 99 -> 97 
+Movimento: R9      | 97 -> 06 
+Movimento: R7      | 06 -> 13 
+Movimento: L35     | 13 -> 78 
+Movimento: L12     | 78 -> 66 
+Movimento: L5      | 66 -> 61 
+Movimento: R35     | 61 -> 96 
+Movimento: R5      | 96 -> 01 
+Movimento: R23     | 01 -> 24 
+Movimento: R32     | 24 -> 56 
+Movimento: L43     | 56 -> 13 
+Movimento: L23     | 13 -> 90 
+Movimento: L36     | 90 -> 54 
+Movimento: R8      | 54 -> 62 
+Movimento: R23     | 62 -> 85 
+Movimento: R4      | 85 -> 89 
+Movimento: L25     | 89 -> 64 
+Movimento: L49     | 64 -> 15 
+Movimento: R43     | 15 -> 58 
+Movimento: R37     | 58 -> 95 
+Movimento: R47     | 95 -> 42 
+Movimento: L38     | 42 -> 04 
+Movimento: L9      | 04 -> 95 
+Movimento: R18     | 95 -> 13 
+Movimento: R10     | 13 -> 23 
+================================
+PASSWORD (vezes que parou em 0): 1152
